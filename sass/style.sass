@@ -221,21 +221,36 @@ footer
 	overflow: auto
 	overflow-y: hidden
 	-webkit-perspective: 1000
-	&::webkit-scrollbar element
+	text-align: center		
+	position: relative
+	&::-webkit-scrollbar
 		background: transparent
+	&::-webkit-scrollbar:vertical
+		width: 0.375em
+	&::-webkit-scrollbar:horizontal
+		height: 1.125em
+	&::-webkit-scrollbar-thumb
+		background: #CCC
+		border: 0 solid #CCC
+	&::-webkit-scrollbar-thumb:hover
+		background: #AAA
+	&::-webkit-scrollbar-thumb:horizontal
+		border-width: 3px
 	.cards-canvas
 		padding: 15px
 		white-space: nowrap
+		text-align: center
 	.card
 		border: none
-		position: relative
 		background: #FFF
 		width: 250px
 		height: 300px
 		display: inline-block
-		float: left
 		margin-right: 20px
 		position: relative
+		white-space: normal
+		vertical-align: top
+		overflow: hidden
 		&.bearing
 			background: #c31b32
 			.card-image
