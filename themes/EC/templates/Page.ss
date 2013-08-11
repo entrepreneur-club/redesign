@@ -25,7 +25,7 @@
                     <li class="$LinkOrCurrent"><a href="#$URLSegment">$MenuTitle</a></li>
                 <% end_loop %>
  --%>
-            <li><a href="#about-us">About Us</a></li>
+            <li class="current"><a href="#about-us">About Us</a></li>
             <li><a href="#events">Events</a></li>
             <li><a href="#advisors-and-sponsors">Advisors &amp; Sponsors</a></li>
             <li><a href="#join">Join</a></li>
@@ -41,7 +41,7 @@
     <section class="image-slider">
         <ul class="slider">
             <li>
-                <div class="slide" style="background-image: url(images/HD-Landscape-Wallpaper1.jpg);">
+                <div class="slide" style="background-image: url($ThemeDir/images/HD-Landscape-Wallpaper1.jpg);">
                 <div class="row slider-message-row">
                     <div class="slider-message large-5">
                         <h2>Meet Zurich Entrepreneurs</h2>
@@ -52,7 +52,7 @@
                 </div>
             </div>
             </li>
-            <li><div class="slide" style="background-image: url(images/quai.jpg);">
+            <li><div class="slide" style="background-image: url($ThemeDir/images/quai.jpg);">
                 <div class="row slider-message-row">
                     <div class="slider-message large-5">
                         <h2>Innovators since 1873</h2>
@@ -109,16 +109,129 @@
     </section>
     <section class="events-section with-divider" id="events">
         <div class="row">
-            <div class="large-12 ">
+            <div class="large-12 columns ">
                 <h1>Our Events</h1>
             </div>
-            <div class="large-12 ">
+            <div class="large-12 columns">
                 <ul class="events-nav" id="events-accordion">
-                    <li><a href="">Lunch Pitch <span class="event-date">12.8.2013</span> <span class="entypo-right-open-big right"></span></a>
+
+                    <li><a href="">General Assembly <span class="event-date">24.9.2013, 17.00, ieLab</span> <span class="entypo-right-open-big right"></span></a>
                     <div class="row event-description">
                         <div class="large-5 columns event-picture">
-                            <img src="images/lunch.jpg">
-                            <a class="button centered" href="facebook.com">View Event on Facebook</a>
+                            <img src="$ThemeDir/images/ga.jpg">
+                            <a class="button centered" href="http://www.facebook.com/events/697977936885283/">View Event on Facebook</a>
+                        </div>
+                        <div class="large-7 columns">
+                        
+                        <p>At the general assembly of the spring semester 2013, we will elect the new executive committee, discuss and vote on the budget and other club matters, and excite you about the upcoming events!
+                        </p>
+                        </div></div>
+                    </li>
+                    <li><a href="">Kick Off <span class="event-date">24.9.2013, 18.00</span> <span class="entypo-right-open-big right"></span></a>
+                    <div class="row event-description">
+                        <div class="large-5 columns event-picture">
+                            <img src="$ThemeDir/images/kickoff.jpg">
+                            <a class="button centered" href="http://www.facebook.com/events/697977936885283/">View Event on Facebook</a>
+                        </div>
+                        <div class="large-7 columns">
+                        
+                        <p>The Entrepreneur Club is dedicated to bring you the best entrepreneurial events in Zurich! 
+
+We will launch into an exciting semester at our Kickoff Event with highly interesting speakers.
+
+Details to follow.
+                        </p>
+                        </div></div>
+                    </li>
+
+                    <li><a href="">Meet the founder of... <span class="event-date">3.10.2013</span> <span class="entypo-right-open-big right"></span></a>
+                    <div class="row event-description">
+                        <div class="large-5 columns event-picture">
+                            <a class="button centered" href="http://www.facebook.com/events/526387480749728/">View Event on Facebook</a>
+                        </div>
+                        <div class="large-7 columns">
+                        
+                        <p>Our new "Meet the founder of..." series is the perfect opportunity to learn from entrepreneurs who have successfully launched a business. Good execution is as important as good ideas; so come, listen, ask questions and soak up as much experience as you can.                        </p>
+                        </div></div>
+                    </li>
+                    <li><a href="">Lunch Pitch <span class="event-date">8.10.2013</span> <span class="entypo-right-open-big right"></span></a>
+                    <div class="row event-description">
+                        <div class="large-5 columns event-picture">
+                            <img src="$ThemeDir/images/lunch.jpg">
+                            <a class="button centered" href="http://www.facebook.com/events/548680738527957/">View Event on Facebook</a>
+                        </div>
+                        <div class="large-7 columns">
+                        
+                        <p> Our monthly lunch pitches are an opportunity for students to present their business ideas in an informal setting and to receive valuable feedback. For this series of events, we partnered with Climate-KIC, which sponsors the sandwiches. No registration is required for normal participants. However, setting and updating your attendance status on Facebook helps us to organize the right amount of food!  </p>
+                        <p>
+                            At most three persons can present their business idea in front of the audience. Each presenter gets five minutes for pitching his or her early stage project, which will be followed by a moderated Q&A session of another five minutes. The first three people that write the name of their project on the wall of this event can present their idea. The presenters have to use slides with the following content.
+                        </p>
+                        <p>
+                            <ul>
+                                <li>Problem (What is the problem you try to solve?)</li>
+                                <li>Solution (How do you solve this problem?)</li>
+                                <li>Innovation (Why is your solution better than others?)</li>
+                                <li>Business Model (How will you earn money? Who are your customers and partners?)</li>
+                                <li>Climate and Social Impact (How does your business idea affect our society and the environment?)</li>
+                            </ul>
+                        </p>
+                        </div></div>
+                    </li>
+                    <li><a href="">Startup Tour Centralway, Centralway<span class="event-date">3.10.2013</span> <span class="entypo-right-open-big right"></span></a>
+                    <div class="row event-description">
+                        <div class="large-5 columns event-picture">
+                            <a class="button centered" href="http://www.facebook.com/events/197956253703126/">View Event on Facebook</a>
+                        </div>
+                        <div class="large-7 columns">
+                        
+                        <p>Come and visit some up-and-coming startups! This exciting tour will give you an inside view of the operations of young companies.
+                        </p>
+                        </div></div>
+                    </li>
+
+                    <li><a href="">Hackathon<span class="event-date">3.10.2013, Swisscom Pfingsweidstrasse 51</span><span class="entypo-right-open-big right"></span></a>
+                    <div class="row event-description">
+                        <div class="large-5 columns event-picture">
+                            <img src="$ThemeDir/images/hackathon.jpg">
+                            <a class="button centered" href="http://www.facebook.com/events/197956253703126/">View Event on Facebook</a>
+                        </div>
+                        <div class="large-7 columns">
+                        
+                        <p>Join us for our most awesome Hackathon yet!
+                        </p><p>
+                        In 24 hours we will try to go from vision to code and create working programs. The only limit is your imagination.
+                        </p>
+                        </div></div>
+                    </li>
+
+                    <li><a href="">Lunch Pitch <span class="event-date">12.11.2013</span> <span class="entypo-right-open-big right"></span></a>
+                    <div class="row event-description">
+                        <div class="large-5 columns event-picture">
+                            <img src="$ThemeDir/images/lunch.jpg">
+                            <a class="button centered" href="http://www.facebook.com/events/586375491408884/">View Event on Facebook</a>
+                        </div>
+                        <div class="large-7 columns">
+                        
+                        <p> Our monthly lunch pitches are an opportunity for students to present their business ideas in an informal setting and to receive valuable feedback. For this series of events, we partnered with Climate-KIC, which sponsors the sandwiches. No registration is required for normal participants. However, setting and updating your attendance status on Facebook helps us to organize the right amount of food!  </p>
+                        <p>
+                            At most three persons can present their business idea in front of the audience. Each presenter gets five minutes for pitching his or her early stage project, which will be followed by a moderated Q&A session of another five minutes. The first three people that write the name of their project on the wall of this event can present their idea. The presenters have to use slides with the following content.
+                        </p>
+                        <p>
+                            <ul>
+                                <li>Problem (What is the problem you try to solve?)</li>
+                                <li>Solution (How do you solve this problem?)</li>
+                                <li>Innovation (Why is your solution better than others?)</li>
+                                <li>Business Model (How will you earn money? Who are your customers and partners?)</li>
+                                <li>Climate and Social Impact (How does your business idea affect our society and the environment?)</li>
+                            </ul>
+                        </p>
+                        </div></div>
+                    </li>
+                    <li><a href="">Lunch Pitch <span class="event-date">10.12.2013</span> <span class="entypo-right-open-big right"></span></a>
+                    <div class="row event-description">
+                        <div class="large-5 columns event-picture">
+                            <img src="$ThemeDir/images/lunch.jpg">
+                            <a class="button centered" href="http://www.facebook.com/events/505774622844131/">View Event on Facebook</a>
                         </div>
                         <div class="large-7 columns">
                         
@@ -192,13 +305,16 @@
     <section class="with-divider advisories" id="advisors-and-sponsors">
         <div class="row">
             <div class="large-12 columns">
-                <h1>Advisories and Sponsors</h1>
+                <h1>Advisors</h1>
+                <p>The Executive Committee is supported in its activities by the Advisory Board on one hand and sponsors on the other.
+The Advisory Board consists of representatives of ETH Zurich and the startup community, as well as venture capitalists. They assist the Executive Committee with defining the strategic direction of the club.
+</p>
             </div>
             <div class="large-12 columns">
-                <ul class="large-block-grid-4">
+                <ul class="large-block-grid-3">
                     <li>
-                        <div class="card">
-                        <img src="images/siegwart.jpg" alt="">
+                        <div class="person-card">
+                            <div class="person-image" style="background-image: url($ThemeDir/images/siegwart.jpg)"></div>
                         <div>
                             <h4>Prof. Dr. Roland Y. Siegwart</h4>
                             <p>Vice President Research and Corporate Relations ETH Zürich</p>
@@ -206,8 +322,8 @@
                         </div>
                     </li>
                     <li>
-                        <div class="card">
-                        <img src="images/hoelling.jpg" alt="">
+                        <div class="person-card">
+                            <div class="person-image" style="background-image: url($ThemeDir/images/hoelling.jpg)"></div>
                         <div>
                             <h4>Dr. Matthias Hölling</h4>
                             <p>ETH Transfer</p>
@@ -215,8 +331,8 @@
                         </div>
                     </li>
                     <li>
-                        <div class="card">
-                        <img src="images/lesley3.jpg" alt="">
+                        <div class="person-card">
+                            <div class="person-image" style="background-image: url($ThemeDir/images/spiegel2.jpg)"></div>
                         <div>
                             <h4>Lesley Spiegel</h4>
                             <p>Entrepreneur and Start-up Coach</p>
@@ -224,18 +340,36 @@
                         </div>
                     </li>
                     <li>
-                        <div class="card">
-                        <img src="images/illic.jpeg" alt="">
+                        <div class="person-card">
+                            <div class="person-image" style="background-image: url($ThemeDir/images/illic3.jpg)"></div>
                         <div>
                             <h4>Dr. Alexander Ilic</h4>
                             <p>Founder, CTO, and Chairman of the Board of Dacuda</p>
                         </div>
                         </div>
                     </li>
+                    <li>
+                        <div class="person-card">
+                            <div class="person-image" style="background-image: url($ThemeDir/images/mark-small.jpg)"></div>
+                        <div>
+                            <h4>Mark Schmitz</h4>
+                            <p>Partner &amp; General Counsel, Lakestar</p>
+                        </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="person-card">
+                            <div class="person-image" style="background-image: url($ThemeDir/images/grolimund.jpg)"></div>
+                        <div>
+                            <h4>Dominik Grolimund</h4>
+                            <p>Entrepreneur</p>
+                        </div>
+                        </div>
+                    </li>
                 </ul>
             </div>
         </div>
-        <div class="big-information">
+<%--         <div class="big-information">
             <div class="row">
                 <div class="large-4 columns">
                     <h3>Roland Siegwart</h3>
@@ -249,6 +383,12 @@
     Roland Siegwart is a board member of the European Network of Robotics (EURON), and served as Vice President for Technical Activities (2004/05) and is currently Distinguished Lecturer (2006/07) of the IEEE Robotics and Automation Society. Recently he has been appointed as Member of the Swiss Academy of Engineering Sciences and the -Bewilligungsausschuss Exzellenzinitiative- of the Deutsche Forschungsgemeinschaft (DFG).
                     </p>
                 </div>
+            </div>
+ --%>        </div>
+        <div class="row">
+            <div class="large-12 columns">
+                <h1>Sponsors</h1>
+                <p>Our sponsors are a constant source of financial and other help... Interested in becoming a sponsor? Just contact us at <a href="mailto:info@entrepreneur-club.org">info@entrepreneur-club.org</a></p>
             </div>
         </div>
         <div class="cards">
@@ -332,19 +472,23 @@
                 </form>
             </div>
             <div class="large-6 columns">
-                <div class="newsletter-big-icon entypo-newspaper">
+                <div class="newsletter-teaser">
+                    <img src="$ThemeDir/images/teaser.jpg" alt="">
                 </div>
-                <h1>Newsletter</h1>
+                <h3>Why join?</h3>
                 <p>
-                    Subscribe to our newsletters!
+                    Do you share our passion for entrepreneurship? Are you interested in being kept informed of our events? Would you like to connect with our community of entrepreneurial-minded people? Then join the Entrepreneur Club now, it’s free!
                 </p>
+                <p>
+                    Find us on: <a href="http://www.facebook.com/entrepreneur.club.zurich">Facebook</a>, <a href="https://twitter.com/ec_zurich">Twitter</a> and <a href="http://www.linkedin.com/groups/Entrepreneur-Club-Zurich-5091410">LinkedIn</a>.</p>
+
             </div>
         </div>
     </section>
     <section class="with-divider" id="contact">
         <div class="row">
-            <div class="large-12"><h1>Contact</h1></div>
-            <div class="large-12">
+            <div class="large-12 columns"><h1>Contact</h1></div>
+            <div class="large-12 columns">
                 <p>
                     <h4>Address</h4>
                     <p>Entrepreneur Club Zurich <br>
