@@ -7,7 +7,7 @@ $shiny-edge-size: 0 0 0
 $primary-color: #E01B3F
 @import "foundation/scss/foundation.scss"
 @import url(http://weloveiconfonts.com/api/?family=entypo)
-
+$zurbbreak: 767px
 body
 	background: #FFF
 	font-family: 'Source Sans Pro', sans-serif
@@ -55,6 +55,12 @@ body
 	@include block-grid(3, 0, true)
 	border-bottom: 1px solid #CCC
 	li
+		@media screen and (max-width: 960px)
+			font-size: 16px
+		@media screen and (max-width: 760px)
+			font-size: 14px
+		.hide-for-small
+			display: inline !important
 		text-align: center
 		font-size: 22px
 		line-height: 2.5
@@ -117,7 +123,7 @@ body
 
 .with-divider
 	border-top: 1px solid #CCC
-	width: 90%
+	// width: 90%
 	margin: 50px auto
 
 .events-section
@@ -135,6 +141,10 @@ body
 			margin: 0
 			font-weight: bold
 			line-height: 2.5
+			@media screen and (max-width: 768px)
+				font-size: 1em
+				line-height: 1.2
+				padding: 5px 0
 			font-size: 1.3em
 			border-bottom: 1px solid #333
 			// padding-bottom: 5px
@@ -346,6 +356,9 @@ footer
 		width: 100%
 		font-weight: 600
 		line-height: 1.2
+
+.map
+	border: 1px solid #333
 
 .newsletter-teaser
 	margin-top: 30px

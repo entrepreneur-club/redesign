@@ -46,18 +46,18 @@
                     <div class="slider-message large-5">
                         <h2>Meet Zurich Entrepreneurs</h2>
                         <p>
-                        Join one of our monthly lunch pitches to see what our community is working on. Fascinating ideas... Lorem ipsum dolor sit amet.
+                        Join one of our monthly lunch pitches to see what our community is working on!
                         </p>
                     </div>
                 </div>
             </div>
             </li>
-            <li><div class="slide" style="background-image: url($ThemeDir/images/quai.jpg);">
+            <li><div class="slide" style="background-image: url($ThemeDir/images/ssd.jpg);">
                 <div class="row slider-message-row">
                     <div class="slider-message large-5">
-                        <h2>Innovators since 1873</h2>
+                        <h2>Join us for the Startup Speed Dating</h2>
                         <p>
-                        This should be some really nice text.
+                        To learn more about zurich's most interesting startups.
                         </p>
                     </div>
                 </div>
@@ -78,9 +78,9 @@
     <section>
         <div class="row super-row">
             <ul class="like-blocks">
-                <li><a href=""><span class="mr10 entypo-facebook"></span> Like on Facebook</a></li>
-                <li><a href=""><span class="mr10 entypo-twitter"></span> Follow @ec_zurich on Twitter</a></li>
-                <li><a href=""><span class="mr10 entypo-newspaper"></span> Subscribe to our newsletter(s)</a></li>
+                <li><a href="http://www.facebook.com/entrepreneur.club.zurich" target="_blank"><span class="mr10 entypo-facebook"></span> Like <span class="hide-for-small">on Facebook</span></a></li>
+                <li><a href="https://twitter.com/ec_zurich"><span class="mr10 entypo-twitter"></span> Follow <span class="hide-for-small">@ec_zurich on Twitter</span></a></li>
+                <li><a href="#join"><span class="mr10 entypo-newspaper"></span> Subscribe <span class="hide-for-small">to our newsletter(s)</span></a></li>
             </ul>
         </div>
     </section>
@@ -493,19 +493,22 @@ The Advisory Board consists of representatives of ETH Zurich and the startup com
                     <h4>Address</h4>
                     <p>Entrepreneur Club Zurich <br>
                         Rämistrasse 110 <br>
-                        <br>
-                        +41 12 232 31 21
+                        The office is inside the ieLab, Leonhardstrasse 27<br>
+                        8092 Zurich
+                        <br><br>
+                        <a href="mailto:info@entrepreneur-club.org">info@entrepreneur-club.org</a>
                     </p>
             </div>
 
+<%--         <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=zurich&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=56.987104,134.208984&amp;t=m&amp;ie=UTF8&amp;hq=&amp;hnear=Zurich,+Canton+of+Zurich,+Switzerland&amp;ll=47.375,8.539182&amp;spn=0.001508,0.004096&amp;z=14&amp;output=embed"></iframe>
+ --%>        <iframe class="map" width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps?sll=37.06247089791764,-95.76033965511533&amp;sspn=77.79184476486371,103.78840065388714&amp;t=m&amp;q=Leonhardstrasse+27,+8092+Z%C3%BCrich&amp;dg=opt&amp;ie=UTF8&amp;hq=&amp;hnear=Leonhardstrasse,+8092+Z%C3%BCrich,+Switzerland&amp;ll=47.386,8.546221&amp;spn=0.002272,0.005845&amp;z=14&amp;output=embed"></iframe>
         </div>
-<%--         <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=zurich&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=56.987104,134.208984&amp;t=m&amp;ie=UTF8&amp;hq=&amp;hnear=Zurich,+Canton+of+Zurich,+Switzerland&amp;ll=47.36865,8.539182&amp;spn=0.001508,0.004096&amp;z=14&amp;output=embed"></iframe>
- --%>    </section>
+    </section>
     <footer>
         <div class="row">
             <div class="large-8 columns">
                 <div class="logo-white"></div>
-                <div class="row">
+<%--                 <div class="row">
                     <div class="large-6 columns">
                         <ul>
                             <li><a href="">Home</a></li>
@@ -523,16 +526,16 @@ The Advisory Board consists of representatives of ETH Zurich and the startup com
                         </ul>
                     </div>
                 </div>
-            </div>
+ --%>            </div>
             <div class="large-4 columns">
-                <h4>
+<%--                 <h4>
                     Latest Blog Posts
                 </h4>
                 <ul>
                     <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, alias ad quasi laborum dolor in cupiditate doloribus aspernatur numquam iusto! <span class="entypo-right-open-big"></span></li>
                     <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati, assumenda, molestias, omnis et qui officia totam quibusdam nobis odio provident molestiae sed debitis officiis excepturi accusamus illo natus repellat placeat?<span class="entypo-right-open-big"></span></li>
                 </ul>
-            </div>
+ --%>            </div>
         </div>
 </body>
 </html>
