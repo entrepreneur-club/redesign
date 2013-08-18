@@ -9,3 +9,4 @@ silverstripe-cache
 .DS_Store
 vendor/
 composer.lock
+.sass-cache/*

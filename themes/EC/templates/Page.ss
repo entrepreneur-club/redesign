@@ -10,33 +10,26 @@
     
 </head>
 <body>
-    <div class="fixed">
-        <nav class="top-bar">
-            <div class="row">
-                <div class="large-12 columns">
-            <ul class="title-area">
-                <li class="name"><h1><a href=""><img class="logo" src="$ThemeDir/images/logo.png" alt=""></a></h1></li>
-            </ul>
-            <section class="top-bar-section">
-            <ul class="right" id="scrolltomenu">
-
-
-<%--                 <% loop Menu(1) %>
-                    <li class="$LinkOrCurrent"><a href="#$URLSegment">$MenuTitle</a></li>
-                <% end_loop %>
- --%>
-            <li class="current"><a href="#about-us">About Us</a></li>
-            <li><a href="#events">Events</a></li>
-            <li><a href="#advisors-and-sponsors">Advisors &amp; Sponsors</a></li>
-            <li><a href="#join">Join</a></li>
-            <li><a href="#contact">Contact</a></li>
-
-
-             </ul>
-            </section>
+    <div class="fixed"  id="mainmenu-row">
+        <div class="row">
+            <div class="large-12 columns">
+                <nav class="top-bar">
+                <ul class="title-area">
+                    <li class="name"><h1><a href=""><img class="logo" src="$ThemeDir/images/logo.png" alt=""></a></h1></li>
+                    <li class="toggle-topbar menu-icon"><a href=""><span>Menu</span></a></li>
+                </ul>
+                <section class="top-bar-section">
+                <ul class="right" id="scrolltomenu">
+                    <li class="current"><a href="#about-us">About Us</a></li>
+                    <li><a href="#events">Events</a></li>
+                    <li><a href="#advisors-and-sponsors">Advisors &amp; Sponsors</a></li>
+                    <li><a href="#join">Join</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+                </section>
+            </nav>
         </div>
             </div>
-        </nav>
     </div>
     <section class="image-slider">
         <ul class="slider">
@@ -78,9 +71,9 @@
     <section>
         <div class="row super-row">
             <ul class="like-blocks">
-                <li><a href="http://www.facebook.com/entrepreneur.club.zurich" target="_blank"><span class="mr10 entypo-facebook"></span> Like <span class="hide-for-small">on Facebook</span></a></li>
-                <li><a href="https://twitter.com/ec_zurich"><span class="mr10 entypo-twitter"></span> Follow <span class="hide-for-small">@ec_zurich on Twitter</span></a></li>
-                <li><a href="#join"><span class="mr10 entypo-newspaper"></span> Subscribe <span class="hide-for-small">to our newsletter(s)</span></a></li>
+                <li><a href="http://www.facebook.com/entrepreneur.club.zurich" target="_blank"><span class="mr10 entypo-facebook"></span> Like <span class="hide-for-small-span">on Facebook</span></a></li>
+                <li><a href="https://twitter.com/ec_zurich" target="_blank"><span class="mr10 entypo-twitter"></span> Follow <span class="hide-for-small-span">@ec_zurich on Twitter</span></a></li>
+                <li><a href="#join"><span class="mr10 entypo-newspaper"></span> Subscribe <span class="hide-for-small-span">to our newsletter(s)</span></a></li>
             </ul>
         </div>
     </section>
@@ -109,17 +102,20 @@
     </section>
     <section class="events-section with-divider" id="events">
         <div class="row">
-            <div class="large-12 columns ">
+            <div class="large-8 columns ">
                 <h1>Our Events</h1>
+            </div>
+            <div class="large-4 columns right-events-link">
+                <a class="right" href="http://www.facebook.com/entrepreneur.club.zurich/events" target="_blank">View on Facebook</a>
             </div>
             <div class="large-12 columns">
                 <ul class="events-nav" id="events-accordion">
 
-                    <li><a href="">General Assembly <span class="event-date">24.9.2013, 17.00, ieLab</span> <span class="entypo-right-open-big right"></span></a>
+                    <li>General Assembly <span class="event-date">24.9.2013, 17.00, ieLab</span> <span class="entypo-right-open-big right"></span>
                     <div class="row event-description">
                         <div class="large-5 columns event-picture">
                             <img src="$ThemeDir/images/ga.jpg">
-                            <a class="button centered" href="http://www.facebook.com/events/697977936885283/">View Event on Facebook</a>
+                            <a class="button centered" target="_blank" href="http://www.facebook.com/events/697977936885283/">View Event on Facebook</a>
                         </div>
                         <div class="large-7 columns">
                         
@@ -127,11 +123,11 @@
                         </p>
                         </div></div>
                     </li>
-                    <li><a href="">Kick Off <span class="event-date">24.9.2013, 18.00</span> <span class="entypo-right-open-big right"></span></a>
+                    <li>Kick Off <span class="event-date">24.9.2013, 18.00</span> <span class="entypo-right-open-big right"></span>
                     <div class="row event-description">
                         <div class="large-5 columns event-picture">
                             <img src="$ThemeDir/images/kickoff.jpg">
-                            <a class="button centered" href="http://www.facebook.com/events/697977936885283/">View Event on Facebook</a>
+                            <a class="button centered" href="http://www.facebook.com/events/593118700731910/" target="_blank" >View Event on Facebook</a>
                         </div>
                         <div class="large-7 columns">
                         
@@ -144,21 +140,20 @@ Details to follow.
                         </div></div>
                     </li>
 
-                    <li><a href="">Meet the founder of... <span class="event-date">3.10.2013</span> <span class="entypo-right-open-big right"></span></a>
+                    <li>Meet the founder of... <span class="event-date">3.10.2013</span> <span class="entypo-right-open-big right"></span>
                     <div class="row event-description">
                         <div class="large-5 columns event-picture">
-                            <a class="button centered" href="http://www.facebook.com/events/526387480749728/">View Event on Facebook</a>
+                            <a class="button centered" href="http://www.facebook.com/events/526387480749728/" target="_blank">View Event on Facebook</a>
                         </div>
                         <div class="large-7 columns">
-                        
-                        <p>Our new "Meet the founder of..." series is the perfect opportunity to learn from entrepreneurs who have successfully launched a business. Good execution is as important as good ideas; so come, listen, ask questions and soak up as much experience as you can.                        </p>
+                        <p>Our new "Meet the founder of..." series is the perfect opportunity to learn from entrepreneurs who have successfully launched a business. Good execution is as important as good ideas; so come, listen, ask questions and soak up as much experience as you can.</p>
                         </div></div>
                     </li>
                     <li><a href="">Lunch Pitch <span class="event-date">8.10.2013</span> <span class="entypo-right-open-big right"></span></a>
                     <div class="row event-description">
                         <div class="large-5 columns event-picture">
                             <img src="$ThemeDir/images/lunch.jpg">
-                            <a class="button centered" href="http://www.facebook.com/events/548680738527957/">View Event on Facebook</a>
+                            <a class="button centered" href="http://www.facebook.com/events/548680738527957/" target="_blank">View Event on Facebook</a>
                         </div>
                         <div class="large-7 columns">
                         
@@ -177,10 +172,10 @@ Details to follow.
                         </p>
                         </div></div>
                     </li>
-                    <li><a href="">Startup Tour Centralway, Centralway<span class="event-date">3.10.2013</span> <span class="entypo-right-open-big right"></span></a>
+                    <li>Startup Tour Centralway, Centralway<span class="event-date">16.10.2013</span> <span class="entypo-right-open-big right"></span>
                     <div class="row event-description">
                         <div class="large-5 columns event-picture">
-                            <a class="button centered" href="http://www.facebook.com/events/197956253703126/">View Event on Facebook</a>
+                            <a class="button centered" href="http://www.facebook.com/events/197956253703126/" target="_blank">View Event on Facebook</a>
                         </div>
                         <div class="large-7 columns">
                         
@@ -189,11 +184,11 @@ Details to follow.
                         </div></div>
                     </li>
 
-                    <li><a href="">Hackathon<span class="event-date">3.10.2013, Swisscom Pfingsweidstrasse 51</span><span class="entypo-right-open-big right"></span></a>
+                    <li><a href="">Hackathon<span class="event-date">25.10.2013, Swisscom Pfingsweidstrasse 51</span><span class="entypo-right-open-big right"></span></a>
                     <div class="row event-description">
                         <div class="large-5 columns event-picture">
                             <img src="$ThemeDir/images/hackathon.jpg">
-                            <a class="button centered" href="http://www.facebook.com/events/197956253703126/">View Event on Facebook</a>
+                            <a class="button centered" href="http://www.facebook.com/events/188622814642193/" target="_blank">View Event on Facebook</a>
                         </div>
                         <div class="large-7 columns">
                         
@@ -204,11 +199,11 @@ Details to follow.
                         </div></div>
                     </li>
 
-                    <li><a href="">Lunch Pitch <span class="event-date">12.11.2013</span> <span class="entypo-right-open-big right"></span></a>
+                    <li>Lunch Pitch <span class="event-date">12.11.2013</span> <span class="entypo-right-open-big right"></span>
                     <div class="row event-description">
                         <div class="large-5 columns event-picture">
                             <img src="$ThemeDir/images/lunch.jpg">
-                            <a class="button centered" href="http://www.facebook.com/events/586375491408884/">View Event on Facebook</a>
+                            <a class="button centered" href="http://www.facebook.com/events/586375491408884/" target="_blank">View Event on Facebook</a>
                         </div>
                         <div class="large-7 columns">
                         
@@ -227,6 +222,41 @@ Details to follow.
                         </p>
                         </div></div>
                     </li>
+                    <li>Startup Speed Dating <span class="event-date">21.11.2013</span><span class="entypo-right-open-big right"></span>
+                    <div class="row event-description">
+                        <div class="large-5 columns event-picture">
+                            <img src="$ThemeDir/images/ssd.jpg">
+                            <a class="button centered" target="_blank" href="http://www.facebook.com/events/691301354217229/">View Event on Facebook</a>
+                        </div>
+                        <div class="large-7 columns">
+                        
+                        <p> Our monthly lunch pitches are an opportunity for students to present their business ideas in an informal setting and to receive valuable feedback. For this series of events, we partnered with Climate-KIC, which sponsors the sandwiches. No registration is required for normal participants. However, setting and updating your attendance status on Facebook helps us to organize the right amount of food!  </p>
+                        <p>
+                            At most three persons can present their business idea in front of the audience. Each presenter gets five minutes for pitching his or her early stage project, which will be followed by a moderated Q&A session of another five minutes. The first three people that write the name of their project on the wall of this event can present their idea. The presenters have to use slides with the following content.
+                        </p>
+                        <p>
+                            <ul>
+                                <li>Problem (What is the problem you try to solve?)</li>
+                                <li>Solution (How do you solve this problem?)</li>
+                                <li>Innovation (Why is your solution better than others?)</li>
+                                <li>Business Model (How will you earn money? Who are your customers and partners?)</li>
+                                <li>Climate and Social Impact (How does your business idea affect our society and the environment?)</li>
+                            </ul>
+                        </p>
+                        </div></div>
+                    </li>
+                    <li>Meet the founder of BIOVERSYS<span class="event-date">28.11.2013</span> <span class="entypo-right-open-big right"></span>
+                    <div class="row event-description">
+                        <div class="large-5 columns event-picture">
+                            <a class="button centered" href="http://www.facebook.com/events/694269217266788/" target="_blank">View Event on Facebook</a>
+                        </div>
+                        <div class="large-7 columns">
+                        <p>Our new "Meet the founder of..." series is the perfect opportunity to learn from entrepreneurs who have successfully launched a business. Good execution is as important as good ideas; so come, listen, ask questions and soak up as much experience as you can!</p>
+                        <p>This time, Marc Gitzinger will present his biopharmaceutical company BIOVERSYS. The Basel based private company spun out of the ETH Zurich in 2008. It focuses on research and the development of new drugs and compounds, which switch-off drug resistance within bacterial pathogens and restore the efficacy of approved antibiotics.</p>
+                        <p>You got interested? You want to know more of how you build your own biotech company? Or are you just curious what it is like to work in a small start-up? Then join us on the 28th of November at Hönggerberg!</p>
+                        </div></div>
+                    </li>
+
                     <li><a href="">Lunch Pitch <span class="event-date">10.12.2013</span> <span class="entypo-right-open-big right"></span></a>
                     <div class="row event-description">
                         <div class="large-5 columns event-picture">
@@ -250,54 +280,6 @@ Details to follow.
                         </p>
                         </div></div>
                     </li>
-                    <li><a href="">Startup Speed Dating <span class="event-date">24.8.2013</span><span class="entypo-right-open-big right"></span></a>
-                    <div class="row event-description">
-                        <div class="large-5 columns event-picture">
-                            <img src="images/lunch.jpg">
-                            <a class="button centered" href="facebook.com">View Event on Facebook</a>
-                        </div>
-                        <div class="large-7 columns">
-                        
-                        <p> Our monthly lunch pitches are an opportunity for students to present their business ideas in an informal setting and to receive valuable feedback. For this series of events, we partnered with Climate-KIC, which sponsors the sandwiches. No registration is required for normal participants. However, setting and updating your attendance status on Facebook helps us to organize the right amount of food!  </p>
-                        <p>
-                            At most three persons can present their business idea in front of the audience. Each presenter gets five minutes for pitching his or her early stage project, which will be followed by a moderated Q&A session of another five minutes. The first three people that write the name of their project on the wall of this event can present their idea. The presenters have to use slides with the following content.
-                        </p>
-                        <p>
-                            <ul>
-                                <li>Problem (What is the problem you try to solve?)</li>
-                                <li>Solution (How do you solve this problem?)</li>
-                                <li>Innovation (Why is your solution better than others?)</li>
-                                <li>Business Model (How will you earn money? Who are your customers and partners?)</li>
-                                <li>Climate and Social Impact (How does your business idea affect our society and the environment?)</li>
-                            </ul>
-                        </p>
-                        </div></div>
-                    </li>
-                    <li><a href="">Hackathon <span class="event-date">1.9.2013</span> <span class="entypo-right-open-big right"></span></a>
-                    <div class="row event-description">
-                        <div class="large-5 columns event-picture">
-                            <img src="images/lunch.jpg">
-                            <a class="button centered" href="facebook.com">View Event on Facebook</a>
-                        </div>
-                        <div class="large-7 columns">
-                        
-                        <p> Our monthly lunch pitches are an opportunity for students to present their business ideas in an informal setting and to receive valuable feedback. For this series of events, we partnered with Climate-KIC, which sponsors the sandwiches. No registration is required for normal participants. However, setting and updating your attendance status on Facebook helps us to organize the right amount of food!  </p>
-                        <p>
-                            At most three persons can present their business idea in front of the audience. Each presenter gets five minutes for pitching his or her early stage project, which will be followed by a moderated Q&A session of another five minutes. The first three people that write the name of their project on the wall of this event can present their idea. The presenters have to use slides with the following content.
-                        </p>
-                        <p>
-                            <ul>
-                                <li>Problem (What is the problem you try to solve?)</li>
-                                <li>Solution (How do you solve this problem?)</li>
-                                <li>Innovation (Why is your solution better than others?)</li>
-                                <li>Business Model (How will you earn money? Who are your customers and partners?)</li>
-                                <li>Climate and Social Impact (How does your business idea affect our society and the environment?)</li>
-                            </ul>
-                        </p>
-                        </div></div>
-                    </li>
-                    <li><a href="">Meet the founder of Dacuda <span class="event-date">16.9.2013</span> <span class="entypo-right-open-big right"></span></a></li>
-                    <li><a href="">Lunch Pitch <span class="event-date">26.9.2013</span> <span class="entypo-right-open-big right"></span></a></li>
                 </ul>
             </div>
         </div>
@@ -429,11 +411,10 @@ The Advisory Board consists of representatives of ETH Zurich and the startup com
             <div class="large-6 columns">
                 <h1>Join</h1>
                 <p>Become a Member of the Entrepreneur Club and receive our newsletter!</p>
-                <form action="" id="member-form">
+                <form action="http://entrepreneur-club.us6.list-manage1.com/subscribe/post?u=ae86c94391&amp;id=336123add6" method="post" id="member-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                     <h2>Membership / Newsletter</h2>
                 <!-- Begin MailChimp Signup Form -->
                 <div id="mc_embed_signup">
-                <form action="http://entrepreneur-club.us6.list-manage1.com/subscribe/post?u=ae86c94391&amp;id=336123add6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                
                 <div class="mc-field-group">
                     <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>

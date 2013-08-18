@@ -1,15 +1,16 @@
+$(document).foundation();
+
 $(document).ready(function() {
     $('.slider').bxSlider({auto: true, easing: "ease-in-out", useCSS: true, mode: 'fade'});
 
     var allPanels = $("#events-accordion .event-description").hide();
     var scrollkeeperblocker = false;
-    $("#events-accordion li").click(function(e) {
-        if($(this).hasClass("active")) return true;
+    $("#events-accordion li").click(function(e) {       
 
-        allPanels.slideUp();
-        $("#events-accordion .active").removeClass("active");
-        $(".event-description", this).slideDown();
-        $(this).addClass("active");
+        // allPanels.slideUp();
+        // $("#events-accordion .active").removeClass("active");
+        $(".event-description", this).slideToggle();
+        // $(this).addClass("active");
         return false;
     });
     var offsets = [];

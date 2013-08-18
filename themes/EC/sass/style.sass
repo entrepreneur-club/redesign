@@ -4,6 +4,14 @@ $topbar-height: 4em
 $body-font-family: 'Source Sans Pro', sans-serif
 $header-font-family: $body-font-family
 $shiny-edge-size: 0 0 0
+
+$topbar-menu-link-color: #333
+$topbar-menu-icon-color: #333
+$topbar-menu-link-color-toggled: #E01B3F
+$topbar-menu-icon-color-toggled: #E01B3F
+
+
+
 $primary-color: #E01B3F
 @import "foundation/scss/foundation.scss"
 @import url(http://weloveiconfonts.com/api/?family=entypo)
@@ -19,6 +27,9 @@ body
 
 .fixed
 	z-index: 1000
+#mainmenu-row
+	background: #FFF
+
 .top-bar
 	margin: 0
 	// +box-shadow(0 0 16px rgba(#000, 0.8))
@@ -41,6 +52,23 @@ body
 		+box-shadow(inset 0 -4px 0 0px #C00)
 	.name h1
 		line-height: 0
+	@media screen and (max-width: 939px)
+		ul.right li > a
+			color: #000
+			line-height: 2.5em
+			font-size: 1.3em
+			background: #FFF
+			padding: 0
+			border-bottom: 1px solid #CCC
+		ul.right li
+			border: none
+			&:first-child
+				border: none
+		ul.right li.current a
+			+box-shadow(none)
+			+background-image(none)
+		.name h1
+			line-height: 0
 
 .logo
 	width: 200px
@@ -59,8 +87,8 @@ body
 			font-size: 16px
 		@media screen and (max-width: 760px)
 			font-size: 14px
-		.hide-for-small
-			display: inline !important
+			.hide-for-small-span
+				display: none !important
 		text-align: center
 		font-size: 22px
 		line-height: 2.5
@@ -158,6 +186,9 @@ body
 			.entypo-right-open-big
 				+transition(all 0.5s)
 				margin-right: 3px
+	.right-events-link
+		margin-top: 30px
+		display: block
 .event-picture
 	img
 		border: 2px solid #333
@@ -250,7 +281,46 @@ footer
 		z-index: 10
 		background: $primary-color
 		padding: 10px
-        
+@media screen and (max-width: 954px)
+	.large-block-grid-3
+		li
+			width: 50%
+			position: relative
+	.person-card
+		position: relative
+		height: 350px
+		.person-image
+			height: 260px
+			background-position: center center
+			background-repeat: no-repeat
+			+background-size(cover)
+			margin: 0
+			padding: 0
+			z-index: 0
+		img
+			width: 100%
+		h4
+			font-size: 1.2em
+			line-height: 1
+		p
+			font-size: 0.9em
+			color: darken($primary-color, 30%)
+			width: 100%
+			margin: 0
+			line-height: 1.2
+		& > div
+			width: 100%
+			position: absolute
+			bottom: 0
+			z-index: 10
+			background: $primary-color
+			padding: 10px
+@media screen and (max-width: 380px)
+	.large-block-grid-3
+		li
+			width: 100%
+
+
 .big-information
 	padding: 10px
 	background: #F0F0F0

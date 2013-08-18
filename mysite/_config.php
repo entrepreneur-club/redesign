@@ -11,3 +11,5 @@ require_once("conf/ConfigureFromEnv.php");
 
 
 SSViewer::setOption('rewriteHashlinks', false);
+
+Requirements::set_suffix_requirements(false);
