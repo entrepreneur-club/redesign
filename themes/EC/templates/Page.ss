@@ -83,25 +83,26 @@
                 <h1>The Entrepreneur Club</h1>
             </div>
             <div class="large-6 columns">
+                <div class="content">
                 <p> The Entrepreneur Club is a student initiative at <a title="ETH Zurich" href="http://www.ethz.ch/index_EN" target="_blank">ETH Zurich</a> to bring entrepreneurial-minded people together and to foster entrepreneurship among students. Through <a title="Events" href="/events/">startup events</a> and our community, we provide a platform to develop ideas, build teams and exchange experience. Find more details in our constitution.
 				<p> Founded in 2011, the club has consistently enjoyed rapid growth, and currently counts over 400 members.  Although it specifically targets students of the ETH Zurich, the Entrepreneur Club welcomes anyone with entrepreneurial zeal and an interest in creativity and innovation. Like us on <a title="Facebook" href="https://www.facebook.com/entrepreneur.club.zurich" target="_blank">Facebook</a> to be informed about upcoming events or sign up as a <a title="Join Us" href="/join/">member</a> in order to receive our official newsletter by e-mail.</p>
-				<p>The Executive Committee, pictured on the right, consists of passionate students at ETH Zurich:
+				<p>The Executive Committee, pictured on the right, consists of passionate students at ETH Zurich: </p>
 				<ul>
-										<li>Gereon Sommer, President <br/> gereon.sommer@entrepreneur-club.org</li>
-										<li>Daniel Meile, Vice-President <br/> daniel.meile@entrepreneur-club.org</li>
-										<li>Benedikt Seitz, Events <br/> benedikt.seitz@entrepreneur-club.org</li>
-										<li>Nikolay Kobyshev, Events <br/> nikolay.kobyshev@entrepreneur-club.org</li>
-										<li>Yannick Dienst, Finance <br/> yannick.dienst@entrepreneur-club.org</li>
-										<li>Atanas Stankov, Members <br/> atanas.stankov@entrepreneur-club.org</li>
-										<li>Laurent Oberholzer, Public Relations <br/> laurent.oberholzer@entrepreneur-club.org</li>
-										<li>Nikolaus Krall, Life Science <br/> nikolaus.krall@entrepreneur-club.org</li>
-										<li>Jonathan Müller, IT <br/> jonathan.mueller@entrepreneur-club.org</li>
-										<li>Wolf Vollprecht, Hackathon <br/> wolf.vollprecht@entrepreneur-club.org</li>
+					<li>Gereon Sommer, President <br/> gereon.sommer@entrepreneur-club.org</li>
+					<li>Daniel Meile, Vice-President <br/> daniel.meile@entrepreneur-club.org</li>
+					<li>Benedikt Seitz, Events <br/> benedikt.seitz@entrepreneur-club.org</li>
+					<li>Nikolay Kobyshev, Events <br/> nikolay.kobyshev@entrepreneur-club.org</li>
+					<li>Yannick Dienst, Finance <br/> yannick.dienst@entrepreneur-club.org</li>
+					<li>Atanas Stankov, Members <br/> atanas.stankov@entrepreneur-club.org</li>
+					<li>Laurent Oberholzer, Public Relations <br/> laurent.oberholzer@entrepreneur-club.org</li>
+					<li>Nikolaus Krall, Life Science <br/> nikolaus.krall@entrepreneur-club.org</li>
+					<li>Jonathan Müller, IT <br/> jonathan.mueller@entrepreneur-club.org</li>
+					<li>Wolf Vollprecht, Hackathon <br/> wolf.vollprecht@entrepreneur-club.org</li>
 				</ul>
-				</p>
+            </div>  
             </div>
             <div class="large-6 columns">
-                <img src="http://www.entrepreneur-club.org/wp-content/uploads/2013/03/ExecutiveCommittee_FS2013.jpg" alt="">
+                <img src="$ThemeDir/images/team.jpg" alt="">
                 <!--<h4>Old comittees</h4>
                 <p>
                     <ul class="side-nav">

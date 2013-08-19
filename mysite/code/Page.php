@@ -35,14 +35,14 @@ class Page_Controller extends ContentController {
 		// instead of putting Requirements calls here.  However these are 
 		// included so that our older themes still work
 
-		Requirements::combine_files("ec.js", [
+		Requirements::combine_files("ec.js", array(
 			"themes/EC/sass/foundation/js/vendor/jquery.js",
 			"themes/EC/sass/foundation/js/foundation/foundation.js",
 			"themes/EC/sass/foundation/js/foundation/foundation.topbar.js",
 			"themes/EC/js/jquery.easing.1.3.js",
 			"themes/EC/js/jquery.bxslider.js",
 			"themes/EC/js/ec.js"
-		]);
+		));
 	}
 
 }
