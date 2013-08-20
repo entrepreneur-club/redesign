@@ -390,14 +390,6 @@ Details to follow.
         </div>
         <div class="cards">
             <div class="cards-canvas">
-                <div class="card bearing">
-                    <div class="card-image"></div>
-                    <div class="card-description">Bearing Poing</div>
-                </div>
-                <div class="card rs">
-                    <div class="card-image"></div>
-                    <div class="card-description">Rollspeed</div>
-                </div>
                 <div class="card stu">
                     <div class="card-image"></div>
                     <div class="card-description">Startups.ch</div>
@@ -418,6 +410,20 @@ Details to follow.
                     <div class="card-image"></div>
                     <div class="card-description">Klimate KIC</div>
                 </div>
+                <div class="card evernote">
+                    <div class="card-image"></div>
+                    <div class="card-description">Evernote</div>
+                </div>
+
+                <div class="card rs">
+                    <div class="card-image"></div>
+                    <div class="card-description">Rollspeed</div>
+                </div>
+                <div class="card bearing">
+                    <div class="card-image"></div>
+                    <div class="card-description">Bearing Point</div>
+                </div>
+
             </div> 
         </div>
     </section>

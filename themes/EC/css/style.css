@@ -6896,55 +6896,63 @@ footer a {
 .cards .card.bearing .card-image {
   background-image: url('../images/bearing.png?1373617676');
 }
-/* line 387, ../sass/style.sass */
+/* line 386, ../sass/style.sass */
+.cards .card.evernote {
+  background: #b0da8f;
+}
+/* line 388, ../sass/style.sass */
+.cards .card.evernote .card-image {
+  background-image: url('../images/evernote_a.png?1376988439');
+}
+/* line 390, ../sass/style.sass */
 .cards .card.vlab {
   background: #f0f0f0;
 }
-/* line 389, ../sass/style.sass */
+/* line 392, ../sass/style.sass */
 .cards .card.vlab .card-image {
   background-image: url('../images/vlabre_logo.png?1373617480');
 }
-/* line 392, ../sass/style.sass */
+/* line 395, ../sass/style.sass */
 .cards .card.rs {
   background: #f1f1f1;
 }
-/* line 394, ../sass/style.sass */
+/* line 397, ../sass/style.sass */
 .cards .card.rs .card-image {
   background-image: url('../images/rs.png?1373617215');
 }
-/* line 396, ../sass/style.sass */
+/* line 399, ../sass/style.sass */
 .cards .card.stu {
   background: #c8beb7;
 }
-/* line 398, ../sass/style.sass */
+/* line 401, ../sass/style.sass */
 .cards .card.stu .card-image {
   background-image: url('../images/startups_s.png?1373619101');
 }
-/* line 400, ../sass/style.sass */
+/* line 403, ../sass/style.sass */
 .cards .card.stf {
   background: #0073e5;
 }
-/* line 402, ../sass/style.sass */
+/* line 405, ../sass/style.sass */
 .cards .card.stf .card-image {
   background-image: url('../images/standort_zuerich.png?1373619539');
 }
-/* line 404, ../sass/style.sass */
+/* line 407, ../sass/style.sass */
 .cards .card.stfu {
   background: #00b1f4;
 }
-/* line 406, ../sass/style.sass */
+/* line 409, ../sass/style.sass */
 .cards .card.stfu .card-image {
   background-image: url('../images/stifuntent.png?1373625186');
 }
-/* line 408, ../sass/style.sass */
+/* line 411, ../sass/style.sass */
 .cards .card.kic {
   background: #e2eaf4;
 }
-/* line 410, ../sass/style.sass */
+/* line 413, ../sass/style.sass */
 .cards .card.kic .card-image {
   background-image: url('../images/kic.png?1373625601');
 }
-/* line 412, ../sass/style.sass */
+/* line 415, ../sass/style.sass */
 .cards .card-image {
   width: 100%;
   height: 100%;
@@ -6955,7 +6963,7 @@ footer a {
   left: 0;
   margin: 0 auto;
 }
-/* line 422, ../sass/style.sass */
+/* line 425, ../sass/style.sass */
 .cards .card-description {
   margin: 0;
   position: absolute;
@@ -6970,16 +6978,16 @@ footer a {
   line-height: 1.2;
 }
 
-/* line 435, ../sass/style.sass */
+/* line 438, ../sass/style.sass */
 .map {
   border: 1px solid #333333;
 }
 
-/* line 438, ../sass/style.sass */
+/* line 441, ../sass/style.sass */
 .newsletter-teaser {
   margin-top: 30px;
 }
-/* line 440, ../sass/style.sass */
+/* line 443, ../sass/style.sass */
 .newsletter-teaser img {
   width: 100%;
 }
