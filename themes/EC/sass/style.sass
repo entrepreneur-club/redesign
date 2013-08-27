@@ -1,0 +1,444 @@
+@import "compass/css3"
+$topbar-bg: #FFF
+$topbar-height: 4em
+$body-font-family: 'Source Sans Pro', sans-serif
+$header-font-family: $body-font-family
+$shiny-edge-size: 0 0 0
+
+$topbar-menu-link-color: #333
+$topbar-menu-icon-color: #333
+$topbar-menu-link-color-toggled: #E01B3F
+$topbar-menu-icon-color-toggled: #E01B3F
+
+
+
+$primary-color: #E01B3F
+@import "foundation/scss/foundation.scss"
+@import url(http://weloveiconfonts.com/api/?family=entypo)
+$zurbbreak: 767px
+body
+	background: #FFF
+	font-family: 'Source Sans Pro', sans-serif
+
+[class*="entypo-"]:before
+	font-family: 'entypo', sans-serif
+.mr10
+	margin-right: 10
+
+.fixed
+	z-index: 1000
+#mainmenu-row
+	background: #FFF
+
+.content
+	ul
+		list-style-type: square
+		margin-left: 30px
+
+.top-bar
+	margin: 0
+	// +box-shadow(0 0 16px rgba(#000, 0.8))
+	overflow: hidden
+	// background: rgba(#FFF, 0.9)
+	// border-bottom: 1px solid $primary-color
+	width: 100%
+	margin: 0 auto
+	position: relative
+	ul.right li a
+		color: #000
+		line-height: 4.5em
+		font-size: 0.9em
+	ul.right li
+		border-right: 1px solid #F0F0F0
+		&:first-child
+			border-left: 1px solid #F0F0F0
+	ul.right li.current a
+		+background-image(linear-gradient(top, rgba(#E01B3F, 0.9), rgba(#E01B3F, 1)))
+		+box-shadow(inset 0 -4px 0 0px #C00)
+	.name h1
+		line-height: 0
+	@media screen and (max-width: 939px)
+		ul.right li > a
+			color: #000
+			line-height: 2.5em
+			font-size: 1.3em
+			background: #FFF
+			padding: 0
+			border-bottom: 1px solid #CCC
+		ul.right li
+			border: none
+			&:first-child
+				border: none
+		ul.right li.current a
+			+box-shadow(none)
+			+background-image(none)
+		.name h1
+			line-height: 0
+
+.logo
+	width: 200px
+	margin-top: 0
+	// margin-left: -20px
+
+.super-row
+	width: 100%
+	max-width: 100%
+
+.like-blocks
+	@include block-grid(3, 0, true)
+	border-bottom: 1px solid #CCC
+	li
+		@media screen and (max-width: 960px)
+			font-size: 16px
+		@media screen and (max-width: 760px)
+			font-size: 14px
+			.hide-for-small-span
+				display: none !important
+		text-align: center
+		font-size: 22px
+		line-height: 2.5
+		border-right: 1px solid #CCC
+		&:last-child
+			border-right: none
+		a
+			display: block
+			font-weight: 600
+			color: #181818
+			&:hover
+				background: $primary-color
+				color: #FFF
+
+.image-slider
+	width: 100%
+	height: 600px
+	overflow: hidden
+	margin: auto
+	// background: url('../images/HD-Landscape-Wallpaper1.jpg') center center
+	// +background-size(cover)
+	position: relative
+	.bx-viewport
+		left: 0 !important
+.slide
+	width: 100%
+	height: 600px
+	overflow: hidden
+	margin: auto
+	background: url('../images/HD-Landscape-Wallpaper1.jpg') center center
+	+background-size(cover)
+
+.slider-message
+	padding: 23px
+	h2
+		font-weight: 700
+		background: #FFF
+		box-shadow: 0 0 0px 5px #FFF
+		display: inline
+		line-height: 1.2
+	p
+		background: rgba(#E01B3F, 0.9)
+		box-shadow: 0 0 0px 5px rgba(#E01B3F, 0.9)
+		margin-top: 10px
+
+.slider-message-row
+	margin-top: 150px
+
+.slider-absolute-container
+	position: absolute
+	width: 100%
+	top: 150px
+
+.top-bar .row
+	max-width: 62.5em
+
+.top-bar .name h1 a
+	padding: 0
+	margin: 0
+
+.with-divider
+	border-top: 1px solid #CCC
+	// width: 90%
+	margin: 50px auto
+
+.events-section
+	.event-description
+		font-size: 0.8em
+		ul
+			font-weight: normal
+	.events-nav
+		list-style-type: none
+		& > li
+			&.active .entypo-right-open-big
+				+transform(rotate(90deg))
+			&:first-child
+				border-top: 1px solid #333
+			margin: 0
+			font-weight: bold
+			line-height: 2.5
+			@media screen and (max-width: 768px)
+				font-size: 1em
+				line-height: 1.2
+				padding: 5px 0
+			font-size: 1.3em
+			border-bottom: 1px solid #333
+			// padding-bottom: 5px
+			//overflow: hidden
+			a
+				color: #111
+			.event-date
+				margin-left: 10px
+				color: #999
+				font-weight: normal
+			.entypo-right-open-big
+				+transition(all 0.5s)
+				margin-right: 3px
+	.right-events-link
+		margin-top: 30px
+		display: block
+.event-picture
+	img
+		border: 2px solid #333
+	.button
+		display: block
+		margin: 15px auto
+.event
+	h2
+		text-align: center
+	img
+		margin-bottom: 10px
+	padding: 10px
+	border: 2px solid #CCC
+	ul
+		margin-left: 30px
+#member-form
+	padding: 10px
+	border: 2px solid #CCC
+	h2
+		font-size: 24px
+		line-height: 1.2
+	.input-group
+		input
+			float: left
+			margin-bottom: 0
+		ul
+			list-style: none
+		li
+			margin-top: 8px
+			clear: both
+		label
+			display: block
+			margin-left: 20px
+			line-height: 1
+.newsletter-big-icon
+	font-size: 15em
+	color: $primary-color
+	margin-top: 30px
+	text-align: center
+
+footer
+	margin-top: 50px
+	background: #303030
+	color: #999
+	h3, h4
+		color: #CCC
+	ul
+		list-style-type: none
+	a
+		color: #999
+
+.logo-white
+	background: url("../images/logo_white.png") center center no-repeat
+	opacity: 0.4
+	+background-size(contain)
+	width: 200px
+	height: 100px
+
+.person-card
+	background: #E01B3F
+	border: 1px solid #CCC
+	position: relative
+	height: 350px
+	.person-image
+		top: 0
+		width: 100%
+		height: 300px
+		background-position: center center
+		background-repeat: no-repeat
+		+background-size(cover)
+		margin: 0
+		padding: 0
+		position: absolute
+		z-index: 0
+	img
+		width: 100%
+	h4
+		font-size: 1.2em
+		line-height: 1
+	p
+		font-size: 0.9em
+		color: darken($primary-color, 30%)
+		width: 100%
+		margin: 0
+		line-height: 1.2
+	& > div
+		width: 100%
+		position: absolute
+		bottom: 0
+		z-index: 10
+		background: $primary-color
+		padding: 10px
+@media screen and (max-width: 954px)
+	.large-block-grid-3
+		li
+			width: 50%
+			position: relative
+	.person-card
+		position: relative
+		height: 350px
+		.person-image
+			height: 260px
+			background-position: center center
+			background-repeat: no-repeat
+			+background-size(cover)
+			margin: 0
+			padding: 0
+			z-index: 0
+		img
+			width: 100%
+		h4
+			font-size: 1.2em
+			line-height: 1
+		p
+			font-size: 0.9em
+			color: darken($primary-color, 30%)
+			width: 100%
+			margin: 0
+			line-height: 1.2
+		& > div
+			width: 100%
+			position: absolute
+			bottom: 0
+			z-index: 10
+			background: $primary-color
+			padding: 10px
+@media screen and (max-width: 380px)
+	.large-block-grid-3
+		li
+			width: 100%
+
+
+.big-information
+	padding: 10px
+	background: #F0F0F0
+	position: relative
+	&:before
+		position: absolute
+		left: 15%
+		top: -20px
+		content: ''
+		width: 0px
+		height: 0px
+		border-style: solid
+		border-width: 0 25px 30px 25px
+		border-color: transparent transparent #F0F0F0 transparent
+
+.cards
+	margin-top: 15px
+	@include clearfix()
+	background: #FFF
+	padding: 15px
+	overflow: auto
+	overflow-y: hidden
+	-webkit-perspective: 1000
+	text-align: center		
+	position: relative
+	&::-webkit-scrollbar
+		background: transparent
+	&::-webkit-scrollbar:vertical
+		width: 0.375em
+	&::-webkit-scrollbar:horizontal
+		height: 1.125em
+	&::-webkit-scrollbar-thumb
+		background: #CCC
+		border: 0 solid #CCC
+	&::-webkit-scrollbar-thumb:hover
+		background: #AAA
+	&::-webkit-scrollbar-thumb:horizontal
+		border-width: 3px
+	.cards-canvas
+		padding: 15px
+		white-space: nowrap
+		text-align: center
+	.card
+		border: none
+		background: #FFF
+		width: 250px
+		height: 300px
+		display: inline-block
+		margin-right: 20px
+		position: relative
+		white-space: normal
+		vertical-align: top
+		overflow: hidden
+		&.bearing
+			background: #c31b32
+			.card-image
+				background-image: image-url("bearing.png")
+		&.evernote
+			background: lighten(#7AC142, 20%)
+			.card-image
+				background-image: image-url("evernote_a.png")
+		&.vlab
+			background: #F0F0F0
+			.card-image
+				background-image: image-url("vlabre_logo.png")
+
+		&.rs
+			background: #F1F1F1
+			.card-image
+				background-image: image-url("rs.png")
+		&.stu
+			background: #c8beb7
+			.card-image
+				background-image: image-url("startups_s.png")
+		&.stf
+			background: #0073E5
+			.card-image
+				background-image: image-url("standort_zuerich.png")
+		&.stfu
+			background: lighten(#00425B, 30%)
+			.card-image
+				background-image: image-url("stifuntent.png")
+		&.kic
+			background: #E2EAF4
+			.card-image
+				background-image: image-url("kic.png")
+	.card-image
+		width: 100%
+		height: 100%
+		background-position: center center
+		background-repeat: no-repeat
+		position: absolute
+		top: 0
+		left: 0
+		margin: 0 auto
+
+	.card-description
+		margin: 0
+		position: absolute
+		bottom: 0
+		left: 0
+		white-space: normal
+		background: rgba(#222, 0.6)
+		color: #F2F2F2
+		padding: 5px
+		width: 100%
+		font-weight: 600
+		line-height: 1.2
+
+.map
+	border: 1px solid #333
+
+.newsletter-teaser
+	margin-top: 30px
+	img
+		width: 100%
