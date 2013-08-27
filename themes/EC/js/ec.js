@@ -5,7 +5,7 @@ $(document).ready(function() {
 
     var allPanels = $("#events-accordion .event-description").hide();
     var scrollkeeperblocker = false;
-    $("#events-accordion li").click(function(e) {       
+    $("#events-accordion li a.toggle").click(function(e) {       
 
         // allPanels.slideUp();
         // $("#events-accordion .active").removeClass("active");

@@ -1,7 +1,7 @@
 @import "compass/css3"
 $topbar-bg: #FFF
 $topbar-height: 4em
-$body-font-family: 'Source Sans Pro', sans-serif
+$body-font-family: "Source Sans Pro", Helvetica, Arial, sans-serif
 $header-font-family: $body-font-family
 $shiny-edge-size: 0 0 0
 
@@ -18,7 +18,7 @@ $primary-color: #E01B3F
 $zurbbreak: 767px
 body
 	background: #FFF
-	font-family: 'Source Sans Pro', sans-serif
+	font-family: "Source Sans Pro", Helvetica, Arial, sans-serif
 
 [class*="entypo-"]:before
 	font-family: 'entypo', sans-serif
@@ -184,6 +184,8 @@ body
 			//overflow: hidden
 			a
 				color: #111
+			a.toggle 
+				display: block;
 			.event-date
 				margin-left: 10px
 				color: #999
@@ -391,7 +393,10 @@ footer
 			background: #F0F0F0
 			.card-image
 				background-image: image-url("vlabre_logo.png")
-
+		&.lakestar
+			background: #5B4730
+			.card-image
+				background-image: image-url("lakestar.png")
 		&.rs
 			background: #F1F1F1
 			.card-image
