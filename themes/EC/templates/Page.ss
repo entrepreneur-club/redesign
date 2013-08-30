@@ -106,7 +106,7 @@
                     <li><a href="mailto:jonathan.mueller@entrepreneur-club.org">Jonathan Müller</a>, IT</li>
                     <li><a href="mailto:wolf.vollprecht@entrepreneur-club.org">Wolf Vollprecht</a>, Hackathon</li>
                 </ul>
-            </div>  
+            </div>
             </div>
             <div class="large-6 columns">
                 <img src="$ThemeDir/images/team.jpg" alt="">
@@ -399,7 +399,7 @@
                     <h3>Roland Siegwart</h3>
                 </div>
                 <div class="large-8 columns">
-<p>                    
+<p>
     Roland Siegwart is full Professor of Autonomous Systems at ETH Zurich since July 2006 and Vice President Research and Corporate Relations since January 2010.
 </p><p>
     He received his Diploma in Mechanical Engineering in 1983 and his Doctoral Degree in 1989 from ETH Zurich. He then spent one year as postdoctoral fellow at Stanford University. Back in Switzerland, he worked from 1991 to 1996 part time as R&D director at MECOS Traxler AG and as lecturer and deputy head at the Institute of Robotics, ETH Zurich. In 1996 he was appointed as professor for autonomous microsystems and robots at the Ecole Polytechnique Fédérale de Lausanne (EPFL) where he served among others as member of the direction of the School of Engineering (2002-06) and funding chairman of the Space Center EPFL.
@@ -411,8 +411,8 @@
  --%>        </div>
         <div class="row">
             <div class="large-12 columns">
-                <h1>Sponsors</h1>
-                <p>Our sponsors, who share our values and vision, help us financially to achieve our objectives.</p>
+                <h1>Sponsors & Partners</h1>
+                <p>Our sponsors and partners, who share our values and vision, help us financially to achieve our objectives.</p>
             </div>
         </div>
         <div class="cards">
@@ -439,7 +439,7 @@
                     <a href="http://www.climate-kic.org/">
                         <div class="card-image"></div>
                         <div class="card-description">Klimate KIC</div>
-                    </a>    
+                    </a>
                 </div>
                 <div class="card stfu">
                     <a href="http://www.kmufuture.ch/">
@@ -465,13 +465,19 @@
                         <div class="card-description">venturelab</div>
                     </a>
                 </div>
+                <div class="card pcu">
+                    <a href="http://www.pcunetwork.com/">
+                        <div class="card-image"></div>
+                        <div class="card-description">venturelab</div>
+                    </a>
+                </div>
                 <div class="card bearing">
                     <a href="http://www.bearingpoint.com/en-ch/">
                         <div class="card-image"></div>
                         <div class="card-description">Bearing Point</div>
                     </a>
                 </div>
-            </div> 
+            </div>
         </div>
     </section>
     <section class="with-divider" id="join">
@@ -483,7 +489,7 @@
                     <h2>Membership / Newsletter</h2>
                 <!-- Begin MailChimp Signup Form -->
                 <div id="mc_embed_signup">
-               
+
                 <div class="mc-field-group">
                     <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
                 </label>
@@ -517,7 +523,7 @@
                     <div id="mce-responses" class="clear">
                         <div class="response" id="mce-error-response" style="display:none"></div>
                         <div class="response" id="mce-success-response" style="display:none"></div>
-                    </div>  
+                    </div>
                     <div class="clear">
                         <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
                         <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
