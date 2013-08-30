@@ -10,3 +10,4 @@ silverstripe-cache
 vendor/
 composer.lock
 *.sass-cache*
+mysite/_config.php
