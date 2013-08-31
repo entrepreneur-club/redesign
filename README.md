@@ -15,7 +15,7 @@ Apache, PHP 5.3, MySQL, Compass, Composer
 	sudo service apache2 restart
 	sudo vim /etc/php5/apache2/php.ini # change ;date.timezone to date.timezone = Europe/Zurich
 
-If you didn't have the /var/www folder before, change the ownership to ‘your-user:www-data‘ and do a usermod so you're in www-data as well:
+If you didn't have the '/var/www' folder before, change the ownership to 'your-user:www-data' and do a usermod so you're in www-data as well:
 
 	sudo chown -R your-user:www-data /var/www/ # changes ownership of www-data
 	sudo usermod -a -G www-data your-user # adds your user to www-data
@@ -26,9 +26,26 @@ If you didn't have the /var/www folder before, change the ownership to ‘your-u
 	
 ### Setting up the silverstripe config
 
-Here is a sample silverstripe configuration that you can start with
+Here is a sample silverstripe configuration that you can start with – it has to go into 'mysite/_config.php'
 
-...
+	<?php
 	
+	global $project;
+	$project = 'mysite';
+	
+	global $databaseConfig;
+	$databaseConfig = array(
+	        "type" => 'MySQLDatabase',
+	        "server" => 'localhost',
+	        "username" => 'silverstripe',
+	        "password" => '<redacted>',
+	        "database" => 'silverstripe',
+	        "path" => '',
+	);
+	
+	// Set the site locale
+	i18n::set_locale('de_CH');
+	
+	SSViewer::setOption('rewriteHashlinks', false);
+	?>
 
-	
