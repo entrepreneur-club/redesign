@@ -6,11 +6,7 @@ $(document).ready(function() {
     var allPanels = $("#events-accordion .event-description").hide();
     var scrollkeeperblocker = false;
     $("#events-accordion li a.toggle").click(function(e) {       
-
-        // allPanels.slideUp();
-        // $("#events-accordion .active").removeClass("active");
-        $(".event-description", this).slideToggle();
-        // $(this).addClass("active");
+        $(".event-description", $(this).parent()).slideToggle();
         return false;
     });
     var offsets = [];
@@ -22,7 +18,6 @@ $(document).ready(function() {
     $(window).scroll(function() {
         if(scrollkeeperblocker) return;
         var offset = $("body").scrollTop();
-        console.log(offset)
         for (var i = 0; i < offsets.length; i++) {
             if(offsets[i] < offset && (offset[i+1] == undefined || offset[i+1] > offset)) {
                 $("#scrolltomenu > li").removeClass("current");
