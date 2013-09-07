@@ -34,6 +34,7 @@
                     <li><a href="#advisors-and-sponsors">Advisors &amp; Sponsors</a></li>
                     <li><a href="#join">Join</a></li>
                     <li><a href="#contact">Contact</a></li>
+                    <li><a href="#documents">Documents</a></li>
                 </ul>
                 </section>
             </nav>
@@ -575,6 +576,44 @@
 
 <%--         <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=zurich&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=56.987104,134.208984&amp;t=m&amp;ie=UTF8&amp;hq=&amp;hnear=Zurich,+Canton+of+Zurich,+Switzerland&amp;ll=47.375,8.539182&amp;spn=0.001508,0.004096&amp;z=14&amp;output=embed"></iframe>
  --%>        <iframe class="map" width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps?sll=37.06247089791764,-95.76033965511533&amp;sspn=77.79184476486371,103.78840065388714&amp;t=m&amp;q=Leonhardstrasse+27,+8092+Z%C3%BCrich&amp;dg=opt&amp;ie=UTF8&amp;hq=&amp;hnear=Leonhardstrasse+27,+8092+Z%C3%BCrich,+Switzerland&amp;ll=47.386,8.546221&amp;spn=0.002272,0.005845&amp;z=14&amp;output=embed"></iframe>
+        </div>
+    </section>
+    <section class="with-divider" id="documents">
+        <div class="row">
+            <div class="large-12 columns">
+                <h1>Documents</h1>
+            </div>
+            <div class="large-1 columns">
+                <p>
+                    
+                </p>
+            </div>
+            <div class="large-5 columns">
+                <p>
+                    <ul>
+                        <li><a href="http://files.entrepreneur-club.org/2012/03/Logo.zip">Logo</a></li>
+                        <li><a href="http://files.entrepreneur-club.org/2012/03/Constitution2.pdf">Constitution</a></li>
+                        <li><a href="http://files.entrepreneur-club.org/2012/03/Statuten.pdf">Schweizerischer Verband Studentischer Unternehmervereine</a></li>
+                        <li><a href="http://files.entrepreneur-club.org/2012/03/Semester-Report-Fall-2011.pdf">Semester Report Fall 2011</a></li>
+                        <li><a href="http://files.entrepreneur-club.org/2012/03/Financial_Information_Fall_2011.pdf">Financial Information Fall 2011</a></li>
+                        <li><a href="http://files.entrepreneur-club.org/2012/03/Minutes-of-GA-Feb-2012.pdf">Minutes of the GA on 29 February 2012</a></li>
+
+                    </ul>
+                </p>
+            </div>
+
+            <div class="large-5 columns">
+                <p>
+                    <ul>
+                        <li><a href="http://files.entrepreneur-club.org/2012/03/Agenda.pdf">Agenda for the GA on 2 October 2012</a></li>
+                        <li><a href="http://files.entrepreneur-club.org/2012/03/Semester-Report-Spring-2012.pdf">Semester Report Spring 2012</a></li>
+                        <li><a href="http://files.entrepreneur-club.org/2012/03/Minutes.pdf">Minutes of the GA on 2 October 2012</a></li>
+                        <li><a href="http://files.entrepreneur-club.org/2012/03/Agenda1.pdf">Agenda for the GA on 28 February 2013</a></li>
+                        <li><a href="http://files.entrepreneur-club.org/2012/03/Semester-Report-Fall-2012-reduced.pdf">Semester Report Fall 2012</a></li>
+                        <li><a href="http://files.entrepreneur-club.org/2012/03/Semester-Report-Fall-2012-reduced.pdf">Semester Report Fall 2012</a></li>
+                    </ul>
+                </p>
+            </div>
         </div>
     </section>
     <footer>
