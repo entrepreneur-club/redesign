@@ -34,7 +34,6 @@
                     <li><a href="#advisors-and-sponsors">Advisors &amp; Sponsors</a></li>
                     <li><a href="#join">Join</a></li>
                     <li><a href="#contact">Contact</a></li>
-                    <li><a href="#documents">Documents</a></li>
                 </ul>
                 </section>
             </nav>
@@ -145,6 +144,9 @@
                             </div>
                             <div class="large-7 columns">
                                 <p>At the general assembly of the spring semester 2013, we will elect the new executive committee, discuss and vote on the budget and other club matters, and excite you about the upcoming events!
+                                </p>
+                                <p>
+                                Click <a href="https://drive.google.com/folderview?id=0ByyrjO_yNEntUksyRUhmQjM0MWM" target="_blank"><b>here</b></a> to access the minutes from the last general assemblies, and other documents.
                                 </p>
                             </div>
                         </div>
@@ -578,76 +580,15 @@
  --%>        <iframe class="map" width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps?sll=37.06247089791764,-95.76033965511533&amp;sspn=77.79184476486371,103.78840065388714&amp;t=m&amp;q=Leonhardstrasse+27,+8092+Z%C3%BCrich&amp;dg=opt&amp;ie=UTF8&amp;hq=&amp;hnear=Leonhardstrasse+27,+8092+Z%C3%BCrich,+Switzerland&amp;ll=47.386,8.546221&amp;spn=0.002272,0.005845&amp;z=14&amp;output=embed"></iframe>
         </div>
     </section>
-    <section class="with-divider" id="documents">
-        <div class="row">
-            <div class="large-12 columns">
-                <h1>Documents</h1>
-            </div>
-            <div class="large-1 columns">
-                <p>
-                    
-                </p>
-            </div>
-            <div class="large-5 columns">
-                <p>
-                    <ul>
-                        <li><a href="http://files.entrepreneur-club.org/2012/03/Logo.zip">Logo</a></li>
-                        <li><a href="http://files.entrepreneur-club.org/2012/03/Constitution2.pdf">Constitution</a></li>
-                        <li><a href="http://files.entrepreneur-club.org/2012/03/Statuten.pdf">Schweizerischer Verband Studentischer Unternehmervereine</a></li>
-                        <li><a href="http://files.entrepreneur-club.org/2012/03/Semester-Report-Fall-2011.pdf">Semester Report Fall 2011</a></li>
-                        <li><a href="http://files.entrepreneur-club.org/2012/03/Financial_Information_Fall_2011.pdf">Financial Information Fall 2011</a></li>
-                        <li><a href="http://files.entrepreneur-club.org/2012/03/Minutes-of-GA-Feb-2012.pdf">Minutes of the GA on 29 February 2012</a></li>
-
-                    </ul>
-                </p>
-            </div>
-
-            <div class="large-5 columns">
-                <p>
-                    <ul>
-                        <li><a href="http://files.entrepreneur-club.org/2012/03/Agenda.pdf">Agenda for the GA on 2 October 2012</a></li>
-                        <li><a href="http://files.entrepreneur-club.org/2012/03/Semester-Report-Spring-2012.pdf">Semester Report Spring 2012</a></li>
-                        <li><a href="http://files.entrepreneur-club.org/2012/03/Minutes.pdf">Minutes of the GA on 2 October 2012</a></li>
-                        <li><a href="http://files.entrepreneur-club.org/2012/03/Agenda1.pdf">Agenda for the GA on 28 February 2013</a></li>
-                        <li><a href="http://files.entrepreneur-club.org/2012/03/Semester-Report-Fall-2012-reduced.pdf">Semester Report Fall 2012</a></li>
-                        <li><a href="http://files.entrepreneur-club.org/2012/03/Semester-Report-Fall-2012-reduced.pdf">Semester Report Fall 2012</a></li>
-                    </ul>
-                </p>
-            </div>
-        </div>
-    </section>
     <footer>
         <div class="row">
-            <div class="large-8 columns">
+            <div class="large-1 columns">
                 <div class="logo-white"></div>
-<%--                 <div class="row">
-                    <div class="large-6 columns">
-                        <ul>
-                            <li><a href="">Home</a></li>
-                            <li><a href="">Comittee</a></li>
-                            <li><a href="">Mission</a></li>
-                            <li><a href="">Blog</a></li>
-                        </ul>
-                    </div>
-                    <div class="large-6 columns">
-                        <ul>
-                            <li><a href="">Imprint</a></li>
-                            <li><a href="">Contact</a></li>
-                            <li><a href="">Address</a></li>
-                            <li><a href="">Blog</a></li>
-                        </ul>
-                    </div>
-                </div>
- --%>            </div>
-            <div class="large-4 columns">
-<%--                 <h4>
-                    Latest Blog Posts
-                </h4>
-                <ul>
-                    <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, alias ad quasi laborum dolor in cupiditate doloribus aspernatur numquam iusto! <span class="entypo-right-open-big"></span></li>
-                    <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati, assumenda, molestias, omnis et qui officia totam quibusdam nobis odio provident molestiae sed debitis officiis excepturi accusamus illo natus repellat placeat?<span class="entypo-right-open-big"></span></li>
-                </ul>
- --%>            </div>
+            </div>
+            <div class="large-1 columns" style="margin-top:30px;margin-left:-40px;font-size:1.25em;">
+                <a href="https://drive.google.com/folderview?id=0ByyrjO_yNEntUksyRUhmQjM0MWM">Documents</a>
+            </div>
         </div>
 </body>
 </html>
+
