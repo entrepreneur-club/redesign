@@ -135,7 +135,7 @@
 
                     <li>
                         <a href="#" class="toggle">
-                            General Assembly <span class="event-date">24.9.2013, 16.15, ieLab</span> <span class="entypo-right-open-big right"></span>
+                            General Assembly <span class="event-date">24.9.2013, 17.15, ieLab</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
@@ -153,7 +153,7 @@
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            Kick Off <span class="event-date">24.9.2013, 17.15</span> <span class="entypo-right-open-big right"></span>
+                            Kick Off <span class="event-date">24.9.2013, 18.15</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
@@ -161,7 +161,36 @@
                                 <a class="button centered" href="http://www.facebook.com/events/593118700731910/" target="_blank" >View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                                <p>The Entrepreneur Club is dedicated to bring you the best entrepreneurial events in Zurich! We will launch into an exciting semester at our Kickoff Event with highly interesting speakers. Details to follow.
+                                <p>
+                                    We had no choice but to organize our most awesome Kick Off event yet to begin an exciting and busy semester! Come listen to seasoned entrepreneurs present their journey from idea to product, ask questions and gain insights into people, ideas and execution. The event will take place on Tuesday, September 24 at 6:15pm in ETH Zurich’s HG E 5 (main building, central campus).
+                                </p>
+
+                                <p>
+                                    Our guest speakers will be:
+                                </p>
+
+                                <p>
+                                    <b>Marco Börries</b><br />
+                                    This German entrepreneur was only 16 years old when he founded his first company Star Division in his garage back in 1985. The company created the popular office suites StarOffice and OpenOffice.org, and was later sold to Sun Microsystems. Since then, Marco has successfully ventured in online banking and software connecting wireless devices for sharing of personal and professional data and was labeled the German Bill Gates. His latest company, NumberFour, develops a platform giving small businesses the tools, capabilities and insights normally only available to larger companies. NumberFour recently secured a record $38 million in Series A financing with money raised from some of the world's most successful entrepreneurs such as Reid Hofman (founder LinkedIn), Jerry Yang (Founder Yahoo), and Andy Bechtolsheim (Founder Sun Microsystems).
+                                </p>
+
+                                <p>
+                                    <b>Georg Polzer</b><br />
+                                    After a stint in big data research in the banking sector, this young graduate in Computer Science at ETH Zurich co-founded Teralytics with two post-docs and a Professor. This promising startup leverages the Hadoop technology to sift through extremely large and complex data sets and help companies answer business questions.
+                                </p>
+
+                                <p>
+                                    Schedule:
+                                    <ul>
+                                    <li>18:15 Opening speech by Gereon Sommer, President of the Entrepreneur Club</li>
+                                    <li>18:30 Presentations by Marco Börries and Georg Polzer</li>
+                                    <li>19:50 Q&A moderated by Entrepreneur Club</li>
+                                    <li>20:15 Apéro</li>
+                                    </ul>
+                                </p>
+
+                                <p>
+                                The entire Executive Committee of the Entrepreneur Club is looking forward to seeing you all there!
                                 </p>
                             </div>
                         </div>
