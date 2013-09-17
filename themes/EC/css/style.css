@@ -6907,7 +6907,7 @@ footer a {
 }
 /* line 391, ../sass/style.sass */
 .cards .card.pcu .card-image {
-  background-image: url('../images/pcu.png?1377934371');
+  background-image: url('../images/pcu.png?1379450933');
 }
 /* line 393, ../sass/style.sass */
 .cards .card.evernote {
@@ -6915,7 +6915,7 @@ footer a {
 }
 /* line 395, ../sass/style.sass */
 .cards .card.evernote .card-image {
-  background-image: url('../images/evernote_a.png?1376988438');
+  background-image: url('../images/evernote_a.png?1376988439');
 }
 /* line 397, ../sass/style.sass */
 .cards .card.vlab {
@@ -6931,7 +6931,7 @@ footer a {
 }
 /* line 403, ../sass/style.sass */
 .cards .card.lakestar .card-image {
-  background-image: url('../images/lakestar.png?1377934371');
+  background-image: url('../images/lakestar.png?1379450933');
 }
 /* line 405, ../sass/style.sass */
 .cards .card.rs {
@@ -6939,7 +6939,7 @@ footer a {
 }
 /* line 407, ../sass/style.sass */
 .cards .card.rs .card-image {
-  background-image: url('../images/rs.png?1373617214');
+  background-image: url('../images/rs.png?1373617215');
 }
 /* line 409, ../sass/style.sass */
 .cards .card.stu {
@@ -6947,7 +6947,7 @@ footer a {
 }
 /* line 411, ../sass/style.sass */
 .cards .card.stu .card-image {
-  background-image: url('../images/startups_s.png?1373619100');
+  background-image: url('../images/startups_s.png?1373619101');
 }
 /* line 413, ../sass/style.sass */
 .cards .card.stf {
@@ -6955,7 +6955,7 @@ footer a {
 }
 /* line 415, ../sass/style.sass */
 .cards .card.stf .card-image {
-  background-image: url('../images/standort_zuerich.png?1373619538');
+  background-image: url('../images/standort_zuerich.png?1373619539');
 }
 /* line 417, ../sass/style.sass */
 .cards .card.stfu {
@@ -6971,9 +6971,17 @@ footer a {
 }
 /* line 423, ../sass/style.sass */
 .cards .card.kic .card-image {
-  background-image: url('../images/kic.png?1373625600');
+  background-image: url('../images/kic.png?1373625601');
 }
 /* line 425, ../sass/style.sass */
+.cards .card.uzhs {
+  background: #bfcfe5;
+}
+/* line 427, ../sass/style.sass */
+.cards .card.uzhs .card-image {
+  background-image: url('../images/uzhs_logo.png?1379451350');
+}
+/* line 429, ../sass/style.sass */
 .cards .card-image {
   width: 100%;
   height: 100%;
@@ -6984,7 +6992,7 @@ footer a {
   left: 0;
   margin: 0 auto;
 }
-/* line 435, ../sass/style.sass */
+/* line 439, ../sass/style.sass */
 .cards .card-description {
   margin: 0;
   position: absolute;
@@ -6999,16 +7007,16 @@ footer a {
   line-height: 1.2;
 }
 
-/* line 448, ../sass/style.sass */
+/* line 452, ../sass/style.sass */
 .map {
   border: 1px solid #333333;
 }
 
-/* line 451, ../sass/style.sass */
+/* line 455, ../sass/style.sass */
 .newsletter-teaser {
   margin-top: 30px;
 }
-/* line 453, ../sass/style.sass */
+/* line 457, ../sass/style.sass */
 .newsletter-teaser img {
   width: 100%;
 }

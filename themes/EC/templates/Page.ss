@@ -43,6 +43,16 @@
     <section class="image-slider">
         <ul class="slider">
             <li>
+                <div class="slide" style="background-image: url($ThemeDir/images/kickoff_banner.jpg);">
+                    <div class="row slider-message-row">
+                        <div class="slider-message large-5">
+                            <h2>Join us at our<br>Kick Off!</h2>
+                            <p>With Marco Börries and Georg Polzer! Launch into an exciting semester with us!</p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li>
                 <div class="slide" style="background-image: url($ThemeDir/images/HD-Landscape-Wallpaper1.jpg);">
                     <div class="row slider-message-row">
                         <div class="slider-message large-5">
@@ -449,6 +459,12 @@
         </div>
         <div class="cards">
             <div class="cards-canvas">
+                <div class="card uzhs">
+                    <a href="http://www.uzh-startuppers.ch">
+                        <div class="card-image"></div>
+                        <div class="card-description">UZH-Startuppers</div>
+                    </a>
+                </div>
                 <div class="card stu">
                     <a href="http://www.startups.ch">
                         <div class="card-image"></div>
@@ -500,7 +516,7 @@
                 <div class="card pcu">
                     <a href="http://www.pcunetwork.com/">
                         <div class="card-image"></div>
-                        <div class="card-description">venturelab</div>
+                        <div class="card-description">Pioneers' Club</div>
                     </a>
                 </div>
                 <div class="card bearing">

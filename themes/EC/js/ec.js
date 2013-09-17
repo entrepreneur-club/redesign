@@ -33,7 +33,7 @@ $(document).ready(function() {
         var tag = $(tag);
         $('#scrolltomenu a').parent().removeClass("current");
         $(this).parent().addClass("current")
-        $('body').animate({scrollTop: tag.offset().top - 70}, 500, function() {
+        $('html,body').animate({scrollTop: tag.offset().top - 70}, 500, function() {
             scrollkeeperblocker = false;
         });
     });

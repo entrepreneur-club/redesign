@@ -11,3 +11,7 @@ vendor/
 composer.lock
 *.sass-cache*
 mysite/_config.php
+buildtools/*
+content-blocks/*
+docsviewer/*
+testsession/*
