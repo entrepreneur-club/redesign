@@ -567,7 +567,7 @@
                         </div>
                         <div class="mc-field-group input-group">
                             <strong>How active do you want to be? <span class="asterisk">*</span></strong><br>
-                            <small>(as example expected workload related to events committee indicated)</small>
+                            <small>(expected workload related to events committee indicated as an example)</small>
                             <ul>
                                 <li>
                                     <input type="radio" value="I want to be highly involved and take on responsility for e.g. an event. (weekly meetings)" name="MMERGE7" id="mce-MMERGE7-0"><label for="mce-MMERGE7-0">I want to be highly involved and take on responsility for an event. (weekly meetings)</label>
@@ -579,7 +579,7 @@
                                     <input type="radio" value="I want to give something back. Put me on the helpers list and contact me in case you need a hand. (1-2 events)" name="MMERGE7" id="mce-MMERGE7-2"><label for="mce-MMERGE7-2">I want to give something back. Put me on the helpers list and contact me in case you need a hand. (1-2 events)</label>
                                 </li>
                                 <li>
-                                    <input type="radio" value="I just want to participate in the events. (all events ;-))" name="MMERGE7" id="mce-MMERGE7-3"><label for="mce-MMERGE7-3">I just want to participate in the events. (all events ;-))</label>
+                                    <input type="radio" value="I just want to participate in the events. (all events ;-)" name="MMERGE7" id="mce-MMERGE7-3"><label for="mce-MMERGE7-3">I just want to participate in the events. (all events ;-)</label>
                                 </li>
                             </ul>
                         </div>
