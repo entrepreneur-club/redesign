@@ -534,7 +534,7 @@
                 <h1>Join</h1>
                 <p>Become a Member of the Entrepreneur Club and receive our newsletter!</p>
 
-                <form action="http://entrepreneur-club.us6.list-manage2.com/subscribe/post?u=ae86c94391&amp;id=a73b4dc8a0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                <form action="http://entrepreneur-club.us6.list-manage2.com/subscribe/post?u=ae86c94391&amp;id=a73b4dc8a0" method="post" id="member-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                     <h2>Membership</h2>
                     <!-- Begin MailChimp Signup Form -->
                     <div id="mc_embed_signup">
