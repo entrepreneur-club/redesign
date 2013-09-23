@@ -453,7 +453,7 @@
  --%>        </div>
         <div class="row">
             <div class="large-12 columns">
-                <h1>Sponsors & Partners</h1>
+                <h1>Sponsors &amp; Partners</h1>
                 <p>Our sponsors and partners, who share our values and vision, help us financially to achieve our objectives.</p>
             </div>
         </div>
@@ -533,52 +533,94 @@
             <div class="large-6 columns">
                 <h1>Join</h1>
                 <p>Become a Member of the Entrepreneur Club and receive our newsletter!</p>
-                <form action="http://entrepreneur-club.us6.list-manage1.com/subscribe/post?u=ae86c94391&amp;id=336123add6" method="post" id="member-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                    <h2>Membership / Newsletter</h2>
-                <!-- Begin MailChimp Signup Form -->
-                <div id="mc_embed_signup">
 
-                <div class="mc-field-group">
-                    <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-                </label>
-                    <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-                </div>
-                <div class="mc-field-group">
-                    <label for="mce-FNAME">First Name </label>
-                    <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-                </div>
-                <div class="mc-field-group">
-                    <label for="mce-LNAME">Last Name </label>
-                    <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-                </div>
-                <div class="mc-field-group">
-                    <label for="mce-MMERGE3">Field of Study </label>
-                    <input type="text" value="" name="MMERGE3" class="" id="mce-MMERGE3">
-                </div>
-                <div class="mc-field-group">
-                    <label for="mce-MMERGE4">Institution </label>
-                    <input type="text" value="" name="MMERGE4" class="" id="mce-MMERGE4">
-                </div>
-                <div class="mc-field-group input-group">
-                    <strong>Do you want to be a member?<span class="asterisk">*</span></strong>
-                    <ul>
-                        <li>
-                            <input type="radio" value="I want to become a member of the Entrepreneur Club (free)" name="MMERGE5" id="mce-MMERGE5-0"><label for="mce-MMERGE5-0" checked>I want to become a member of the Entrepreneur Club (free)</label>
-                        </li>
-                        <li><input type="radio" value="I just want to receive the newsletter" name="MMERGE5" id="mce-MMERGE5-1"><label for="mce-MMERGE5-1">I just want to receive the newsletter</label></li>
-                    </ul>
-                </div>
-                    <div id="mce-responses" class="clear">
-                        <div class="response" id="mce-error-response" style="display:none"></div>
-                        <div class="response" id="mce-success-response" style="display:none"></div>
+                <form action="http://entrepreneur-club.us6.list-manage2.com/subscribe/post?u=ae86c94391&amp;id=a73b4dc8a0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                    <h2>Membership</h2>
+                    <!-- Begin MailChimp Signup Form -->
+                    <div id="mc_embed_signup">
+                        <div class="mc-field-group">
+                            <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+                        </label>
+                            <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                        </div>
+                        <div class="mc-field-group">
+                            <label for="mce-FNAME">First Name  <span class="asterisk">*</span>
+                        </label>
+                            <input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
+                        </div>
+                        <div class="mc-field-group">
+                            <label for="mce-LNAME">Last Name  <span class="asterisk">*</span>
+                        </label>
+                            <input type="text" value="" name="LNAME" class="required" id="mce-LNAME">
+                        </div>
+                        <div class="mc-field-group">
+                            <label for="mce-MMERGE3">Field of Study </label>
+                            <input type="text" value="" name="MMERGE3" class="" id="mce-MMERGE3">
+                        </div>
+                        <div class="mc-field-group">
+                            <label for="mce-MMERGE4">Institution / University / Company </label>
+                            <input type="text" value="" name="MMERGE4" class="" id="mce-MMERGE4">
+                        </div>
+                        <div class="mc-field-group">
+                            <label for="mce-MMERGE6">Startup / Idea / Project </label>
+                            <input type="text" value="" name="MMERGE6" class="" id="mce-MMERGE6">
+                        </div>
+                        <div class="mc-field-group input-group">
+                            <strong>How active do you want to be? <span class="asterisk">*</span></strong><br>
+                            <small>(as example expected workload related to events committee indicated)</small>
+                            <ul>
+                                <li>
+                                    <input type="radio" value="I want to be highly involved and take on responsility for e.g. an event. (weekly meetings)" name="MMERGE7" id="mce-MMERGE7-0"><label for="mce-MMERGE7-0">I want to be highly involved and take on responsility for an event. (weekly meetings)</label>
+                                </li>
+                                <li>
+                                    <input type="radio" value="I want to support the club in one of the committees, e.g. be part of the event planning team. (meetings to plan the event)" name="MMERGE7" id="mce-MMERGE7-1"><label for="mce-MMERGE7-1">I want to support the club in one of the committees, e.g. be part of the event planning team. (3-6 meetings to plan the event)</label>
+                                </li>
+                                <li>
+                                    <input type="radio" value="I want to give something back. Put me on the helpers list and contact me in case you need a hand. (1-2 events)" name="MMERGE7" id="mce-MMERGE7-2"><label for="mce-MMERGE7-2">I want to give something back. Put me on the helpers list and contact me in case you need a hand. (1-2 events)</label>
+                                </li>
+                                <li>
+                                    <input type="radio" value="I just want to participate in the events. (all events ;-))" name="MMERGE7" id="mce-MMERGE7-3"><label for="mce-MMERGE7-3">I just want to participate in the events. (all events ;-))</label>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="mc-field-group input-group">
+                            <strong>I am interested to help with... </strong>
+                            <ul>
+                                <li><input type="checkbox" value="1" name="group[10877][1]" id="mce-group[10877]-10877-0"><label for="mce-group[10877]-10877-0">Public Relations &amp; Marketing</label></li>
+                                <li><input type="checkbox" value="2" name="group[10877][2]" id="mce-group[10877]-10877-1"><label for="mce-group[10877]-10877-1">Finance &amp; Sponsoring</label></li>
+                                <li><input type="checkbox" value="4" name="group[10877][4]" id="mce-group[10877]-10877-2"><label for="mce-group[10877]-10877-2">IT and Microsites</label></li>
+                                <li><input type="checkbox" value="8" name="group[10877][8]" id="mce-group[10877]-10877-3"><label for="mce-group[10877]-10877-3">Members</label></li>
+                                <li><input type="checkbox" value="16" name="group[10877][16]" id="mce-group[10877]-10877-4"><label for="mce-group[10877]-10877-4">External Relations</label></li>
+                                <li><input type="checkbox" value="32" name="group[10877][32]" id="mce-group[10877]-10877-5"><label for="mce-group[10877]-10877-5">Events in general</label></li>
+                                <li><input type="checkbox" value="64" name="group[10877][64]" id="mce-group[10877]-10877-6"><label for="mce-group[10877]-10877-6">Events: Hackathon</label></li>
+                                <li><input type="checkbox" value="128" name="group[10877][128]" id="mce-group[10877]-10877-7"><label for="mce-group[10877]-10877-7">Events: Startup Speed Dating</label></li>
+                                <li><input type="checkbox" value="256" name="group[10877][256]" id="mce-group[10877]-10877-8"><label for="mce-group[10877]-10877-8">Everything!</label></li>
+                            </ul>
+                        </div>
+                        <div id="mce-responses" class="clear">
+                            <div class="response" id="mce-error-response" style="display:none"></div>
+                            <div class="response" id="mce-success-response" style="display:none"></div>
+                        </div>
+                        <div class="indicates-required">
+                            <p><small><span class="asterisk">*</span> indicates required</small></p>
+                        </div>
+                        <div class="clear">
+                            <input type="submit" value="Join" name="subscribe" id="mc-embedded-subscribe" class="button">
+                        </div>
                     </div>
-                    <div class="clear">
+                </form>
+                <!--End mc_embed_signup-->
+
+                <!-- Begin MailChimp Signup Form -->
+                <form action="http://entrepreneur-club.us6.list-manage2.com/subscribe/post?u=ae86c94391&amp;id=336123add6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" style="border: 2px solid #ccc; padding: 10px;" class="validate" target="_blank" novalidate>
+                    <h4>Newsletter only</h4>
+                    <p>If you only want to receive our public newsletter:</p>
+                    <div id="mc_embed_signup">
+                        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Your E-Mail" required>
                         <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-                        <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
                     </div>
                 </form>
-                </div>
-                </form>
+                <!--End mc_embed_signup-->
             </div>
             <div class="large-6 columns">
                 <div class="newsletter-teaser">
