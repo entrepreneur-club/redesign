@@ -513,6 +513,18 @@
                         <div class="card-description">venturelab</div>
                     </a>
                 </div>
+                <div class="card adm">
+                    <a href="http://the-polo.com/">
+                        <div class="card-image"></div>
+                        <div class="card-description">AD.M</div>
+                    </a>
+                </div>
+                <div class="card b2v">
+                    <a href="http://www.b-to-v.com/">
+                        <div class="card-image"></div>
+                        <div class="card-description">b to v Partners</div>
+                    </a>
+                </div>
                 <div class="card pcu">
                     <a href="http://www.pcunetwork.com/">
                         <div class="card-image"></div>
