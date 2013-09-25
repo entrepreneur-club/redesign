@@ -282,6 +282,22 @@
 
                     <li>
                         <a href="#" class="toggle">
+                            Startup Forum<span class="event-date">31.10.2013, Universität Zürich, KOH-B-10</span> <span class="entypo-right-open-big right"></span>
+                        </a>
+                        <div class="row event-description">
+                            <div class="large-5 columns event-picture">
+                                <a class="button centered" href="http://www.facebook.com/events/188622814642193/" target="_blank">View Event on Facebook</a>
+                            </div>
+                            <div class="large-7 columns">
+                                <p>
+                                    The Startup Forum will take place on 31st October at the University of Zurich! Jointly organized by the UZH-Startuppers and the Entrepreneur Club, the event gives four startups the opportunity to present themselves in front of a challenging audience. A group of experts, including the founder of DeinDeal Adrian Locher, will give valuable feedback to the teams and will designate a winner. Entrance is free, including an aperitif after the event!
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li>
+                        <a href="#" class="toggle">
                             Lunch Pitch #2 <span class="event-date">12.11.2013</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
