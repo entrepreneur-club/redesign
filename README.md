@@ -6,8 +6,6 @@ Apache, PHP 5.3, MySQL, Compass, Composer
 
 	sudo apt-get install apache2 php5 php5-mysql php5-gd php5-curl php5-tidy mysql-common rubygems git
 	sudo gem install compass
-	curl -s https://getcomposer.org/installer | php
-	sudo mv composer.phar /usr/local/bin/composer
 
 ### Then ...
 	
@@ -29,7 +27,7 @@ If you didn't have the '/var/www' folder before, change the ownership to 'your-u
 	
 ### Setting up the silverstripe config
 
-Here is a sample silverstripe configuration that you can start with – it has to go into 'mysite/_config.php'
+Here is a sample silverstripe configuration that you can start with – it has to go into `mysite/_config.php`. `cp mysite/_config.php.prod-example mysite/_config.php`
 
 	<?php
 	
@@ -52,3 +50,7 @@ Here is a sample silverstripe configuration that you can start with – it has t
 	SSViewer::setOption('rewriteHashlinks', false);
 	?>
 
+
+## Compile SCSS
+    cd themes/EC/sass
+    compass compile
