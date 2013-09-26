@@ -23,6 +23,9 @@ If you didn't have the '/var/www' folder before, change the ownership to 'your-u
 ### Cloning the repo
 
 	git clone git@github.com:entrepreneur-club/redesign
+	cd redesign
+	git submodule init
+	git submodule update
 	
 ### Setting up the silverstripe config
 

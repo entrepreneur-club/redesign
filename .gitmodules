@@ -1,0 +1,139 @@
+[submodule "cms"]
+  path = cms
+  url = git://github.com/silverstripe/silverstripe-cms.git
+
+[submodule "themes/EC/sass/foundation"]
+  path = themes/EC/sass/foundation
+  url = https://github.com/zurb/foundation.git
+
+[submodule "themes/simple"]
+  path = themes/simple
+  url = git://github.com/silverstripe-themes/silverstripe-simple.git
+
+[submodule "framework"]
+  path = framework
+  url = git://github.com/silverstripe/silverstripe-framework.git
+
+[submodule "buildtools"]
+  path = buildtools
+  url = git://github.com/silverstripe/silverstripe-buildtools.git
+
+[submodule "vendor/silverstripe/behat-extension"]
+	path = vendor/silverstripe/behat-extension
+	url = git://github.com/silverstripe-labs/silverstripe-behat-extension.git
+
+[submodule "vendor/behat/gherkin"]
+	path = vendor/behat/gherkin
+	url = git://github.com/Behat/Gherkin.git
+
+[submodule "vendor/composer/installers"]
+	path = vendor/composer/installers
+	url = git://github.com/composer/installers.git
+
+[submodule "vendor/guzzle/parser/Guzzle/Parser"]
+	path = vendor/guzzle/parser/Guzzle/Parser
+	url = git://github.com/guzzle/parser.git
+
+[submodule "vendor/guzzle/common/Guzzle/Common"]
+	path = vendor/guzzle/common/Guzzle/Common
+	url = git://github.com/guzzle/common.git
+
+[submodule "vendor/guzzle/http/Guzzle/Http"]
+	path = vendor/guzzle/http/Guzzle/Http
+	url = git://github.com/guzzle/http.git
+
+[submodule "vendor/guzzle/stream/Guzzle/Stream"]
+	path = vendor/guzzle/stream/Guzzle/Stream
+	url = git://github.com/guzzle/stream.git
+
+[submodule "vendor/phpunit/phpunit-mock-objects"]
+	path = vendor/phpunit/phpunit-mock-objects
+	url = git://github.com/sebastianbergmann/phpunit-mock-objects.git
+
+[submodule "vendor/phpunit/php-file-iterator"]
+	path = vendor/phpunit/php-file-iterator
+	url = git://github.com/sebastianbergmann/php-file-iterator.git
+
+[submodule "vendor/phpunit/php-text-template"]
+	path = vendor/phpunit/php-text-template
+	url = git://github.com/sebastianbergmann/php-text-template.git
+
+[submodule "vendor/phpunit/php-code-coverage"]
+	path = vendor/phpunit/php-code-coverage
+	url = git://github.com/sebastianbergmann/php-code-coverage.git
+
+[submodule "vendor/phpunit/php-timer"]
+	path = vendor/phpunit/php-timer
+	url = git://github.com/sebastianbergmann/php-timer.git
+
+[submodule "vendor/phpunit/php-token-stream"]
+	path = vendor/phpunit/php-token-stream
+	url = git://github.com/sebastianbergmann/php-token-stream.git
+
+[submodule "vendor/phpunit/phpunit"]
+	path = vendor/phpunit/phpunit
+	url = git://github.com/sebastianbergmann/phpunit.git
+
+[submodule "vendor/symfony/dom-crawler/Symfony/Component/DomCrawler"]
+	path = vendor/symfony/dom-crawler/Symfony/Component/DomCrawler
+	url = git://github.com/symfony/DomCrawler.git
+
+[submodule "vendor/symfony/process/Symfony/Component/Process"]
+	path = vendor/symfony/process/Symfony/Component/Process
+	url = git://github.com/symfony/Process.git
+
+[submodule "vendor/symfony/translation/Symfony/Component/Translation"]
+	path = vendor/symfony/translation/Symfony/Component/Translation
+	url = git://github.com/symfony/Translation.git
+
+[submodule "vendor/symfony/browser-kit/Symfony/Component/BrowserKit"]
+	path = vendor/symfony/browser-kit/Symfony/Component/BrowserKit
+	url = git://github.com/symfony/BrowserKit.git
+
+[submodule "vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher"]
+	path = vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher
+	url = git://github.com/symfony/EventDispatcher.git
+
+[submodule "vendor/symfony/console/Symfony/Component/Console"]
+	path = vendor/symfony/console/Symfony/Component/Console
+	url = git://github.com/symfony/Console.git
+
+[submodule "vendor/symfony/filesystem/Symfony/Component/Filesystem"]
+	path = vendor/symfony/filesystem/Symfony/Component/Filesystem
+	url = git://github.com/symfony/Filesystem.git
+
+[submodule "vendor/symfony/finder/Symfony/Component/Finder"]
+	path = vendor/symfony/finder/Symfony/Component/Finder
+	url = git://github.com/symfony/Finder.git
+
+[submodule "vendor/symfony/css-selector/Symfony/Component/CssSelector"]
+	path = vendor/symfony/css-selector/Symfony/Component/CssSelector
+	url = git://github.com/symfony/CssSelector.git
+
+[submodule "vendor/symfony/yaml/Symfony/Component/Yaml"]
+	path = vendor/symfony/yaml/Symfony/Component/Yaml
+	url = git://github.com/symfony/Yaml.git
+
+[submodule "vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection"]
+	path = vendor/symfony/dependency-injection/Symfony/Component/DependencyInjection
+	url = git://github.com/symfony/DependencyInjection.git
+
+[submodule "vendor/symfony/config/Symfony/Component/Config"]
+	path = vendor/symfony/config/Symfony/Component/Config
+	url = git://github.com/symfony/Config.git
+
+[submodule "vendor/instaclick/php-webdriver"]
+	path = vendor/instaclick/php-webdriver
+	url = git://github.com/instaclick/php-webdriver.git
+
+[submodule "vendor/fabpot/goutte"]
+	path = vendor/fabpot/goutte
+	url = git://github.com/fabpot/Goutte.git
+
+[submodule "docsviewer"]
+  path = docsviewer
+  url = git://github.com/silverstripe/silverstripe-docsviewer.git
+
+[submodule "testsession"]
+  path = testsession
+  url = git://github.com/silverstripe-labs/silverstripe-testsession.git
