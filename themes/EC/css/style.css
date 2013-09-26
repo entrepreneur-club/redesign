@@ -6899,7 +6899,7 @@ footer a {
 }
 /* line 387, ../sass/style.sass */
 .cards .card.bearing .card-image {
-  background-image: url('../images/bearing.png?1373617676');
+  background-image: url('../images/bearing.png?1380212823');
 }
 /* line 389, ../sass/style.sass */
 .cards .card.pcu {
@@ -6907,81 +6907,97 @@ footer a {
 }
 /* line 391, ../sass/style.sass */
 .cards .card.pcu .card-image {
-  background-image: url('../images/pcu.png?1379450933');
+  background-image: url('../images/pcu.png?1380212823');
 }
 /* line 393, ../sass/style.sass */
+.cards .card.adm {
+  background: white;
+}
+/* line 395, ../sass/style.sass */
+.cards .card.adm .card-image {
+  background-image: url('../images/adm.png?1380212823');
+}
+/* line 397, ../sass/style.sass */
+.cards .card.b2v {
+  background: #0e3f7b;
+}
+/* line 399, ../sass/style.sass */
+.cards .card.b2v .card-image {
+  background-image: url('../images/b2v.gif?1380212823');
+}
+/* line 401, ../sass/style.sass */
 .cards .card.evernote {
   background: #b0da8f;
 }
-/* line 395, ../sass/style.sass */
+/* line 403, ../sass/style.sass */
 .cards .card.evernote .card-image {
-  background-image: url('../images/evernote_a.png?1376988439');
+  background-image: url('../images/evernote_a.png?1380212823');
 }
-/* line 397, ../sass/style.sass */
+/* line 405, ../sass/style.sass */
 .cards .card.vlab {
   background: #f0f0f0;
 }
-/* line 399, ../sass/style.sass */
+/* line 407, ../sass/style.sass */
 .cards .card.vlab .card-image {
-  background-image: url('../images/vlabre_logo.png?1373617480');
+  background-image: url('../images/vlabre_logo.png?1380212823');
 }
-/* line 401, ../sass/style.sass */
+/* line 409, ../sass/style.sass */
 .cards .card.lakestar {
   background: #5b4730;
 }
-/* line 403, ../sass/style.sass */
+/* line 411, ../sass/style.sass */
 .cards .card.lakestar .card-image {
-  background-image: url('../images/lakestar.png?1379450933');
+  background-image: url('../images/lakestar.png?1380212823');
 }
-/* line 405, ../sass/style.sass */
+/* line 413, ../sass/style.sass */
 .cards .card.rs {
   background: #f1f1f1;
 }
-/* line 407, ../sass/style.sass */
+/* line 415, ../sass/style.sass */
 .cards .card.rs .card-image {
-  background-image: url('../images/rs.png?1373617215');
+  background-image: url('../images/rs.png?1380212823');
 }
-/* line 409, ../sass/style.sass */
+/* line 417, ../sass/style.sass */
 .cards .card.stu {
   background: #c8beb7;
 }
-/* line 411, ../sass/style.sass */
+/* line 419, ../sass/style.sass */
 .cards .card.stu .card-image {
-  background-image: url('../images/startups_s.png?1373619101');
+  background-image: url('../images/startups_s.png?1380212823');
 }
-/* line 413, ../sass/style.sass */
+/* line 421, ../sass/style.sass */
 .cards .card.stf {
   background: #0073e5;
 }
-/* line 415, ../sass/style.sass */
+/* line 423, ../sass/style.sass */
 .cards .card.stf .card-image {
-  background-image: url('../images/standort_zuerich.png?1373619539');
+  background-image: url('../images/standort_zuerich.png?1380212823');
 }
-/* line 417, ../sass/style.sass */
+/* line 425, ../sass/style.sass */
 .cards .card.stfu {
   background: #00b1f4;
 }
-/* line 419, ../sass/style.sass */
+/* line 427, ../sass/style.sass */
 .cards .card.stfu .card-image {
-  background-image: url('../images/stifuntent.png?1373625186');
+  background-image: url('../images/stifuntent.png?1380212823');
 }
-/* line 421, ../sass/style.sass */
+/* line 429, ../sass/style.sass */
 .cards .card.kic {
   background: #e2eaf4;
 }
-/* line 423, ../sass/style.sass */
+/* line 431, ../sass/style.sass */
 .cards .card.kic .card-image {
-  background-image: url('../images/kic.png?1373625601');
+  background-image: url('../images/kic.png?1380212823');
 }
-/* line 425, ../sass/style.sass */
+/* line 433, ../sass/style.sass */
 .cards .card.uzhs {
   background: #bfcfe5;
 }
-/* line 427, ../sass/style.sass */
+/* line 435, ../sass/style.sass */
 .cards .card.uzhs .card-image {
-  background-image: url('../images/uzhs_logo.png?1379451350');
+  background-image: url('../images/uzhs_logo.png?1380212823');
 }
-/* line 429, ../sass/style.sass */
+/* line 437, ../sass/style.sass */
 .cards .card-image {
   width: 100%;
   height: 100%;
@@ -6992,7 +7008,7 @@ footer a {
   left: 0;
   margin: 0 auto;
 }
-/* line 439, ../sass/style.sass */
+/* line 447, ../sass/style.sass */
 .cards .card-description {
   margin: 0;
   position: absolute;
@@ -7007,16 +7023,16 @@ footer a {
   line-height: 1.2;
 }
 
-/* line 452, ../sass/style.sass */
+/* line 460, ../sass/style.sass */
 .map {
   border: 1px solid #333333;
 }
 
-/* line 455, ../sass/style.sass */
+/* line 463, ../sass/style.sass */
 .newsletter-teaser {
   margin-top: 30px;
 }
-/* line 457, ../sass/style.sass */
+/* line 465, ../sass/style.sass */
 .newsletter-teaser img {
   width: 100%;
 }
