@@ -25,32 +25,21 @@ If you didn't have the '/var/www' folder before, change the ownership to 'your-u
 	git submodule init
 	git submodule update
 	
-### Setting up the silverstripe config
+### Setting up the config and `.htaccess` file
 
-Here is a sample silverstripe configuration that you can start with – it has to go into `mysite/_config.php`. `cp mysite/_config.php.prod-example mysite/_config.php`
+Copy the sample config and edit it:
+    
+    cp mysite/_config.php.prod-example mysite/_config.php
+    $EDITOR mysite/_config.php
+    
+Then, add the server `.htaccess` file:
 
-	<?php
-	
-	global $project;
-	$project = 'mysite';
-	
-	global $databaseConfig;
-	$databaseConfig = array(
-	        "type" => 'MySQLDatabase',
-	        "server" => 'localhost',
-	        "username" => 'silverstripe',
-	        "password" => '<redacted>',
-	        "database" => 'silverstripe',
-	        "path" => '',
-	);
-	
-	// Set the site locale
-	i18n::set_locale('de_CH');
-	
-	SSViewer::setOption('rewriteHashlinks', false);
-	?>
+    cp .htaccess-server .htaccess
 
+Finito!
 
 ## Compile SCSS
+Update the compiled CSS files after making changes to any `.scss` files like this:
+
     cd themes/EC/sass
     compass compile
