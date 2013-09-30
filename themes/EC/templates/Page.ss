@@ -138,6 +138,7 @@
                 <h1>Our Events</h1>
             </div>
             <div class="large-4 columns right-events-link">
+                <a href="http://www.google.com/calendar/render?cid=https%3A%2F%2Fwww.google.com%2Fcalendar%2Ffeeds%2Fpr%2540entrepreneur-club.org%2Fpublic%2Fbasic" target="_blank"><img src="//www.google.com/calendar/images/ext/gc_button1.gif" border=0></a>&nbsp;&nbsp;&nbsp;&nbsp;
                 <a class="right" href="http://www.facebook.com/entrepreneur.club.zurich/events" target="_blank">View on Facebook</a>
             </div>
             <div class="large-12 columns">
@@ -286,7 +287,7 @@
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
-                                <a class="button centered" href="http://www.facebook.com/events/188622814642193/" target="_blank">View Event on Facebook</a>
+                                <a class="button centered" href="https://www.facebook.com/events/665380430145018/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
                                 <p>
