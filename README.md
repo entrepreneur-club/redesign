@@ -41,5 +41,5 @@ Finito!
 ## Compile SCSS
 Update the compiled CSS files after making changes to any `.scss` files like this:
 
-    cd themes/EC/sass
+    cd themes/EC/
     compass compile
