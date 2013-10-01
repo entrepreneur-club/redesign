@@ -498,79 +498,79 @@
 
 
                 <div class="card lakestar">
-                    <a href="http://www.lakestar.com/">
+                    <a href="http://www.lakestar.com/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">Lakestar</div>
                     </a>
                 </div>
                 <div class="card adm">
-                    <a href="http://the-polo.com/">
+                    <a href="http://the-polo.com/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">AD.M</div>
                     </a>
                 </div>
                 <div class="card b2v">
-                    <a href="http://www.b-to-v.com/">
+                    <a href="http://www.b-to-v.com/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">b to v Partners</div>
                     </a>
                 </div>
                 <div class="card pcu">
-                    <a href="http://www.pcunetwork.com/">
+                    <a href="http://www.pcunetwork.com/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">Pioneers' Club</div>
                     </a>
                 </div>
                 <div class="card bearing">
-                    <a href="http://www.bearingpoint.com/en-ch/">
+                    <a href="http://www.bearingpoint.com/en-ch/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">Bearing Point</div>
                     </a>
                 </div>
                 <div class="card evernote">
-                    <a href="https://evernote.com/">
+                    <a href="https://evernote.com/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">Evernote</div>
                     </a>
                 </div>
                 <div class="card rs">
-                    <a href="http://rollspeed.net/">
+                    <a href="http://rollspeed.net/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">Rollspeed</div>
                     </a>
                 </div>
                 <div class="card vlab">
-                    <a href="http://www.venturelab.ch/">
+                    <a href="http://www.venturelab.ch/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">venturelab</div>
                     </a>
                 </div>
                 <div class="card stfu">
-                    <a href="http://www.kmufuture.ch/">
+                    <a href="http://www.kmufuture.ch/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">Stiftung für unternehmerische Entwicklung</div>
                     </a>
                 </div>
                 <div class="card uzhs">
-                    <a href="http://www.uzh-startuppers.ch">
+                    <a href="http://www.uzh-startuppers.ch" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">UZH-Startuppers</div>
                     </a>
                 </div>
                 <div class="card stu">
-                    <a href="http://www.startups.ch">
+                    <a href="http://www.startups.ch" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">Startups.ch</div>
                     </a>
                 </div>
                 <div class="card kic">
-                    <a href="http://www.climate-kic.org/">
+                    <a href="http://www.climate-kic.org/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">Klimate KIC</div>
                     </a>
                 </div>
                 <div class="card stf">
-                    <a href="http://www.standort.zh.ch">
+                    <a href="http://www.standort.zh.ch" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">Standortförderung Zürich</div>
                     </a>
