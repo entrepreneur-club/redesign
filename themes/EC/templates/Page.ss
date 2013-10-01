@@ -476,58 +476,31 @@
         </div>
         <div class="cards">
             <div class="cards-canvas">
-                <div class="card uzhs">
-                    <a href="http://www.uzh-startuppers.ch">
+                <div class="card r3">
+                    <a href="http://www.r3-companies.com/">
                         <div class="card-image"></div>
-                        <div class="card-description">UZH-Startuppers</div>
+                        <div class="card-description">R3 companies</div>
                     </a>
                 </div>
-                <div class="card stu">
-                    <a href="http://www.startups.ch">
+                <div class="card marcbrandis">
+                    <a href="http://www.brandis.ch/">
                         <div class="card-image"></div>
-                        <div class="card-description">Startups.ch</div>
+                        <div class="card-description">Marc Brandis Consulting</div>
                     </a>
                 </div>
-                <div class="card stf">
-                    <a href="http://www.standort.zh.ch">
+                <div class="card walderwyss">
+                    <a href="http://www.walderwyss.com/">
                         <div class="card-image"></div>
-                        <div class="card-description">Standortförderung Zürich</div>
+                        <div class="card-description">Walder Wyss Rechtsanwälte</div>
                     </a>
                 </div>
+
+
+
                 <div class="card lakestar">
                     <a href="http://www.lakestar.com/">
                         <div class="card-image"></div>
                         <div class="card-description">Lakestar</div>
-                    </a>
-                </div>
-                <div class="card kic">
-                    <a href="http://www.climate-kic.org/">
-                        <div class="card-image"></div>
-                        <div class="card-description">Klimate KIC</div>
-                    </a>
-                </div>
-                <div class="card stfu">
-                    <a href="http://www.kmufuture.ch/">
-                        <div class="card-image"></div>
-                        <div class="card-description">Stiftung für unternehmerische Entwicklung</div>
-                    </a>
-                </div>
-                <div class="card evernote">
-                    <a href="https://evernote.com/">
-                        <div class="card-image"></div>
-                        <div class="card-description">Evernote</div>
-                    </a>
-                </div>
-                <div class="card rs">
-                    <a href="http://rollspeed.net/">
-                        <div class="card-image"></div>
-                        <div class="card-description">Rollspeed</div>
-                    </a>
-                </div>
-                <div class="card vlab">
-                    <a href="http://www.venturelab.ch/">
-                        <div class="card-image"></div>
-                        <div class="card-description">venturelab</div>
                     </a>
                 </div>
                 <div class="card adm">
@@ -552,6 +525,54 @@
                     <a href="http://www.bearingpoint.com/en-ch/">
                         <div class="card-image"></div>
                         <div class="card-description">Bearing Point</div>
+                    </a>
+                </div>
+                <div class="card evernote">
+                    <a href="https://evernote.com/">
+                        <div class="card-image"></div>
+                        <div class="card-description">Evernote</div>
+                    </a>
+                </div>
+                <div class="card rs">
+                    <a href="http://rollspeed.net/">
+                        <div class="card-image"></div>
+                        <div class="card-description">Rollspeed</div>
+                    </a>
+                </div>
+                <div class="card vlab">
+                    <a href="http://www.venturelab.ch/">
+                        <div class="card-image"></div>
+                        <div class="card-description">venturelab</div>
+                    </a>
+                </div>
+                <div class="card stfu">
+                    <a href="http://www.kmufuture.ch/">
+                        <div class="card-image"></div>
+                        <div class="card-description">Stiftung für unternehmerische Entwicklung</div>
+                    </a>
+                </div>
+                <div class="card uzhs">
+                    <a href="http://www.uzh-startuppers.ch">
+                        <div class="card-image"></div>
+                        <div class="card-description">UZH-Startuppers</div>
+                    </a>
+                </div>
+                <div class="card stu">
+                    <a href="http://www.startups.ch">
+                        <div class="card-image"></div>
+                        <div class="card-description">Startups.ch</div>
+                    </a>
+                </div>
+                <div class="card kic">
+                    <a href="http://www.climate-kic.org/">
+                        <div class="card-image"></div>
+                        <div class="card-description">Klimate KIC</div>
+                    </a>
+                </div>
+                <div class="card stf">
+                    <a href="http://www.standort.zh.ch">
+                        <div class="card-image"></div>
+                        <div class="card-description">Standortförderung Zürich</div>
                     </a>
                 </div>
             </div>
