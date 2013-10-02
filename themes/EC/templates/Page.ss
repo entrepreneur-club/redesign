@@ -43,14 +43,16 @@
     <section class="image-slider">
         <ul class="slider">
             <li>
-                <div class="slide" style="background-image: url($ThemeDir/images/kickoff_banner.jpg);">
+                <a href="http://hackathon.entrepreneur-club.org/" target="_blank">
+                    <div class="slide" style="background-image: url($ThemeDir/images/hackathon_banner.png);">
                     <div class="row slider-message-row">
                         <div class="slider-message large-5">
-                            <h2>Join us at our<br>Kick Off!</h2>
-                            <p>With Marco Börries and Georg Polzer! Launch into an exciting semester with us!</p>
+                            <h2>Hackathon! Developer, Designer, Visionary?</h2>
+                            <p>24 hours of designing and developing awesome applications! With a chance to win an iPad. Register now!</p>
                         </div>
                     </div>
                 </div>
+                </a>
             </li>
             <li>
                 <div class="slide" style="background-image: url($ThemeDir/images/HD-Landscape-Wallpaper1.jpg);">
@@ -268,15 +270,17 @@
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
                                 <img src="$ThemeDir/images/hackathon.jpg">
-                                <a class="button centered" href="http://www.facebook.com/events/188622814642193/" target="_blank">View Event on Facebook</a>
+                                <a class="button centered" href="http://hackathon.entrepreneur-club.org/" target="_blank">Register now!</a>
                             </div>
                             <div class="large-7 columns">
                                 <p>
-                                    Join us for our most awesome Hackathon yet!
+                                    Join us for the second, even more epic Hackathon! 
+                                </p><p>
+24 hours to go from vision to reality! Meet interesting people with crazy ideas and develop applications together. 
+A jury, which includes Mark Schmitz (Lakestar) and Penny Schiffer (Venture Kick), will then judge applications. They will award Apple iPads, Swisscom vouchers, and other prizes to the winning teams! 
+Free food, free drinks. The only thing you'll have to bring is a laptop and willpower! And maybe a sleeping matress and a tooth brush – but that's up to you. 
                                 </p>
-                                <p>
-                                    In 24 hours we will try to go from vision to code and create working programs. The only limit is your imagination.
-                                </p>
+                                <p>More information and registration on: <a href="http://hackathon.entrepreneur-club.org/">http://hackathon.entrepreneur-club.org/</a></p>
                             </div>
                         </div>
                     </li>
@@ -477,30 +481,33 @@
         <div class="cards">
             <div class="cards-canvas">
                 <div class="card r3">
-                    <a href="http://www.r3-companies.com/">
+                    <a href="http://www.r3-companies.com/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">R3 companies</div>
                     </a>
                 </div>
                 <div class="card marcbrandis">
-                    <a href="http://www.brandis.ch/">
+                    <a href="http://www.brandis.ch/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">Marc Brandis Consulting</div>
                     </a>
                 </div>
                 <div class="card walderwyss">
-                    <a href="http://www.walderwyss.com/">
+                    <a href="http://www.walderwyss.com/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">Walder Wyss Rechtsanwälte</div>
                     </a>
                 </div>
-
-
-
                 <div class="card lakestar">
                     <a href="http://www.lakestar.com/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">Lakestar</div>
+                    </a>
+                </div>
+                <div class="card startupmonitor">
+                    <a href="http://startupmonitor.ch/" target="_blank">
+                        <div class="card-image"></div>
+                        <div class="card-description">Swiss Start-up Monitor</div>
                     </a>
                 </div>
                 <div class="card adm">
