@@ -6904,7 +6904,7 @@ footer a {
 }
 /* line 389, ../sass/style.sass */
 .cards .card.r3 .card-image {
-  background-image: url('../images/r3.png?1380712913');
+  background-image: url('../images/r3.png?1380734415');
 }
 /* line 391, ../sass/style.sass */
 .cards .card.walderwyss {
@@ -6912,7 +6912,7 @@ footer a {
 }
 /* line 393, ../sass/style.sass */
 .cards .card.walderwyss .card-image {
-  background-image: url('../images/walderwyss.png?1380713092');
+  background-image: url('../images/walderwyss.png?1380734415');
 }
 /* line 395, ../sass/style.sass */
 .cards .card.marcbrandis {
@@ -6920,7 +6920,7 @@ footer a {
 }
 /* line 397, ../sass/style.sass */
 .cards .card.marcbrandis .card-image {
-  background-image: url('../images/marcbrandis.png?1380713210');
+  background-image: url('../images/marcbrandis.png?1380734415');
 }
 /* line 399, ../sass/style.sass */
 .cards .card.bearing {
@@ -6928,7 +6928,7 @@ footer a {
 }
 /* line 401, ../sass/style.sass */
 .cards .card.bearing .card-image {
-  background-image: url('../images/bearing.png?1373617676');
+  background-image: url('../images/bearing.png?1380660687');
 }
 /* line 403, ../sass/style.sass */
 .cards .card.pcu {
@@ -6936,7 +6936,7 @@ footer a {
 }
 /* line 405, ../sass/style.sass */
 .cards .card.pcu .card-image {
-  background-image: url('../images/pcu.png?1379450933');
+  background-image: url('../images/pcu.png?1380660687');
 }
 /* line 407, ../sass/style.sass */
 .cards .card.adm {
@@ -6944,7 +6944,7 @@ footer a {
 }
 /* line 409, ../sass/style.sass */
 .cards .card.adm .card-image {
-  background-image: url('../images/adm.png?1380707063');
+  background-image: url('../images/adm.png?1380734415');
 }
 /* line 411, ../sass/style.sass */
 .cards .card.b2v {
@@ -6952,7 +6952,7 @@ footer a {
 }
 /* line 413, ../sass/style.sass */
 .cards .card.b2v .card-image {
-  background-image: url('../images/b2v.gif?1380705772');
+  background-image: url('../images/b2v.gif?1380660687');
 }
 /* line 415, ../sass/style.sass */
 .cards .card.evernote {
@@ -6960,7 +6960,7 @@ footer a {
 }
 /* line 417, ../sass/style.sass */
 .cards .card.evernote .card-image {
-  background-image: url('../images/evernote_a.png?1376988439');
+  background-image: url('../images/evernote_a.png?1380660687');
 }
 /* line 419, ../sass/style.sass */
 .cards .card.vlab {
@@ -6968,7 +6968,7 @@ footer a {
 }
 /* line 421, ../sass/style.sass */
 .cards .card.vlab .card-image {
-  background-image: url('../images/vlabre_logo.png?1373617480');
+  background-image: url('../images/vlabre_logo.png?1380660687');
 }
 /* line 423, ../sass/style.sass */
 .cards .card.lakestar {
@@ -6976,7 +6976,7 @@ footer a {
 }
 /* line 425, ../sass/style.sass */
 .cards .card.lakestar .card-image {
-  background-image: url('../images/lakestar.png?1379450933');
+  background-image: url('../images/lakestar.png?1380660687');
 }
 /* line 427, ../sass/style.sass */
 .cards .card.rs {
@@ -6984,57 +6984,65 @@ footer a {
 }
 /* line 429, ../sass/style.sass */
 .cards .card.rs .card-image {
-  background-image: url('../images/rs.png?1373617215');
+  background-image: url('../images/rs.png?1380660687');
 }
 /* line 431, ../sass/style.sass */
+.cards .card.technopark {
+  background: #d8eaf5;
+}
+/* line 433, ../sass/style.sass */
+.cards .card.technopark .card-image {
+  background-image: url('../images/technopark.png?1380734944');
+}
+/* line 435, ../sass/style.sass */
 .cards .card.stu {
   background: #c8beb7;
 }
-/* line 433, ../sass/style.sass */
+/* line 437, ../sass/style.sass */
 .cards .card.stu .card-image {
-  background-image: url('../images/startups_s.png?1373619101');
+  background-image: url('../images/startups_s.png?1380660687');
 }
-/* line 435, ../sass/style.sass */
+/* line 439, ../sass/style.sass */
 .cards .card.stf {
   background: #0073e5;
 }
-/* line 437, ../sass/style.sass */
+/* line 441, ../sass/style.sass */
 .cards .card.stf .card-image {
-  background-image: url('../images/standort_zuerich.png?1373619539');
+  background-image: url('../images/standort_zuerich.png?1380660687');
 }
-/* line 439, ../sass/style.sass */
+/* line 443, ../sass/style.sass */
 .cards .card.stfu {
   background: #00b1f4;
 }
-/* line 441, ../sass/style.sass */
+/* line 445, ../sass/style.sass */
 .cards .card.stfu .card-image {
-  background-image: url('../images/stifuntent.png?1373625186');
+  background-image: url('../images/stifuntent.png?1380660687');
 }
-/* line 443, ../sass/style.sass */
+/* line 447, ../sass/style.sass */
 .cards .card.kic {
   background: #e2eaf4;
 }
-/* line 445, ../sass/style.sass */
+/* line 449, ../sass/style.sass */
 .cards .card.kic .card-image {
-  background-image: url('../images/kic.png?1373625601');
+  background-image: url('../images/kic.png?1380660687');
 }
-/* line 447, ../sass/style.sass */
+/* line 451, ../sass/style.sass */
 .cards .card.uzhs {
   background: #bfcfe5;
 }
-/* line 449, ../sass/style.sass */
+/* line 453, ../sass/style.sass */
 .cards .card.uzhs .card-image {
-  background-image: url('../images/uzhs_logo.png?1379451350');
+  background-image: url('../images/uzhs_logo.png?1380660687');
 }
-/* line 451, ../sass/style.sass */
+/* line 455, ../sass/style.sass */
 .cards .card.startupmonitor {
   background: #ffd0d0;
 }
-/* line 453, ../sass/style.sass */
+/* line 457, ../sass/style.sass */
 .cards .card.startupmonitor .card-image {
-  background-image: url('../images/startupmonitor.png?1380706472');
+  background-image: url('../images/startupmonitor.png?1380734415');
 }
-/* line 455, ../sass/style.sass */
+/* line 459, ../sass/style.sass */
 .cards .card-image {
   width: 100%;
   height: 100%;
@@ -7045,7 +7053,7 @@ footer a {
   left: 0;
   margin: 0 auto;
 }
-/* line 464, ../sass/style.sass */
+/* line 468, ../sass/style.sass */
 .cards .card-description {
   margin: 0;
   position: absolute;
@@ -7060,16 +7068,16 @@ footer a {
   line-height: 1.2;
 }
 
-/* line 477, ../sass/style.sass */
+/* line 481, ../sass/style.sass */
 .map {
   border: 1px solid #333333;
 }
 
-/* line 480, ../sass/style.sass */
+/* line 484, ../sass/style.sass */
 .newsletter-teaser {
   margin-top: 30px;
 }
-/* line 482, ../sass/style.sass */
+/* line 486, ../sass/style.sass */
 .newsletter-teaser img {
   width: 100%;
 }

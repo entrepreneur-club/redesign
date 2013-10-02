@@ -504,6 +504,12 @@ Free food, free drinks. The only thing you'll have to bring is a laptop and will
                         <div class="card-description">Lakestar</div>
                     </a>
                 </div>
+                <div class="card technopark">
+                    <a href="http://www.technopark.ch/" target="_blank">
+                        <div class="card-image"></div>
+                        <div class="card-description">Technopark</div>
+                    </a>
+                </div>
                 <div class="card startupmonitor">
                     <a href="http://startupmonitor.ch/" target="_blank">
                         <div class="card-image"></div>
