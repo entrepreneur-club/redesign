@@ -166,7 +166,7 @@
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            Kick Off <span class="event-date">24.9.2013, 18.15</span> <span class="entypo-right-open-big right"></span>
+                            Kick Off <span class="event-date">24.9.2013, 18.15, ETH Zurich, HG E 5</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
@@ -211,7 +211,7 @@
 
                     <li>
                         <a href="#" class="toggle">
-                            Meet the founder of... <span class="event-date">3.10.2013</span> <span class="entypo-right-open-big right"></span>
+                            Meet the founder of... <span class="event-date">3.10.2013, ETH Zentrum, HG D7.1</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
@@ -223,7 +223,7 @@
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            Lunch Pitch #1<span class="event-date">8.10.2013</span> <span class="entypo-right-open-big right"></span>
+                            Lunch Pitch #1<span class="event-date">8.10.2013, ETH Zentrum, HG E 41</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
@@ -249,7 +249,7 @@
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            Startup Tour Centralway, Centralway<span class="event-date">16.10.2013</span> <span class="entypo-right-open-big right"></span>
+                            Startup Tour Centralway, Centralway<span class="event-date">16.10.2013, Centralway, Binzstrasse 18, 8045 Zurich</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
@@ -287,7 +287,7 @@ Free food, free drinks. The only thing you'll have to bring is a laptop and will
 
                     <li>
                         <a href="#" class="toggle">
-                            Startup Forum<span class="event-date">31.10.2013, Universität Zürich, KOH-B-10</span> <span class="entypo-right-open-big right"></span>
+                            Startup Forum<span class="event-date">31.10.2013, Uni Zürich, KOH-B-10</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
@@ -303,7 +303,7 @@ Free food, free drinks. The only thing you'll have to bring is a laptop and will
 
                     <li>
                         <a href="#" class="toggle">
-                            Lunch Pitch #2 <span class="event-date">12.11.2013</span> <span class="entypo-right-open-big right"></span>
+                            Lunch Pitch #2 <span class="event-date">12.11.2013, ETH Zentrum, HG E 41</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
@@ -334,7 +334,7 @@ Free food, free drinks. The only thing you'll have to bring is a laptop and will
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
                                 <img src="$ThemeDir/images/ssd.jpg">
-                                <a class="button centered" target="_blank" href="http://www.facebook.com/events/691301354217229/">View Event on Facebook</a>
+                                <a class="button centered" target="_blank" href="http://www.facebook.com/events/691301354217229/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
                                 <p>The highlight of every semester is the Startup Speed Dating! In cooperation with our partner organizations, the Entrepreneur Club organizes a forum for startups and students, matching people with ideas with those with skills.</p>
@@ -345,7 +345,7 @@ Free food, free drinks. The only thing you'll have to bring is a laptop and will
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            Meet the founder of BIOVERSYS<span class="event-date">28.11.2013</span> <span class="entypo-right-open-big right"></span>
+                            Meet the founder of BIOVERSYS<span class="event-date">28.11.2013, ETH Zentrum, ieLab</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
@@ -366,7 +366,7 @@ Free food, free drinks. The only thing you'll have to bring is a laptop and will
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
                                 <img src="$ThemeDir/images/lunch.jpg">
-                                <a class="button centered" href="http://www.facebook.com/events/505774622844131/">View Event on Facebook</a>
+                                <a class="button centered" href="http://www.facebook.com/events/505774622844131/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
                                 <p>
