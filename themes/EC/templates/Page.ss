@@ -334,7 +334,7 @@ Free food, free drinks. The only thing you'll have to bring is a laptop and will
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
                                 <img src="$ThemeDir/images/ssd.jpg">
-                                <a class="button centered" target="_blank" href="http://www.facebook.com/events/691301354217229/" target="_blank">View Event on Facebook</a>
+                                <a class="button centered" target="_blank" href="http://ssd.entrepreneur-club.org/" target="_blank">Register now!</a>
                             </div>
                             <div class="large-7 columns">
                                 <p>The highlight of every semester is the Startup Speed Dating! In cooperation with our partner organizations, the Entrepreneur Club organizes a forum for startups and students, matching people with ideas with those with skills.</p>
@@ -556,6 +556,12 @@ Free food, free drinks. The only thing you'll have to bring is a laptop and will
                     <a href="http://www.venturelab.ch/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">venturelab</div>
+                    </a>
+                </div>
+                <div class="card nzzcampus">
+                    <a href="http://campus.nzz.ch/">
+                        <div class="card-image"></div>
+                        <div class="card-description">NZZ Campus</div>
                     </a>
                 </div>
                 <div class="card stfu">
