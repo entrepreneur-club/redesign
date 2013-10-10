@@ -13,6 +13,9 @@ $databaseConfig = array(
         "path" => '',
 );
 
+// set ec theme
+SSViewer::set_theme("EC");
+
 // Set the site locale
 i18n::set_locale('en_US');
 
