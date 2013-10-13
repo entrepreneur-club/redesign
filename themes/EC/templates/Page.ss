@@ -287,7 +287,7 @@ Free food, free drinks. The only thing you'll have to bring is a laptop and will
 
                     <li>
                         <a href="#" class="toggle">
-                            Startup Forum<span class="event-date">31.10.2013 - 18:30 - UZH Zentrum, KOH-B-10</span> <span class="entypo-right-open-big right"></span>
+                            Startup Forum<span class="event-date">31.10.2013 - 19.00 - Universität Zürich, KOL-F-117</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
@@ -295,7 +295,24 @@ Free food, free drinks. The only thing you'll have to bring is a laptop and will
                             </div>
                             <div class="large-7 columns">
                                 <p>
-                                    The Startup Forum will take place on 31st October at the University of Zurich! Jointly organized by the UZH-Startuppers and the Entrepreneur Club, the event gives four startups the opportunity to present themselves in front of a challenging audience. A group of experts, including the founder of DeinDeal Adrian Locher, will give valuable feedback to the teams and will designate a winner. Entrance is free, including an aperitif after the event!
+                                    Be part of the exciting competition of 4 emerging Startups! Challenge them with your questions and help them optimize their business! Together with an experienced group of mentors you can designate the winner of this contest. This event is jointly hosted by the UZH-Startuppers and the Entrepreneur Club, and will take place on the 31st october at the University of Zurich. Entrance is free, including an apero.
+                                </p>
+                                <p>
+                                    <b>The Mentors:</b>
+                                    <ul>
+                                    <li>Adrian Locher (Dein Deal)</li>
+                                    <li>Malte Schiebelmann (Doodle)</li>
+                                    <li>Stella Schieffer (PolyPort GmbH)</li>
+                                    <li>Nicola Blum (The Hub)</li>
+                                    </ul>
+
+                                    <b>The Startups:</b>
+                                    <ul>
+                                    <li>Hometherapy</li>
+                                    <li>Inspire925</li>
+                                    <li>Captain Plant</li>
+                                    <li>Uniboard</li>
+                                    </ul>
                                 </p>
                             </div>
                         </div>
