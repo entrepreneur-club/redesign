@@ -1367,43 +1367,43 @@ footer a { color: #999999; }
 .cards .cards-canvas { padding: 15px; white-space: nowrap; text-align: center; }
 .cards .card { border: none; background: white; width: 250px; height: 300px; display: inline-block; margin-right: 20px; position: relative; white-space: normal; vertical-align: top; overflow: hidden; }
 .cards .card.r3 { background: #a5d8ef; }
-.cards .card.r3 .card-image { background-image: url('../images/r3.png?1380712913'); }
+.cards .card.r3 .card-image { background-image: url('../images/r3.png?1380742570'); }
 .cards .card.walderwyss { background: #ccd2b3; }
-.cards .card.walderwyss .card-image { background-image: url('../images/walderwyss.png?1380713092'); }
+.cards .card.walderwyss .card-image { background-image: url('../images/walderwyss.png?1380742570'); }
 .cards .card.marcbrandis { background: #d1d7ee; }
-.cards .card.marcbrandis .card-image { background-image: url('../images/marcbrandis.png?1380713210'); }
-.cards .card.bearing { background: #c31b32; }
-.cards .card.bearing .card-image { background-image: url('../images/bearing.png?1373617676'); }
+.cards .card.marcbrandis .card-image { background-image: url('../images/marcbrandis.png?1380742570'); }
+.cards .card.bearing { background: white; }
+.cards .card.bearing .card-image { background-image: url('../images/bearingpoint.png?1381688041'); }
 .cards .card.pcu { background: #e00000; }
-.cards .card.pcu .card-image { background-image: url('../images/pcu.png?1379450933'); }
+.cards .card.pcu .card-image { background-image: url('../images/pcu.png?1380742570'); }
 .cards .card.adm { background: #ced8e2; }
-.cards .card.adm .card-image { background-image: url('../images/adm.png?1380707063'); }
+.cards .card.adm .card-image { background-image: url('../images/adm.png?1380742570'); }
 .cards .card.b2v { background: #0e3f7b; }
-.cards .card.b2v .card-image { background-image: url('../images/b2v.gif?1380705772'); }
+.cards .card.b2v .card-image { background-image: url('../images/b2v.gif?1380742570'); }
 .cards .card.evernote { background: #b0da8f; }
-.cards .card.evernote .card-image { background-image: url('../images/evernote_a.png?1376988439'); }
+.cards .card.evernote .card-image { background-image: url('../images/evernote_a.png?1380742570'); }
 .cards .card.vlab { background: #f0f0f0; }
-.cards .card.vlab .card-image { background-image: url('../images/vlabre_logo.png?1373617480'); }
+.cards .card.vlab .card-image { background-image: url('../images/vlabre_logo.png?1380742570'); }
 .cards .card.lakestar { background: #5b4730; }
-.cards .card.lakestar .card-image { background-image: url('../images/lakestar.png?1379450933'); }
+.cards .card.lakestar .card-image { background-image: url('../images/lakestar.png?1380742570'); }
 .cards .card.rs { background: #f1f1f1; }
-.cards .card.rs .card-image { background-image: url('../images/rs.png?1373617215'); }
+.cards .card.rs .card-image { background-image: url('../images/rs.png?1380742570'); }
 .cards .card.technopark { background: #d8eaf5; }
-.cards .card.technopark .card-image { background-image: url('../images/technopark.png?1381219510'); }
+.cards .card.technopark .card-image { background-image: url('../images/technopark.png?1380742570'); }
 .cards .card.stu { background: #c8beb7; }
-.cards .card.stu .card-image { background-image: url('../images/startups_s.png?1373619101'); }
+.cards .card.stu .card-image { background-image: url('../images/startups_s.png?1380742570'); }
 .cards .card.stf { background: #0073e5; }
-.cards .card.stf .card-image { background-image: url('../images/standort_zuerich.png?1373619539'); }
+.cards .card.stf .card-image { background-image: url('../images/standort_zuerich.png?1380742570'); }
 .cards .card.stfu { background: #00b1f4; }
-.cards .card.stfu .card-image { background-image: url('../images/stifuntent.png?1373625186'); }
+.cards .card.stfu .card-image { background-image: url('../images/stifuntent.png?1380742570'); }
 .cards .card.kic { background: #e2eaf4; }
-.cards .card.kic .card-image { background-image: url('../images/kic.png?1373625601'); }
+.cards .card.kic .card-image { background-image: url('../images/kic.png?1380742570'); }
 .cards .card.uzhs { background: #bfcfe5; }
-.cards .card.uzhs .card-image { background-image: url('../images/uzhs_logo.png?1379451350'); }
+.cards .card.uzhs .card-image { background-image: url('../images/uzhs_logo.png?1380742570'); }
 .cards .card.nzzcampus { background: #c7dc97; }
-.cards .card.nzzcampus .card-image { background-image: url('../images/nzz_campus.png?1381219705'); }
+.cards .card.nzzcampus .card-image { background-image: url('../images/nzz_campus.png?1381426121'); }
 .cards .card.startupmonitor { background: #ffd0d0; }
-.cards .card.startupmonitor .card-image { background-image: url('../images/startupmonitor.png?1380706472'); }
+.cards .card.startupmonitor .card-image { background-image: url('../images/startupmonitor.png?1380742570'); }
 .cards .card-image { width: 100%; height: 100%; background-position: center center; background-repeat: no-repeat; position: absolute; top: 0; left: 0; margin: 0 auto; }
 .cards .card-description { margin: 0; position: absolute; bottom: 0; left: 0; white-space: normal; background: rgba(34, 34, 34, 0.6); color: #f2f2f2; padding: 5px; width: 100%; font-weight: 600; line-height: 1.2; }
 
