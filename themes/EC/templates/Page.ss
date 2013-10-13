@@ -491,12 +491,18 @@ Free food, free drinks. The only thing you'll have to bring is a laptop and will
  --%>        </div>
         <div class="row">
             <div class="large-12 columns">
-                <h1>Sponsors &amp; Partners</h1>
-                <p>Our sponsors and partners, who share our values and vision, help us financially to achieve our objectives.</p>
+                <h1>Sponsors</h1>
+                <p>Our sponsors, who share our values and vision, help us financially to achieve our objectives.</p>
             </div>
         </div>
         <div class="cards">
             <div class="cards-canvas">
+                <div class="card walderwyss">
+                    <a href="http://www.walderwyss.com/" target="_blank">
+                        <div class="card-image"></div>
+                        <div class="card-description">Walder Wyss Rechtsanwälte</div>
+                    </a>
+                </div>
                 <div class="card r3">
                     <a href="http://www.r3-companies.com/" target="_blank">
                         <div class="card-image"></div>
@@ -509,40 +515,10 @@ Free food, free drinks. The only thing you'll have to bring is a laptop and will
                         <div class="card-description">Marc Brandis Consulting</div>
                     </a>
                 </div>
-                <div class="card walderwyss">
-                    <a href="http://www.walderwyss.com/" target="_blank">
-                        <div class="card-image"></div>
-                        <div class="card-description">Walder Wyss Rechtsanwälte</div>
-                    </a>
-                </div>
-                <div class="card lakestar">
-                    <a href="http://www.lakestar.com/" target="_blank">
-                        <div class="card-image"></div>
-                        <div class="card-description">Lakestar</div>
-                    </a>
-                </div>
                 <div class="card technopark">
                     <a href="http://www.technopark.ch/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">Technopark</div>
-                    </a>
-                </div>
-                <div class="card startupmonitor">
-                    <a href="http://startupmonitor.ch/" target="_blank">
-                        <div class="card-image"></div>
-                        <div class="card-description">Swiss Start-up Monitor</div>
-                    </a>
-                </div>
-                <div class="card adm">
-                    <a href="http://the-polo.com/" target="_blank">
-                        <div class="card-image"></div>
-                        <div class="card-description">AD.M</div>
-                    </a>
-                </div>
-                <div class="card b2v">
-                    <a href="http://www.b-to-v.com/" target="_blank">
-                        <div class="card-image"></div>
-                        <div class="card-description">b to v Partners</div>
                     </a>
                 </div>
                 <div class="card pcu">
@@ -563,40 +539,10 @@ Free food, free drinks. The only thing you'll have to bring is a laptop and will
                         <div class="card-description">Evernote</div>
                     </a>
                 </div>
-                <div class="card rs">
-                    <a href="http://rollspeed.net/" target="_blank">
-                        <div class="card-image"></div>
-                        <div class="card-description">Rollspeed</div>
-                    </a>
-                </div>
-                <div class="card vlab">
-                    <a href="http://www.venturelab.ch/" target="_blank">
-                        <div class="card-image"></div>
-                        <div class="card-description">venturelab</div>
-                    </a>
-                </div>
                 <div class="card nzzcampus">
                     <a href="http://campus.nzz.ch/">
                         <div class="card-image"></div>
                         <div class="card-description">NZZ Campus</div>
-                    </a>
-                </div>
-                <div class="card stfu">
-                    <a href="http://www.kmufuture.ch/" target="_blank">
-                        <div class="card-image"></div>
-                        <div class="card-description">Stiftung für unternehmerische Entwicklung</div>
-                    </a>
-                </div>
-                <div class="card uzhs">
-                    <a href="http://www.uzh-startuppers.ch" target="_blank">
-                        <div class="card-image"></div>
-                        <div class="card-description">UZH-Startuppers</div>
-                    </a>
-                </div>
-                <div class="card stu">
-                    <a href="http://www.startups.ch" target="_blank">
-                        <div class="card-image"></div>
-                        <div class="card-description">Startups.ch</div>
                     </a>
                 </div>
                 <div class="card kic">
@@ -605,10 +551,50 @@ Free food, free drinks. The only thing you'll have to bring is a laptop and will
                         <div class="card-description">Klimate KIC</div>
                     </a>
                 </div>
-                <div class="card stf">
-                    <a href="http://www.standort.zh.ch" target="_blank">
+            </div>
+        </div>
+        <div class="row">
+            <div class="large-12 columns">
+                <h1>Partners</h1>
+                <p>We work together with our partners to reach our goals.</p>
+            </div>
+        </div>
+        <div class="cards">
+            <div class="cards-canvas">
+                <div class="card lakestar">
+                    <a href="http://www.lakestar.com/" target="_blank">
                         <div class="card-image"></div>
-                        <div class="card-description">Standortförderung Zürich</div>
+                        <div class="card-description">Lakestar</div>
+                    </a>
+                </div>
+                <div class="card startupmonitor">
+                    <a href="http://startupmonitor.ch/" target="_blank">
+                        <div class="card-image"></div>
+                        <div class="card-description">Swiss Start-up Monitor</div>
+                    </a>
+                </div>
+                <div class="card adm">
+                    <a href="http://the-polo.com/" target="_blank">
+                        <div class="card-image"></div>
+                        <div class="card-description">AD.M</div>
+                    </a>
+                </div>
+                <div class="card b2v">
+                    <a href="http://www.b-to-v.com/" target="_blank">
+                        <div class="card-image"></div>
+                        <div class="card-description">b to v Partners</div>
+                    </a>
+                </div>
+                <div class="card vlab">
+                    <a href="http://www.venturelab.ch/" target="_blank">
+                        <div class="card-image"></div>
+                        <div class="card-description">venturelab</div>
+                    </a>
+                </div>
+                <div class="card uzhs">
+                    <a href="http://www.uzh-startuppers.ch" target="_blank">
+                        <div class="card-image"></div>
+                        <div class="card-description">UZH-Startuppers</div>
                     </a>
                 </div>
             </div>
