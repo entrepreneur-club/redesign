@@ -121,7 +121,7 @@
             </div>
             </div>
             <div class="large-6 columns">
-                <img src="$ThemeDir/images/team.jpg" alt="">
+                <a href="$ThemeDir/images/EC_HS13_team_hires.jpg" target="_blank"><img src="$ThemeDir/images/EC_HS13_team_web.jpg" alt="Team"></a>
                 <!--<h4>Old comittees</h4>
                 <p>
                     <ul class="side-nav">
