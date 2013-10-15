@@ -591,6 +591,12 @@ Free food, free drinks. The only thing you'll have to bring is a laptop and will
                         <div class="card-description">venturelab</div>
                     </a>
                 </div>
+                <div class="card stf">
+                    <a href="http://www.standort.zh.ch" target="_blank">
+                        <div class="card-image"></div>
+                        <div class="card-description">Standortförderung Zürich</div>
+                    </a>
+                </div>
                 <div class="card uzhs">
                     <a href="http://www.uzh-startuppers.ch" target="_blank">
                         <div class="card-image"></div>
