@@ -45,18 +45,6 @@
     <section class="image-slider">
         <ul class="slider">
             <li>
-                <a href="http://hackathon.entrepreneur-club.org/" target="_blank">
-                    <div class="slide" style="background-image: url($ThemeDir/images/hackathon_banner.png);">
-                    <div class="row slider-message-row">
-                        <div class="slider-message large-5">
-                            <h2>Hackathon! Developer, Designer, Visionary?</h2>
-                            <p>24 hours of designing and developing awesome applications! With a chance to win an iPad. Register now!</p>
-                        </div>
-                    </div>
-                </div>
-                </a>
-            </li>
-            <li>
                 <div class="slide" style="background-image: url($ThemeDir/images/HD-Landscape-Wallpaper1.jpg);">
                     <div class="row slider-message-row">
                         <div class="slider-message large-5">
