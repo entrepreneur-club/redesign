@@ -517,12 +517,6 @@ Free food, free drinks. The only thing you'll have to bring is a laptop and will
                         <div class="card-description">Pioneers' Club</div>
                     </a>
                 </div>
-                <div class="card bearing">
-                    <a href="http://www.bearingpoint.com/en-ch/" target="_blank">
-                        <div class="card-image"></div>
-                        <div class="card-description">Bearing Point</div>
-                    </a>
-                </div>
                 <div class="card evernote">
                     <a href="https://evernote.com/" target="_blank">
                         <div class="card-image"></div>
@@ -567,6 +561,12 @@ Free food, free drinks. The only thing you'll have to bring is a laptop and will
                     <a href="http://the-polo.com/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">AD.M</div>
+                    </a>
+                </div>
+                <div class="card bearing">
+                    <a href="http://www.bearingpoint.com/en-ch/" target="_blank">
+                        <div class="card-image"></div>
+                        <div class="card-description">Bearing Point</div>
                     </a>
                 </div>
                 <div class="card b2v">
