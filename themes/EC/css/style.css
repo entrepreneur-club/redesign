@@ -1372,7 +1372,7 @@ footer a { color: #999999; }
 .cards .card.walderwyss .card-image { background-image: url('../images/walderwyss.png?1380742570'); }
 .cards .card.marcbrandis { background: #d1d7ee; }
 .cards .card.marcbrandis .card-image { background-image: url('../images/marcbrandis.png?1380742570'); }
-.cards .card.bearing { background: white; }
+.cards .card.bearing { background: #eeeeee; }
 .cards .card.bearing .card-image { background-image: url('../images/bearingpoint.png?1381688041'); }
 .cards .card.pcu { background: #e00000; }
 .cards .card.pcu .card-image { background-image: url('../images/pcu.png?1380742570'); }
@@ -1388,8 +1388,8 @@ footer a { color: #999999; }
 .cards .card.lakestar .card-image { background-image: url('../images/lakestar.png?1380742570'); }
 .cards .card.rs { background: #f1f1f1; }
 .cards .card.rs .card-image { background-image: url('../images/rs.png?1380742570'); }
-.cards .card.technopark { background: #d8eaf5; }
-.cards .card.technopark .card-image { background-image: url('../images/technopark.png?1380742570'); }
+.cards .card.technopark { background: #0061aa; }
+.cards .card.technopark .card-image { background-image: url('../images/technopark.png?1383861663'); }
 .cards .card.stu { background: #c8beb7; }
 .cards .card.stu .card-image { background-image: url('../images/startups_s.png?1380742570'); }
 .cards .card.stf { background: #0073e5; }
