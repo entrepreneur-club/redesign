@@ -352,7 +352,7 @@ Free food, free drinks. The only thing you'll have to bring is a laptop and will
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            Meet the founder of BIOVERSYS<span class="event-date">28.11.2013 - 18:00 - ieLab Hönggerberg (HPL)</span> <span class="entypo-right-open-big right"></span>
+                            Meet the founder of BIOVERSYS<span class="event-date">28.11.2013 - 18:00 - ieLab Hönggerberg, HPL D32-34</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
