@@ -1260,7 +1260,7 @@ body { background: white; font-family: "Source Sans Pro", Helvetica, Arial, sans
   .top-bar ul.right li.current a { -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none; background-image: none; }
   .top-bar .name h1 { line-height: 0; } }
 
-.logo { width: 200px; margin-top: 0; }
+.logo { width: 400px; height: 60px; margin-top: 0; }
 
 .super-row { width: 100%; max-width: 100%; }
 
