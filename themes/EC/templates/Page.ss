@@ -105,7 +105,7 @@
                     <li><a href="mailto:atanas.stankov@entrepreneur-club.org">Atanas Stankov</a>, Members</li>
                     <li><a href="mailto:laurent.oberholzer@entrepreneur-club.org">Laurent Oberholzer</a>, Public Relations</li>
                     <li><a href="mailto:nikolaus.krall@entrepreneur-club.org">Nikolaus Krall</a>, Life Science</li>
-                    <li><a href="mailto:jonathan.mueller@entrepreneur-club.org">Jonathan Müller</a>, IT</li>
+                    <li><a href="mailto:rasmus.rothe@entrepreneur-club.org">Rasmus Rothe</a>, IT</li>
                     <li><a href="mailto:wolf.vollprecht@entrepreneur-club.org">Wolf Vollprecht</a>, Hackathon</li>
                 </ul>
             </div>
