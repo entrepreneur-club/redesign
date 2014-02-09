@@ -227,7 +227,6 @@ Jean-Claude Biver is a key figure in the swiss watch industry. He acquired the r
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
-                                <img src="$ThemeDir/images/lunch.jpg">
                                 <a class="button centered" href="https://www.facebook.com/events/1402152030038837/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
@@ -241,7 +240,6 @@ Jean-Claude Biver is a key figure in the swiss watch industry. He acquired the r
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
-                                <img src="$ThemeDir/images/ssd.jpg">
                                 <a class="button centered" target="_blank" href="http://ssd.entrepreneur-club.org/" target="_blank">Register now!</a>
                             </div>
                             <div class="large-7 columns">
@@ -270,6 +268,7 @@ Jean-Claude Biver is a key figure in the swiss watch industry. He acquired the r
                         </a>
                          <div class="row event-description">
                             <div class="large-5 columns event-picture">
+                                    <img src="$ThemeDir/images/ssd.jpg">
                                 <a class="button centered" href="https://www.facebook.com/events/233023690216382/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
