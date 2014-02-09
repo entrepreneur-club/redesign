@@ -236,7 +236,7 @@ Jean-Claude Biver is a key figure in the swiss watch industry. He acquired the r
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            From planning to founding: Dos and Don'ts with WalderWyss & Startups.ch <span class="event-date">8.4.2014 - 17:00 - ETH Zentrum</span><span class="entypo-right-open-big right"></span>
+                            From planning to founding: Dos and Don'ts<span class="event-date">8.4.2014 - 17:00 - ETH Zentrum</span><span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
