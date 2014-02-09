@@ -105,7 +105,7 @@
                     <li><a href="mailto:atanas.stankov@entrepreneur-club.org">Atanas Stankov</a>, Members</li>
                     <li><a href="mailto:laurent.oberholzer@entrepreneur-club.org">Laurent Oberholzer</a>, Public Relations</li>
                     <li><a href="mailto:nikolaus.krall@entrepreneur-club.org">Nikolaus Krall</a>, Life Science</li>
-                    <li><a href="mailto:rasmus.rothe@entrepreneur-club.org">Rasmus Rothe</a>, IT</li>
+                    <li><a href="mailto:jonathan.mueller@entrepreneur-club.org">Jonathan Mueller</a>, IT</li>
                     <li><a href="mailto:wolf.vollprecht@entrepreneur-club.org">Wolf Vollprecht</a>, Hackathon</li>
                 </ul>
             </div>
@@ -138,205 +138,106 @@
 
                     <li>
                         <a href="#" class="toggle">
-                            General Assembly <span class="event-date">24.9.2013 - 17:15 - ETH ieLab</span> <span class="entypo-right-open-big right"></span>
+                            General Assembly <span class="event-date">19.2.2014 - 19:00 - LEO B8.1</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
                                 <img src="$ThemeDir/images/ga.jpg">
-                                <a class="button centered" target="_blank" href="http://www.facebook.com/events/697977936885283/">View Event on Facebook</a>
+                                <a class="button centered" target="_blank" href="http://www.facebook.com/events/789966661017296/">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                                <p>At the general assembly of the spring semester 2013, we will elect the new executive committee, discuss and vote on the budget and other club matters, and excite you about the upcoming events!
-                                </p>
-                                <p>
-                                Click <a href="https://drive.google.com/folderview?id=0ByyrjO_yNEntUksyRUhmQjM0MWM" target="_blank"><b>here</b></a> to access the minutes from the last general assemblies, and other documents.
+                                <p> At the general assembly of the spring semester 2014, we will elect the new executive committee, discuss and vote on the budget and other club matters, and inform you about our upcoming events!
                                 </p>
                             </div>
                         </div>
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            Kick Off <span class="event-date">24.9.2013 - 18:15 - ETH Zentrum, HG E 5</span> <span class="entypo-right-open-big right"></span>
+                            Kick Off <span class="event-date">25.2.2014 - 17:15 - ETH Zentrum, HG E 7</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
                                 <img src="$ThemeDir/images/kickoff.jpg">
-                                <a class="button centered" href="http://www.facebook.com/events/593118700731910/" target="_blank" >View Event on Facebook</a>
+                                <a class="button centered" href="http://www.facebook.com/events/1436180126616427/" target="_blank" >View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                                <p>
-                                    We had no choice but to organize our most awesome Kick Off event yet to begin an exciting and busy semester! Come listen to seasoned entrepreneurs present their journey from idea to product, ask questions and gain insights into people, ideas and execution. The event will take place on Tuesday, September 24 at 6:15pm in ETH Zurich’s HG E 5 (main building, central campus).
-                                </p>
-
-                                <p>
-                                    Our guest speakers will be:
-                                </p>
-
-                                <p>
-                                    <b>Marco Börries</b><br />
-                                    This German entrepreneur was only 16 years old when he founded his first company Star Division in his garage back in 1985. The company created the popular office suites StarOffice and OpenOffice.org, and was later sold to Sun Microsystems. Since then, Marco has successfully ventured in online banking and software connecting wireless devices for sharing of personal and professional data and was labeled the German Bill Gates. His latest company, NumberFour, develops a platform giving small businesses the tools, capabilities and insights normally only available to larger companies. NumberFour recently secured a record $38 million in Series A financing with money raised from some of the world's most successful entrepreneurs such as Reid Hofman (founder LinkedIn), Jerry Yang (Founder Yahoo), and Andy Bechtolsheim (Founder Sun Microsystems).
-                                </p>
-
-                                <p>
-                                    <b>Georg Polzer</b><br />
-                                    After a stint in big data research in the banking sector, this young graduate in Computer Science at ETH Zurich co-founded Teralytics with two post-docs and a Professor. This promising startup leverages the Hadoop technology to sift through extremely large and complex data sets and help companies answer business questions.
-                                </p>
-
-                                <p>
-                                    Schedule:
-                                    <ul>
-                                    <li>18:15 Opening speech by Gereon Sommer, President of the Entrepreneur Club</li>
-                                    <li>18:30 Presentations by Marco Börries and Georg Polzer</li>
-                                    <li>19:50 Q&A moderated by Entrepreneur Club</li>
-                                    <li>20:15 Apéro</li>
-                                    </ul>
-                                </p>
-
-                                <p>
-                                The entire Executive Committee of the Entrepreneur Club is looking forward to seeing you all there!
-                                </p>
+                            <p>
+                            We are proud to invite you to our most amazing Kick-Off event yet to come! Listen to a charismatic and passionate speaker who distinguished himself by shaping the watch industry of Switzerland! Our keynote speaker Jean-Claude Biver will give insights and share his experience on his numerous ventures - come and listen, exchange ideas and meet other vibrant people!
+                            </p>
+                            <p>
+Jean-Claude Biver is a key figure in the swiss watch industry. He acquired the rights of the brand Blancpain in 1981, a time where Blancpain got out of fashion with the success of the upcoming quartz watches. He rebuilt the whole company which soon gained a respectable reputation as traditional watch brand and sold it for CHF60 Mio about 10 years later to the Swatch group. Here, he worked on the board of directors and rejuvinated the brand Omega through a sophisticated marketing strategy. In 2004, he became CEO of the firm Hublot where the sales went up from CHF25 Mio to CHF200 Mio within only 5 years. At this point, the concern was bought by LVMH and it was only this year, at the age of 64, that he was named the head of watchmaking and as such he will oversee TAG Heuer, Zenith as well as Hublot.
+                            </p>
                             </div>
                         </div>
                     </li>
 
                     <li>
                         <a href="#" class="toggle">
-                            Meet the founder of... <span class="event-date">3.10.2013 - 17:00 - ETH Zentrum, HG D7.1</span> <span class="entypo-right-open-big right"></span>
+                            Brainstorming Event with UZHSU & Bearing Point  <span class="event-date">5.3.2014 - 17:00 - ETH Kuppel</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
-                                <a class="button centered" href="http://www.facebook.com/events/526387480749728/" target="_blank">View Event on Facebook</a>
+                                <a class="button centered" href="https://www.facebook.com/events/619433518109863" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                            <p>Our new "Meet the founder of..." series is the perfect opportunity to learn from entrepreneurs who have successfully launched a business. Good execution is as important as good ideas; so come, listen, ask questions and soak up as much experience as you can.</p>
                         </div>
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            Lunch Pitch #1<span class="event-date">8.10.2013 - 12:15 - ETH Zentrum, HG E 41</span> <span class="entypo-right-open-big right"></span>
+                            Pioneer Fellowship Information PR Event  - Lunch Event #1<span class="event-date">6.3.2014 - 12:00 - ETH Zentrum</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
                                 <img src="$ThemeDir/images/lunch.jpg">
-                                <a class="button centered" href="http://www.facebook.com/events/548680738527957/" target="_blank">View Event on Facebook</a>
+                                <a class="button centered" href="https://www.facebook.com/events/1387746034822941/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                                <p>
-                                    Our monthly lunch pitches are an opportunity for students to present their business ideas in an informal setting and to receive valuable feedback. For this series of events, we partnered with Climate-KIC, which sponsors the sandwiches. No registration is required for normal participants. However, setting and updating your attendance status on Facebook helps us to organize the right amount of food!
-                                </p>
-                                <p>
-                                    At most three persons can present their business idea in front of the audience. Each presenter gets five minutes for pitching his or her early stage project, which will be followed by a moderated Q&amp;A session of another five minutes. The first three people that write the name of their project on the wall of this event can present their idea. The presenters have to use slides with the following content.
-                                </p>
-                                <ul>
-                                    <li>Problem (What is the problem you try to solve?)</li>
-                                    <li>Solution (How do you solve this problem?)</li>
-                                    <li>Innovation (Why is your solution better than others?)</li>
-                                    <li>Business Model (How will you earn money? Who are your customers and partners?)</li>
-                                    <li>Climate and Social Impact (How does your business idea affect our society and the environment?)</li>
-                                </ul>
                             </div>
                         </div>
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            Startup Tour Centralway<span class="event-date">16.10.2013 - 16:00 - Centralway, Binzstrasse 18, Zurich</span> <span class="entypo-right-open-big right"></span>
+                            EC Lab<span class="event-date">12.3.2014 - 19:00 - ieLab</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
-                                <a class="button centered" href="http://www.facebook.com/events/197956253703126/" target="_blank">View Event on Facebook</a>
+                                <a class="button centered" href="https://www.facebook.com/events/1459811727571826/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                                <p>
-                                    Come and visit some up-and-coming startups! This exciting tour will give you an inside view of the operations of young companies.
-                                </p>
                             </div>
                         </div>
                     </li>
 
                     <li>
                         <a href="#" class="toggle">
-                            Hackathon<span class="event-date">25.10.2013 - 18:00 - Swisscom Business Park, Pfingsweidstrasse 51, Zurich</span> <span class="entypo-right-open-big right"></span>
+                            Raising Money for Biotech<span class="event-date">17.3.2014 - 17.30 - Hönggerberg HPL D32-34</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
-                                <img src="$ThemeDir/images/hackathon.jpg">
-                                <a class="button centered" href="http://hackathon.entrepreneur-club.org/" target="_blank">Register now!</a>
+                                <a class="button centered" href="https://www.facebook.com/events/1404154706503400" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                                <p>
-                                    Join us for the second, even more epic Hackathon! 
-                                </p><p>
-24 hours to go from vision to reality! Meet interesting people with crazy ideas and develop applications together. 
-A jury, which includes Mark Schmitz (Lakestar) and Penny Schiffer (Venture Kick), will then judge applications. They will award Apple iPads, Swisscom vouchers, and other prizes to the winning teams! 
-Free food, free drinks. The only thing you'll have to bring is a laptop and willpower! And maybe a sleeping matress and a tooth brush – but that's up to you. 
-                                </p>
-                                <p>More information and registration on: <a href="http://hackathon.entrepreneur-club.org/">http://hackathon.entrepreneur-club.org/</a></p>
                             </div>
                         </div>
                     </li>
 
                     <li>
                         <a href="#" class="toggle">
-                            Startup Forum<span class="event-date">31.10.2013 - 19.00 - Universität Zürich, KOL-F-117</span> <span class="entypo-right-open-big right"></span>
-                        </a>
-                        <div class="row event-description">
-                            <div class="large-5 columns event-picture">
-                                <a class="button centered" href="https://www.facebook.com/events/665380430145018/" target="_blank">View Event on Facebook</a>
-                            </div>
-                            <div class="large-7 columns">
-                                <p>
-                                    Be part of the exciting competition of 4 emerging Startups! Challenge them with your questions and help them optimize their business! Together with an experienced group of mentors you can designate the winner of this contest. This event is jointly hosted by the UZH-Startuppers and the Entrepreneur Club, and will take place on the 31st october at the University of Zurich. Entrance is free, including an apero.
-                                </p>
-                                <p>
-                                    <b>The Mentors:</b>
-                                    <ul>
-                                    <li>Adrian Locher (Dein Deal)</li>
-                                    <li>Malte Schiebelmann (Doodle)</li>
-                                    <li>Stella Schieffer (PolyPort GmbH)</li>
-                                    <li>Nicola Blum (The Hub)</li>
-                                    </ul>
-
-                                    <b>The Startups:</b>
-                                    <ul>
-                                    <li>Hometherapy</li>
-                                    <li>Inspire925</li>
-                                    <li>Captain Plant</li>
-                                    <li>Uniboard</li>
-                                    </ul>
-                                </p>
-                            </div>
-                        </div>
-                    </li>
-
-                    <li>
-                        <a href="#" class="toggle">
-                            Lunch Pitch #2 <span class="event-date">12.11.2013 - 12:15 - ETH Zentrum, HG E 41</span> <span class="entypo-right-open-big right"></span>
+                            Zurich Insurance Innovation Award<span class="event-date">3.4.2014 - 17:15 - ETH Zentrum</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
                                 <img src="$ThemeDir/images/lunch.jpg">
-                                <a class="button centered" href="http://www.facebook.com/events/586375491408884/" target="_blank">View Event on Facebook</a>
+                                <a class="button centered" href="https://www.facebook.com/events/1402152030038837/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                                <p>
-                                    Our monthly lunch pitches are an opportunity for students to present their business ideas in an informal setting and to receive valuable feedback. For this series of events, we partnered with Climate-KIC, which sponsors the sandwiches. No registration is required for normal participants. However, setting and updating your attendance status on Facebook helps us to organize the right amount of food!
-                                </p>
-                                <p>
-                                    At most three persons can present their business idea in front of the audience. Each presenter gets five minutes for pitching his or her early stage project, which will be followed by a moderated Q&amp;A session of another five minutes. The first three people that write the name of their project on the wall of this event can present their idea. The presenters have to use slides with the following content.
-                                </p>
-                                <ul>
-                                    <li>Problem (What is the problem you try to solve?)</li>
-                                    <li>Solution (How do you solve this problem?)</li>
-                                    <li>Innovation (Why is your solution better than others?)</li>
-                                    <li>Business Model (How will you earn money? Who are your customers and partners?)</li>
-                                    <li>Climate and Social Impact (How does your business idea affect our society and the environment?)</li>
-                                </ul>
+                
                             </div>
                         </div>
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            Startup Speed Dating <span class="event-date">21.11.2013 - 19:00 - Zurich</span><span class="entypo-right-open-big right"></span>
+                            From planning to founding: Dos and Don'ts with WalderWyss & Startups.ch <span class="event-date">8.4.2014 - 17:00 - ETH Zentrum</span><span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
@@ -344,40 +245,55 @@ Free food, free drinks. The only thing you'll have to bring is a laptop and will
                                 <a class="button centered" target="_blank" href="http://ssd.entrepreneur-club.org/" target="_blank">Register now!</a>
                             </div>
                             <div class="large-7 columns">
-                                <p>The highlight of every semester is the Startup Speed Dating! In cooperation with our partner organizations, the Entrepreneur Club organizes a forum for startups and students, matching people with ideas with those with skills.</p>
+                        
+                            </div>
+                        </div>
+                    </li>
+
+                       <li>
+                        <a href="#" class="toggle">
+                            EC Lab<span class="event-date">16.4.2014 - 19:00 - ieLab</span> <span class="entypo-right-open-big right"></span>
+                        </a>
+                        <div class="row event-description">
+                            <div class="large-5 columns event-picture">
+                                <a class="button centered" href="https://www.facebook.com/events/1459811727571826/" target="_blank">View Event on Facebook</a>
+                            </div>
+                            <div class="large-7 columns">
+                            </div>
+                        </div>
+                    </li>
+
+
+                      <li>
+                        <a href="#" class="toggle">
+                            Startup Speed Dating <span class="event-date">30.4.2014 - Uni Zurich</span><span class="entypo-right-open-big right"></span>
+                        </a>
+                         <div class="row event-description">
+                            <div class="large-5 columns event-picture">
+                                <a class="button centered" href="https://www.facebook.com/events/233023690216382/" target="_blank">View Event on Facebook</a>
+                            </div>
+                            <div class="large-7 columns">
+                             <p>The highlight of every semester is the Startup Speed Dating! In cooperation with our partner organizations, the Entrepreneur Club organizes a forum for startups and students, matching people with ideas with those with skills.</p>
                                 <p>With an extremely high matching rate, the Speed Dating is one of our most popular event! There will be 100 spots for candidates, 40 spots for start-ups and 20 spots for guests.</p>
                                 <p>There will be a preset proportion of IT, Commercial and Engineering startups.</p>
                             </div>
                         </div>
                     </li>
-                    <li>
-                        <a href="#" class="toggle">
-                            Meet the founder of BIOVERSYS<span class="event-date">28.11.2013 - 18:00 - ieLab Hönggerberg, HPL D32-34</span> <span class="entypo-right-open-big right"></span>
-                        </a>
-                        <div class="row event-description">
-                            <div class="large-5 columns event-picture">
-                                <a class="button centered" href="http://www.facebook.com/events/694269217266788/" target="_blank">View Event on Facebook</a>
-                            </div>
-                            <div class="large-7 columns">
-                                <p>Our new "Meet the founder of..." series is the perfect opportunity to learn from entrepreneurs who have successfully launched a business. Good execution is as important as good ideas; so come, listen, ask questions and soak up as much experience as you can!</p>
-                                <p>This time, Marc Gitzinger will present his biopharmaceutical company BIOVERSYS. The Basel based private company spun out of the ETH Zurich in 2008. It focuses on research and the development of new drugs and compounds, which switch-off drug resistance within bacterial pathogens and restore the efficacy of approved antibiotics.</p>
-                                <p>You got interested? You want to know more of how you build your own biotech company? Or are you just curious what it is like to work in a small start-up? Then join us on the 28th of November at Hönggerberg!</p>
-                            </div>
-                        </div>
-                    </li>
+                    
+
 
                     <li>
                         <a href="#" class="toggle">
-                            Lunch Pitch #3 <span class="event-date">10.12.2013 - 12:15 - ETH Hönggerberg</span> <span class="entypo-right-open-big right"></span>
+                            Lunch Pitch <span class="event-date">6.5.2014 - ETH Zentrum</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
                                 <img src="$ThemeDir/images/lunch.jpg">
-                                <a class="button centered" href="http://www.facebook.com/events/505774622844131/" target="_blank">View Event on Facebook</a>
+                                <a class="button centered" href="https://www.facebook.com/events/1417278761851042/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
                                 <p>
-                                    Our monthly lunch pitches are an opportunity for students to present their business ideas in an informal setting and to receive valuable feedback. For this series of events, we partnered with Climate-KIC, which sponsors the sandwiches. No registration is required for normal participants. However, setting and updating your attendance status on Facebook helps us to organize the right amount of food!
+                                    Our lunch pitches are an opportunity for students to present their business ideas in an informal setting and to receive valuable feedback. For this series of events, we partnered with Climate-KIC, which sponsors the sandwiches. No registration is required for normal participants. However, setting and updating your attendance status on Facebook helps us to organize the right amount of food!
                                 </p>
                                 <p>
                                     At most three persons can present their business idea in front of the audience. Each presenter gets five minutes for pitching his or her early stage project, which will be followed by a moderated Q&amp;A session of another five minutes. The first three people that write the name of their project on the wall of this event can present their idea. The presenters have to use slides with the following content.
@@ -392,6 +308,53 @@ Free food, free drinks. The only thing you'll have to bring is a laptop and will
                             </div>
                         </div>
                     </li>
+
+  
+
+
+                  <li>
+                        <a href="#" class="toggle">
+                            Prof Georg von Krogh on Open Innovation <span class="event-date">14.5.2014 - ETH Zentrum    </span><span class="entypo-right-open-big right"></span>
+                        </a>
+                         <div class="row event-description">
+                            <div class="large-5 columns event-picture">
+                                <a class="button centered" href="https://www.facebook.com/events/1393055337621436/" target="_blank">View Event on Facebook</a>
+                            </div>
+                            <div class="large-7 columns">
+                            
+                            </div>
+                        </div>
+                    </li>
+
+                        <li>
+                        <a href="#" class="toggle">
+                            Biotech Startup Tour Basel: 4-Antibody, Bioversys and NBE Therapeutics <span class="event-date">15.5.2014 - Basel </span><span class="entypo-right-open-big right"></span>
+                        </a>
+                         <div class="row event-description">
+                            <div class="large-5 columns event-picture">
+                                <a class="button centered" href="https://www.facebook.com/events/447126152083110/" target="_blank">View Event on Facebook</a>
+                            </div>
+                            <div class="large-7 columns">
+                            
+                            </div>
+                        </div>
+                    </li>
+                    
+    <li>
+                        <a href="#" class="toggle">
+                            EC Lab<span class="event-date">21.5.2014 - 19:00 - ieLab</span> <span class="entypo-right-open-big right"></span>
+                        </a>
+                        <div class="row event-description">
+                            <div class="large-5 columns event-picture">
+                                <a class="button centered" href="https://www.facebook.com/events/1444479875782201/" target="_blank">View Event on Facebook</a>
+                            </div>
+                            <div class="large-7 columns">
+                            </div>
+                        </div>
+                    </li>
+
+
+
                 </ul>
             </div>
         </div>
