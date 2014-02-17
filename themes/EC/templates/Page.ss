@@ -138,7 +138,7 @@
 
                     <li>
                         <a href="#" class="toggle">
-                            General Assembly <span class="event-date">19.2.2014 - 19:00 - LEO B8.1</span> <span class="entypo-right-open-big right"></span>
+                            General Assembly <span class="event-date">19.2.2014 - 19:00 - ieLab LEO B8.1</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
@@ -180,6 +180,24 @@ Jean-Claude Biver is a key figure in the swiss watch industry. He acquired the r
                                 <a class="button centered" href="https://www.facebook.com/events/619433518109863" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
+                            <p>
+                            The UZH Startuppers and the Entrepreneur Club organize another brainstorming session to develop innovative business ideas!
+                            </p>
+                            <p>
+                        An diesem Abend hast du die Möglichkeit mit anderen kreativen Köpfen coole Ideen für eine bestimmte Zielgruppe zu generieren.
+                            </p>
+                            <p>
+Hast du dir einmal überlegt, was eine gestresste Hausfrau mit 2 Kindern am besten brauchen könnte? Oder was würde sich ein 70 jähriger Grossvater, der alleine lebt und viel Zeit hat, kaufen?
+</p>
+<p>
+Zusammen im Team entwickelt ihr neue Produktideen und präsentiert sie anschliessend den andern.
+Neugierig? Dann bewirb dich <a href="http://goo.gl/3xR0z5">hier</a>.
+</p>
+<p>
+The Brainstorming Session is sponsored by BearingPoint. Check out their business idea competition "Be.project" at <a href="http://www.bearingpoint.com/beproject">http://www.bearingpoint.com/beproject</a>!
+</p>
+
+
                         </div>
                     </li>
                     <li>
@@ -192,18 +210,52 @@ Jean-Claude Biver is a key figure in the swiss watch industry. He acquired the r
                                 <a class="button centered" href="https://www.facebook.com/events/1387746034822941/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
+                            <p>
+                                Become your own boss!
+                            </p> <p>
+Are you working on a technology and you think it could be turned into a cool product? Or do you simply feel that entrepreneurship is in your genes?
+</p>
+<p>
+Then our Pioneer Fellowship information event is for you: get first-hand information on ETH’s newest program to support innovative technologies and help students on their way to becoming the entrepreneurs of tomorrow.
+</p>
+<p>
+* Introduction to the Pioneer Fellowship grant program for PhD and master students: how to apply, how to succeed and what to expect from the fellowship.
+* Panel discussion with Pioneer fellows talking about their experience with the program.
+* Apero & time for discussion with Pioneer Fellows and program organisers.
+</p>
+<p>
+The event is public, but registration on Facebook is recommended.
+  </p>
                             </div>
                         </div>
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            EC Lab<span class="event-date">12.3.2014 - 19:00 - ieLab</span> <span class="entypo-right-open-big right"></span>
+                            EC Lab<span class="event-date">12.3.2014 - 19:00 - ieLab LEO B8.1</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
                                 <a class="button centered" href="https://www.facebook.com/events/1459811727571826/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
+                            <p>
+                                Do you have a business idea and want to informally talk about it with other entrepreneurs? 
+</p>
+<p>
+                            Are you interested in starting your own business but don't have the right idea yet or are still looking for a team? 
+</p>
+<p>
+Then this is the event you should attend. 
+</p>
+<p>
+It is nothing more than an informal gathering of entrepreneurial people where you can chat about your ideas, businesses and everything related. 
+</p>
+<p>
+Don't miss out!
+</p>
+<p>
+Some drinks and snacks will be provided.
+   </p>
                             </div>
                         </div>
                     </li>
@@ -217,6 +269,15 @@ Jean-Claude Biver is a key figure in the swiss watch industry. He acquired the r
                                 <a class="button centered" href="https://www.facebook.com/events/1404154706503400" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
+                            <p>
+                            Biotech is booming again. Only last year a staggering 40 young life sciences companies went public. Unlike many web or tech, outfits life sciences startups notoriously require enormous amounts of capital to get going. 
+</p> <p>
+So how do I raise money for my biotech startup plans?
+</p> <p>
+Two experts in the field, Dr. Michael Sidler, Partner of the Red Alpine venture capital fund and Andreas Emmenegger, CFO of Molecular Partners and CFO behind Glycart’s > CHF 230M sale to Roche will join us to shed light on this thrilling question. Both our speakers will be giving a short keynote address on their experience as biotech investors and fund-raisers. Afterwards, there will be the opportunity for discussion over drinks and some snacks. 
+</p><p>
+Please register for this event <a href="https://docs.google.com/forms/d/14dtjtEOUdEbsVDvsxHTatRA-3gML1ZWTF_UKYGjG78c/viewform">here</a>.
+</p>
                             </div>
                         </div>
                     </li>
@@ -230,7 +291,14 @@ Jean-Claude Biver is a key figure in the swiss watch industry. He acquired the r
                                 <a class="button centered" href="https://www.facebook.com/events/1402152030038837/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                
+                            <p>
+                If you are looking for a challenging and productive experience with the Corporate world, this is a great chance to participate in this jointly organized event between Zurich Insurance Company and ETH Zürich Entrepreneurial Club, get to know each other and potentially get a prize in return if your project is the winner.
+</p>
+<p>
+We are looking for passionate people from any background who are excited about the idea of collaborating and participating in this Innovation Award. We expect to receive proposals from very diverse fields such as big data, telematics, cloud solutions, mobility, and many more.
+</p> <p>
+Do not miss the chance to reach us out through this form with your proposal and let’s rock from here onwards.
+</p>
                             </div>
                         </div>
                     </li>
@@ -240,7 +308,7 @@ Jean-Claude Biver is a key figure in the swiss watch industry. He acquired the r
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
-                                <a class="button centered" target="_blank" href="http://ssd.entrepreneur-club.org/" target="_blank">Register now!</a>
+                                <a class="button centered" href="https://www.facebook.com/events/213586852179108/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
                         
@@ -250,13 +318,30 @@ Jean-Claude Biver is a key figure in the swiss watch industry. He acquired the r
 
                        <li>
                         <a href="#" class="toggle">
-                            EC Lab<span class="event-date">16.4.2014 - 19:00 - ieLab</span> <span class="entypo-right-open-big right"></span>
+                            EC Lab<span class="event-date">16.4.2014 - 19:00 - ieLab LEO B8.1</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
                                 <a class="button centered" href="https://www.facebook.com/events/1459811727571826/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
+                                            Do you have a business idea and want to informally talk about it with other entrepreneurs? 
+</p>
+<p>
+                            Are you interested in starting your own business but don't have the right idea yet or are still looking for a team? 
+</p>
+<p>
+Then this is the event you should attend. 
+</p>
+<p>
+It is nothing more than an informal gathering of entrepreneurial people where you can chat about your ideas, businesses and everything related. 
+</p>
+<p>
+Don't miss out!
+</p>
+<p>
+Some drinks and snacks will be provided.
+   </p>
                             </div>
                         </div>
                     </li>
@@ -313,15 +398,21 @@ Jean-Claude Biver is a key figure in the swiss watch industry. He acquired the r
 
                   <li>
                         <a href="#" class="toggle">
-                            Prof Georg von Krogh on Open Innovation <span class="event-date">14.5.2014 - ETH Zentrum    </span><span class="entypo-right-open-big right"></span>
+                            Prof Georg von Krogh on Open Innovation <span class="event-date">14.5.2014 - 18:30 ieLab LEO B8.1    </span><span class="entypo-right-open-big right"></span>
                         </a>
                          <div class="row event-description">
                             <div class="large-5 columns event-picture">
                                 <a class="button centered" href="https://www.facebook.com/events/1393055337621436/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                            
-                            </div>
+                            <p>
+                                Join us together with our special guest Prof. Georg von Krogh for a thrilling discussion on “Open Innovation”. 
+</p><p>
+A paradigmatic shift is taking place in research and development. Companies are more and more reaching out to get the best ideas, best know-how and best technology to produce the products of the future. But how does this work in practice? What consequences does it have for startups and does it work at all? These and other questions we will discuss with after a short introduction by Prof von Krogh on the topic over pizza and drinks. 
+</p><p>
+
+Georg von Krogh is a Professor of ETH Zurich and holds the Chair of Strategic Management and Innovation. His research interests lie in the fields of competitive strategy, technological innovation, and knowledge management. He has been Visiting Professor at MIT’s Sloan School of Management, is an Honorary Research Fellow at Cambridge’s Judge Business School and holder of many prestigious awards such as the Association of American Publishers' "Best Professional Business Book Award", Harvard Business Review's "Breakthrough Idea" and many others. 
+       </p>                     </div>
                         </div>
                     </li>
 
@@ -334,20 +425,71 @@ Jean-Claude Biver is a key figure in the swiss watch industry. He acquired the r
                                 <a class="button centered" href="https://www.facebook.com/events/447126152083110/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                            
+                            <p>
+                                You are a scientist and would like to know how to implement your scientific background in something new, innovative and/or practical? 
+You ask yourself how a career outside academia can look like?
+</p><p>
+Then join us in our Startup Tour in Basel! We will visit the Technology Park Basel (<a href="http://www.technologiepark-basel.ch/">http://www.technologiepark-basel.ch/</a>) where the startups 4-Antibiotics, BIOVERSYS and NBE-Therapeutics will present themselves. 
+</p><p>
+Learn what problems they faced when they started their ventures, what possibilities you have to get a suitable infrastructure and funding for your ideas and get the possibility to ask all questions you have!
+
+</p><p>
+
+Marc van Dijk (CTO) will present 4-Antibiotics which has a fully-human antibody drug-discovery platform generating antibody therapeutics focused on cancer immunotherapy.
+</p><p>
+
+<a href="http://www.4-antibody.com/home.cfm"> http://www.4-antibody.com/home.cfm</a>
+</p><p>
+
+
+Marc Gitzinger (CEO, Cofounder) will present the biopharmaceutical ETH spinoff BIOVERSYS. The company focuses on research and the development of new drugs and compounds, which switch-off drug resistance within bacterial pathogens and restore the efficacy of approved antibiotics.
+</p><p>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=yZpafaIka_U">http://www.youtube.com/watch?feature=player_embedded&v=yZpafaIka_U</a>
+</p><p>
+
+<a href="http://www.bioversys.com/">http://www.bioversys.com/</a>
+
+</p><p>
+
+Urs Grawunder (Founder) will present NBE Therapeutics, which are working on anti-body drug development and are financially backed by the prestigious Boehringer-Ingelheim Fonds.
+</p><p>
+
+<a href="http://www.nbe-therapeutics.com/template/tecnology_background.php">http://www.nbe-therapeutics.com/template/tecnology_background.php</a>
+</p><p>
+
+<a href="http://www.nbe-therapeutics.com/">http://www.nbe-therapeutics.com/</a>
+</p>
                             </div>
                         </div>
                     </li>
                     
     <li>
                         <a href="#" class="toggle">
-                            EC Lab<span class="event-date">21.5.2014 - 19:00 - ieLab</span> <span class="entypo-right-open-big right"></span>
+                            EC Lab<span class="event-date">21.5.2014 - 19:00 - ieLab LEO B8.1</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
                                 <a class="button centered" href="https://www.facebook.com/events/1444479875782201/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
+                                            Do you have a business idea and want to informally talk about it with other entrepreneurs? 
+</p>
+<p>
+                            Are you interested in starting your own business but don't have the right idea yet or are still looking for a team? 
+</p>
+<p>
+Then this is the event you should attend. 
+</p>
+<p>
+It is nothing more than an informal gathering of entrepreneurial people where you can chat about your ideas, businesses and everything related. 
+</p>
+<p>
+Don't miss out!
+</p>
+<p>
+Some drinks and snacks will be provided.
+   </p>
                             </div>
                         </div>
                     </li>
