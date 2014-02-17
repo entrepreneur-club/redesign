@@ -153,11 +153,11 @@
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            Kick Off <span class="event-date">25.2.2014 - 17:15 - ETH Zentrum, HG E 7</span> <span class="entypo-right-open-big right"></span>
+                            Kick off with Jean-Claude Biver <span class="event-date">25.2.2014 - 17:15 - ETH Zentrum, HG E 7</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
-                                <img src="$ThemeDir/images/kickoff.jpg">
+                                <img src="$ThemeDir/images/kickoff20141.jpg">
                                 <a class="button centered" href="http://www.facebook.com/events/1436180126616427/" target="_blank" >View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
