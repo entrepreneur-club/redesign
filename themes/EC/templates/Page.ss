@@ -97,7 +97,7 @@
                 <p> Founded in 2011, the club has consistently enjoyed rapid growth, and currently counts over 400 members.  Although it specifically targets students of the ETH Zurich, the Entrepreneur Club welcomes anyone with entrepreneurial zeal and an interest in creativity and innovation. Like us on <a title="Facebook" href="https://www.facebook.com/entrepreneur.club.zurich" target="_blank">Facebook</a> to be informed about upcoming events or sign up as a <a title="Join Us" href="/join/">member</a> in order to receive our official newsletter by e-mail.</p>
                 <p>The Executive Committee, pictured on the right, consists of passionate students at ETH Zurich: </p>
                 <ul>
-                    <li><b>Daniel Meile</b>, President - daniel.meile[AT]entrepreneur-club.org</li>
+                    <li><b>Daniel Meile</b>, President</li>
                     <li><b>Andreas Steger</b>, VP</li>
                     <li><b>Nikolay Kobyshev</b>, VP of Events</li>
                     <li><b>Yannick Dienst</b>, VP of Finance</li>
