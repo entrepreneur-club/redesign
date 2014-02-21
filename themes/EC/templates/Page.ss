@@ -105,7 +105,7 @@
                     <li><b>Martin Slusarczyk</b>, VP of Public Relations</li>
                     <li><b>Rasmus Rothe</b>, VP of IT</li>
                 </ul>
-                <p> Feel free to contact us via FIRSTNAME.LASTNAME[AT]entrepreneur-club.org. </p>
+                <p>You can reach us via FIRSTNAME.LASTNAME[AT]entrepreneur-club.org.</p>
             </div>
             </div>
             <div class="large-6 columns">
