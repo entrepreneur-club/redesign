@@ -309,7 +309,7 @@ Do not miss the chance to reach us out through this form with your proposal and 
                                 <a class="button centered" href="https://www.facebook.com/events/213586852179108/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                        
+                        <p>Join us for a dual presentation about common mishaps and funny stories about the baby steps of startup companies. The event will be held with two experts in the field namely Startups.ch and Walderwyss. Everyone is welcome to come and participate. A small apero will be served afterwards.</p>
                             </div>
                         </div>
                     </li>
