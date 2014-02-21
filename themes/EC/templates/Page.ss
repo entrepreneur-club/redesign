@@ -97,16 +97,13 @@
                 <p> Founded in 2011, the club has consistently enjoyed rapid growth, and currently counts over 400 members.  Although it specifically targets students of the ETH Zurich, the Entrepreneur Club welcomes anyone with entrepreneurial zeal and an interest in creativity and innovation. Like us on <a title="Facebook" href="https://www.facebook.com/entrepreneur.club.zurich" target="_blank">Facebook</a> to be informed about upcoming events or sign up as a <a title="Join Us" href="/join/">member</a> in order to receive our official newsletter by e-mail.</p>
                 <p>The Executive Committee, pictured on the right, consists of passionate students at ETH Zurich: </p>
                 <ul>
-                    <li><a href="mailto:gereon.sommer@entrepreneur-club.org">Gereon Sommer</a>, President</li>
-                    <li><a href="mailto:daniel.meile@entrepreneur-club.org">Daniel Meile</a>, Vice-President</li>
-                    <li><a href="mailto:benedikt.seitz@entrepreneur-club.org">Benedikt Seitz</a>, Events</li>
-                    <li><a href="mailto:nikolay.kobyshev@entrepreneur-club.org">Nikolay Kobyshev</a>, Events</li>
-                    <li><a href="mailto:yannick.dienst@entrepreneur-club.org">Yannick Dienst</a>, Finance</li>
-                    <li><a href="mailto:atanas.stankov@entrepreneur-club.org">Atanas Stankov</a>, Members</li>
-                    <li><a href="mailto:laurent.oberholzer@entrepreneur-club.org">Laurent Oberholzer</a>, Public Relations</li>
-                    <li><a href="mailto:nikolaus.krall@entrepreneur-club.org">Nikolaus Krall</a>, Life Science</li>
-                    <li><a href="mailto:jonathan.mueller@entrepreneur-club.org">Jonathan Mueller</a>, IT</li>
-                    <li><a href="mailto:wolf.vollprecht@entrepreneur-club.org">Wolf Vollprecht</a>, Hackathon</li>
+                    <li><b>Daniel Meile</b>, President - daniel.meile[AT]entrepreneur-club.org</li>
+                    <li><a href="mailto:andreas.steger@entrepreneur-club.org">Andreas Steger</a>, VP</li>
+                    <li><a href="mailto:nikolay.kobyshev@entrepreneur-club.org">Nikolay Kobyshev</a>, VP of Events</li>
+                    <li><a href="mailto:yannick.dienst@entrepreneur-club.org">Yannick Dienst</a>, VP of Finance</li>
+                    <li><a href="mailto:melanie.binggeli@entrepreneur-club.org">Melanie Binggeli</a>, VP of Membership</li>
+                    <li><a href="mailto:martin.slusarczyk@entrepreneur-club.org">Martin Slusarczyk</a>, VP of Public Relations</li>
+                    <li><a href="mailto:rasmus.rothe@entrepreneur-club.org">Rasmus Rothe</a>, VP of IT</li>
                 </ul>
             </div>
             </div>
