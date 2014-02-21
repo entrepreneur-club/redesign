@@ -98,13 +98,14 @@
                 <p>The Executive Committee, pictured on the right, consists of passionate students at ETH Zurich: </p>
                 <ul>
                     <li><b>Daniel Meile</b>, President - daniel.meile[AT]entrepreneur-club.org</li>
-                    <li><a href="mailto:andreas.steger@entrepreneur-club.org">Andreas Steger</a>, VP</li>
-                    <li><a href="mailto:nikolay.kobyshev@entrepreneur-club.org">Nikolay Kobyshev</a>, VP of Events</li>
-                    <li><a href="mailto:yannick.dienst@entrepreneur-club.org">Yannick Dienst</a>, VP of Finance</li>
-                    <li><a href="mailto:melanie.binggeli@entrepreneur-club.org">Melanie Binggeli</a>, VP of Membership</li>
-                    <li><a href="mailto:martin.slusarczyk@entrepreneur-club.org">Martin Slusarczyk</a>, VP of Public Relations</li>
-                    <li><a href="mailto:rasmus.rothe@entrepreneur-club.org">Rasmus Rothe</a>, VP of IT</li>
+                    <li><b>Andreas Steger</b>, VP</li>
+                    <li><b>Nikolay Kobyshev</b>, VP of Events</li>
+                    <li><b>Yannick Dienst</b>, VP of Finance</li>
+                    <li><b>Melanie Binggeli</b>, VP of Membership</li>
+                    <li><b>Martin Slusarczyk</b>, VP of Public Relations</li>
+                    <li><b>Rasmus Rothe</b>, VP of IT</li>
                 </ul>
+                <p> Feel free to contact us via FIRSTNAME.LASTNAME[AT]entrepreneur-club.org. </p>
             </div>
             </div>
             <div class="large-6 columns">
