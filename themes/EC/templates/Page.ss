@@ -297,6 +297,9 @@ We are looking for passionate people from any background who are excited about t
 </p> <p>
 Do not miss the chance to reach us out through this form with your proposal and let’s rock from here onwards.
 </p>
+<p>
+For more information please click <a href="http://entrepreneur-club.org/zurichinsurance/index.html">here</a>.
+</p>
                             </div>
                         </div>
                     </li>
