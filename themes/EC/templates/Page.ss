@@ -595,12 +595,6 @@ Some drinks and snacks will be provided.
                         <div class="card-description">Walder Wyss Rechtsanwälte</div>
                     </a>
                 </div>
-                <div class="card r3">
-                    <a href="http://www.r3-companies.com/" target="_blank">
-                        <div class="card-image"></div>
-                        <div class="card-description">R3 companies</div>
-                    </a>
-                </div>
                 <div class="card marcbrandis">
                     <a href="http://www.brandis.ch/" target="_blank">
                         <div class="card-image"></div>
@@ -613,16 +607,16 @@ Some drinks and snacks will be provided.
                         <div class="card-description">Technopark</div>
                     </a>
                 </div>
+                <div class="card startupsch">
+                    <a href="http://www.startups.ch/" target="_blank">
+                        <div class="card-image"></div>
+                        <div class="card-description">Startups.ch</div>
+                    </a>
+                </div>
                 <div class="card pcu">
                     <a href="http://www.pcunetwork.com/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">Pioneers' Club</div>
-                    </a>
-                </div>
-                <div class="card evernote">
-                    <a href="https://evernote.com/" target="_blank">
-                        <div class="card-image"></div>
-                        <div class="card-description">Evernote</div>
                     </a>
                 </div>
                 <div class="card nzzcampus">

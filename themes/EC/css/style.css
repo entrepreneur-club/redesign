@@ -1366,8 +1366,8 @@ footer a { color: #999999; }
 .cards::-webkit-scrollbar-thumb:horizontal { border-width: 3px; }
 .cards .cards-canvas { padding: 15px; white-space: nowrap; text-align: center; }
 .cards .card { border: none; background: white; width: 250px; height: 300px; display: inline-block; margin-right: 20px; position: relative; white-space: normal; vertical-align: top; overflow: hidden; }
-.cards .card.r3 { background: #a5d8ef; }
-.cards .card.r3 .card-image { background-image: url('../images/r3.png?1391520450'); }
+.cards .card.startupsch { background: #ffffff; }
+.cards .card.startupsch .card-image { background-image: url('../images/startups-ch.jpg'); }
 .cards .card.walderwyss { background: #ccd2b3; }
 .cards .card.walderwyss .card-image { background-image: url('../images/walderwyss.png?1391520450'); }
 .cards .card.marcbrandis { background: #d1d7ee; }
@@ -1380,8 +1380,6 @@ footer a { color: #999999; }
 .cards .card.adm .card-image { background-image: url('../images/adm.png?1391520448'); }
 .cards .card.b2v { background: #0e3f7b; }
 .cards .card.b2v .card-image { background-image: url('../images/b2v.gif?1391520448'); }
-.cards .card.evernote { background: #b0da8f; }
-.cards .card.evernote .card-image { background-image: url('../images/evernote_a.png?1391520448'); }
 .cards .card.vlab { background: #f0f0f0; }
 .cards .card.vlab .card-image { background-image: url('../images/vlabre_logo.png?1391520450'); }
 .cards .card.lakestar { background: #5b4730; }
