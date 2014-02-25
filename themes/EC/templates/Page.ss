@@ -151,7 +151,7 @@
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            ETH Entrepreneur Club Kick off<span class="event-date">25.2.2014 - 17:15 - ETH Zentrum, HG E 7</span> <span class="entypo-right-open-big right"></span>
+                            Kick off with Sacha Wigdorovits<span class="event-date">25.2.2014 - 17:15 - ETH Zentrum, HG E 7</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
@@ -159,10 +159,13 @@
                                 <a class="button centered" href="http://www.facebook.com/events/1436180126616427/" target="_blank" >View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                            <p>
-                            We are proud to invite you to our most amazing Kick-Off event yet to come! Come exchange ideas, meet other vibrant people and hear about all the exciting events for the current semester!
-                            </p>
-                            </div>
+                           <p>
+                           Join us in kicking off a new semester of entrepreneurial activities! Our keynote speaker, Mr. Sacha Wigdorovits, will share his experience of working closely with entrepreneurs such as Jean-Claude Biver. He will expose the essential factors to being a successful entrepreneur, and present some of the winning strategies from companies such as Hublot.
+</p> <p>
+Sacha Wigdorovits is Member of the Board of Directors and Managing Director of Contract Media AG. 20 years' journalistic experience working for leading Swiss newspapers like Blick (editor-in-chief), Luzerner Neuste Nachrichten (deputy editor-in-chief), Sonntags-Zeitung (US correspondent, senior journalist) and Tages Anzeiger (metropolitan editor). Co-founder of the commuter newspapers 20 Minuten and .ch as well as the online market research company Marketagent.com Schweiz AG. Member of the Board of Directors of Nexus AG and Guestlist.ch AG. Chairman of Hadassah Foundation Switzerland. Lic. phil. 1 from the University of Zurich and alumnus of the Harvard Business School Advanced Management Programme (AMP).
+</p> <p>
+The event is public, and will be followed by an apero.
+        </p>                    </div>
                         </div>
                     </li>
 
