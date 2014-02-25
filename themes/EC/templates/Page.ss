@@ -151,7 +151,7 @@
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            Kick off with Sacha Wigdorovits<span class="event-date">25.2.2014 - 17:15 - ETH Zentrum, HG E 7</span> <span class="entypo-right-open-big right"></span>
+                            Kick off with Sacha Wigdorovits<span class="event-date">25.2.2014 - 17:15 - ETH Zentrum, HG E 5</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
