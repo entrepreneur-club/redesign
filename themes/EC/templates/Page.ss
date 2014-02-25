@@ -151,19 +151,16 @@
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            Kick off with Jean-Claude Biver <span class="event-date">25.2.2014 - 17:15 - ETH Zentrum, HG E 7</span> <span class="entypo-right-open-big right"></span>
+                            ETH Entrepreneur Club Kick off<span class="event-date">25.2.2014 - 17:15 - ETH Zentrum, HG E 7</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
-                                <img src="$ThemeDir/images/kickoff20141.jpg">
+                                <img src="$ThemeDir/images/kickoff.jpg">
                                 <a class="button centered" href="http://www.facebook.com/events/1436180126616427/" target="_blank" >View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
                             <p>
-                            We are proud to invite you to our most amazing Kick-Off event yet to come! Listen to a charismatic and passionate speaker who distinguished himself by shaping the watch industry of Switzerland! Our keynote speaker Jean-Claude Biver will give insights and share his experience on his numerous ventures - come and listen, exchange ideas and meet other vibrant people!
-                            </p>
-                            <p>
-Jean-Claude Biver is a key figure in the swiss watch industry. He acquired the rights of the brand Blancpain in 1981, a time where Blancpain got out of fashion with the success of the upcoming quartz watches. He rebuilt the whole company which soon gained a respectable reputation as traditional watch brand and sold it for CHF60 Mio about 10 years later to the Swatch group. Here, he worked on the board of directors and rejuvinated the brand Omega through a sophisticated marketing strategy. In 2004, he became CEO of the firm Hublot where the sales went up from CHF25 Mio to CHF200 Mio within only 5 years. At this point, the concern was bought by LVMH and it was only this year, at the age of 64, that he was named the head of watchmaking and as such he will oversee TAG Heuer, Zenith as well as Hublot.
+                            We are proud to invite you to our most amazing Kick-Off event yet to come! Come exchange ideas, meet other vibrant people and hear about all the exciting events for the current semester!
                             </p>
                             </div>
                         </div>
