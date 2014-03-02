@@ -59,7 +59,7 @@
                     <div class="row slider-message-row">
                         <div class="slider-message large-5">
                             <h2>Protecting Life in 2020</h2>
-                            <p><a href="http://entrepreneur-club.org/ZurichInsurance">Submit your idea for the Zurich Insurance Innovation Award</a></p>
+                            <p>Submit your idea for the Zurich Insurance Innovation Award</p>
                         </div>
                     </div>
                 </div>
@@ -318,8 +318,8 @@ Do not miss the chance to reach us out through this form with your proposal and 
 Submission Deadline: <b>16th March 2014</b>
 </p><p>
 Selected candidates will be invited to present their ideas on 3rd April at ETH Zurich.
-</p><p<
-For more information <b> please click <a href="http://entrepreneur-club.org/ZurichInsurance">here</a></b>.
+</p><p>
+For more information please click <b><a href="http://entrepreneur-club.org/ZurichInsurance">here</a></b>.
 </p>
 
                             </div>
