@@ -54,6 +54,17 @@
                     </div>
                 </div>
             </li>
+             <li>
+                <div class="slide" style="background-image: url($ThemeDir/images/zurich.png);">
+                    <div class="row slider-message-row">
+                        <div class="slider-message large-5">
+                            <h2>Protecting Life in 2020</h2>
+                            <p><a href="http://entrepreneur-club.org/ZurichInsurance">Submit your idea for the Zurich Insurance Innovation Award</a></p>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
             <li>
                 <div class="slide" style="background-image: url($ThemeDir/images/ssd.jpg);">
                     <div class="row slider-message-row">
@@ -64,16 +75,7 @@
                     </div>
                 </div>
             </li>
-             <li>
-                <div class="slide" style="background-image: url($ThemeDir/images/zurich.png);">
-                    <div class="row slider-message-row">
-                        <div class="slider-message large-5">
-                            <h2>Protecting Life in 2020</h2>
-                            <p>Submit your idea for the Zurich Insurance Innovation Award</p>
-                        </div>
-                    </div>
-                </div>
-            </li>
+            
         </ul>
 <!--         <div class="slider-absolute-container">
         <div class="row slider-message-row">
@@ -181,7 +183,7 @@ The event is public, and will be followed by an apero.
 
                     <li>
                         <a href="#" class="toggle">
-                            Brainstorming Event with UZHSU & Bearing Point  <span class="event-date">5.3.2014 - 17:00 - ETH Kuppel</span> <span class="entypo-right-open-big right"></span>
+                            Brainstorming with UZH Startuppers & Bearing Point  <span class="event-date">5.3.2014 - 17:00 - ETH Kuppel</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
@@ -297,7 +299,7 @@ Please register for this event <a href="https://docs.google.com/forms/d/14dtjtEO
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
                                 <a class="button centered" href="https://www.facebook.com/events/1402152030038837/" target="_blank">View Event on Facebook</a>
-                                <a class="button centered" href="http/entrepreneur-club.org/ZurichInsurance" target="_blank">Submit your Idea</a>
+                                <a class="button centered" href="http://entrepreneur-club.org/ZurichInsurance" target="_blank">Submit your Idea</a>
                             </div>
                             <div class="large-7 columns">
                             <p>
