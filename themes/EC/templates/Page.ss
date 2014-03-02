@@ -64,6 +64,16 @@
                     </div>
                 </div>
             </li>
+             <li>
+                <div class="slide" style="background-image: url($ThemeDir/images/zurich.png);">
+                    <div class="row slider-message-row">
+                        <div class="slider-message large-5">
+                            <h2>Protecting Life in 2020</h2>
+                            <p>Submit your idea for the Zurich Insurance Innovation Award</p>
+                        </div>
+                    </div>
+                </div>
+            </li>
         </ul>
 <!--         <div class="slider-absolute-container">
         <div class="row slider-message-row">
@@ -287,19 +297,29 @@ Please register for this event <a href="https://docs.google.com/forms/d/14dtjtEO
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
                                 <a class="button centered" href="https://www.facebook.com/events/1402152030038837/" target="_blank">View Event on Facebook</a>
+                                <a class="button centered" href="http/entrepreneur-club.org/ZurichInsurance" target="_blank">Submit your Idea</a>
                             </div>
                             <div class="large-7 columns">
                             <p>
-                If you are looking for a challenging and productive experience with the Corporate world, this is a great chance to participate in this jointly organized event between Zurich Insurance Company and ETH Zürich Entrepreneurial Club, get to know each other and potentially get a prize in return if your project is the winner.
-</p>
-<p>
+             If you are looking for a challenging and productive experience with the Corporate world, this is a great chance to participate in this jointly organized event between Zurich Insurance Company and ETH Zürich Entrepreneurial Club, get to know each other and potentially get a prize in return if your project is the winner.
 We are looking for passionate people from any background who are excited about the idea of collaborating and participating in this Innovation Award. We expect to receive proposals from very diverse fields such as big data, telematics, cloud solutions, mobility, and many more.
-</p> <p>
-Do not miss the chance to reach us out through this form with your proposal and let’s rock from here onwards.
 </p>
 <p>
-For more information please click <a href="http://entrepreneur-club.org/ZurichInsurance">here</a>.
+<b>1st Prize: 2.500CHF</b>
+</p><p>
+<b>2nd Prize: 1.000CHF</b>
+</p><p>
+<b>3rd Prize: 500CHF</b>
+</p><p>
+Do not miss the chance to reach us out through this form with your proposal and let’s rock from here onwards.
+</p><p>
+Submission Deadline: <b>16th March 2014</b>
+</p><p>
+Selected candidates will be invited to present their ideas on 3rd April at ETH Zurich.
+</p><p<
+For more information <b> please click <a href="http://entrepreneur-club.org/ZurichInsurance">here</a></b>.
 </p>
+
                             </div>
                         </div>
                     </li>
