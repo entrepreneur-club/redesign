@@ -58,8 +58,8 @@
                 <div class="slide" style="background-image: url($ThemeDir/images/zurich.png);">
                     <div class="row slider-message-row">
                         <div class="slider-message large-5">
-                            <h2>Protecting Life in 2020</h2>
-                            <p>Submit your idea for the Zurich Insurance Innovation Award</p>
+                            <h2><a href="http://entrepreneur-club.org/ZurichInsurance">Zurich Insurance Innovation Award</a></h2>
+                            <p>Protecting Life in 2020: Submit your idea</p>
                         </div>
                     </div>
                 </div>
