@@ -69,7 +69,7 @@
                 <div class="slide" style="background-image: url($ThemeDir/images/ssd.jpg);">
                     <div class="row slider-message-row">
                         <div class="slider-message large-5">
-                            <h2>Join us for the Startup Speed Dating</h2>
+                            <h2><a href="http://ssd.entrepreneur-club.org/">Join us for the Startup Speed Dating</a></h2>
                             <p>To learn more about zurich's most interesting startups.</p>
                         </div>
                     </div>
