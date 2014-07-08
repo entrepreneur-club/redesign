@@ -1390,8 +1390,10 @@ footer a { color: #999999; }
 .cards .card.technopark .card-image { background-image: url('../images/technopark.png?1391520450'); }
 .cards .card.stu { background: #c8beb7; }
 .cards .card.stu .card-image { background-image: url('../images/startups_s.png?1391520450'); }
-.cards .card.stf { background: #0073e5; }
-.cards .card.stf .card-image { background-image: url('../images/standort_zuerich.png?1391520450'); }
+.cards .card.stf { background: #ffffff; }
+.cards .card.stf .card-image { background-image: url('../images/AWA_de_farbig.jpg?1391520450'); }
+.cards .card.startfeld { background: #ffffff; }
+.cards .card.startfeld .card-image { background-image: url('../images/Logo_startfeld.jpg?1391520450'); }
 .cards .card.stfu { background: #00b1f4; }
 .cards .card.stfu .card-image { background-image: url('../images/stifuntent.png?1391520450'); }
 .cards .card.kic { background: #e2eaf4; }

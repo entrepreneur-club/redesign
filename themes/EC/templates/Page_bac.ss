@@ -54,6 +54,16 @@
                     </div>
                 </div>
             </li>
+             <li>
+                <div class="slide" style="background-image: url($ThemeDir/images/zurich.png);">
+                    <div class="row slider-message-row">
+                        <div class="slider-message large-5">
+                            <h2><a href="http://entrepreneur-club.org/ZurichInsurance">Zurich Insurance Innovation Award</a></h2>
+                            <p>Protecting Life in 2020: Submit your idea</p>
+                        </div>
+                    </div>
+                </div>
+            </li>
 
             <li>
                 <div class="slide" style="background-image: url($ThemeDir/images/ssd.jpg);">
@@ -406,7 +416,7 @@ Some drinks and snacks will be provided.
 
                     <li>
                         <a href="#" class="toggle">
-                            Lunch Pitch <span class="event-date">6.5.2014 12:15 - ETH HG F 3</span> <span class="entypo-right-open-big right"></span>
+                            Lunch Pitch <span class="event-date">6.5.2014 - ETH Zentrum</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
@@ -431,63 +441,7 @@ Some drinks and snacks will be provided.
                         </div>
                     </li>
 
-     <li>
-                        <a href="#" class="toggle">
-                            ieLab HPL <span class="event-date">6.5.2014 12:30 - Hönggerberg HPL  D32‐34</span> <span class="entypo-right-open-big right"></span>
-                        </a>
-                        <div class="row event-description">
-                            <div class="large-5 columns event-picture">
-                                <img src="$ThemeDir/images/oesch.jpg">
-</div>
-                            <div class="large-7 columns">
-<p> 
-<b> Presentation  </b>
-</p>
-<p>
-Starting a biotech company: mistakes and other success factors
-</p>
-<p>
-Bruno Oesch, PhD, serial entrepreneur and Executive Chairman of Neurotune
-Co‐founder of Prionics, Neurotune and Malcisbo
-</p>
-<p>
-<b>Bruno Oesch, PhD, Dr. h.c.</b>  
-</p>
-<p> Bruno graduated from the ETH Zurich with a Master's degree in Natural Sciences. 
-For his PhD in prion diseases, he joined Prof. Charles Weissmann at the University of Zurich. 
-Later, he worked at the University of California in San Francisco in Prof. Stanley 
-Prusiner's Lab. Subsequently he established his own research group at the Brain 
-Research Institute of the University of Zurich, out of which Prionics was started. </p>                           
-<p> Bruno Oesch initiated Neurotune as a spin‐off from Prionics AG in 2005.
-Since the start of the company he served as the Chairman of the 
-Board of directors. 2009/10 he also was CEO and currently acts as Executive Chairman,
- strongly involved in the strategy of Neurotune as well as business development.</p>
-<p> Previously, Bruno also co‐founded Prionics AG as a spin-off from the University of Zurich in early 1997 and acted as Co‐CEO, Head of R & D and Chairman of the Board of Prionics.</p>
-</div>
-                        </div>
-                    </li>
   
-                  <li>
-                        <a href="#" class="toggle">
-                            Meet the founder of ReHaptix <span class="event-date">8.5.2014 - 17:15 HG D7.2   </span><span class="entypo-right-open-big right"></span>
-                        </a>
-                         <div class="row event-description">
-                            <div class="large-5 columns event-picture">
-                                <a class="button centered" href="https://www.facebook.com/events/206430246220329/" target="_blank">View Event on Facebook</a>
-                            </div>
-                            <div class="large-7 columns">
-                            <p>
-Our new "Meet the founder of..." series is the perfect opportunity to learn from entrepreneurs who have successfully launched a business. Good execution is as important as good ideas; so come, listen, ask questions and soak up as much experience as you can! 
-</p>
-<p>
-ReHaptix is a spin-off from the ETH Zurich.
-They are developing tools to facilitate the work of therapists in the evaluation of upper limb motor function in patients suffering from a neurological injury and satisfy the need for objective outcome measures required to adapt the therapy most efficiently to the patient’s level of impairment.
-</p>
-<p> <a href="http://www.youtube.com/watch?v=ZDBMPC8jx78">ReHaptix Spot</a></p>
-<p> <a href="http://www.rehaptix.com">Website</a></p>
-                        </div>
-                    </li>
-
 
 
                   <li>
@@ -619,15 +573,6 @@ Some drinks and snacks will be provided.
                             <div>
                                 <h4>Dr. Matthias Hölling</h4>
                                 <p>ETH Transfer</p>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="person-card">
-                            <div class="person-image" style="background-image: url($ThemeDir/images/daniel_auerbach.jpg)"></div>
-                            <div>
-                                <h4>Dr. Daniel Auerbach</h4>
-                                <p>Industry Relations, ETH Zürich Foundation</p>
                             </div>
                         </div>
                     </li>
