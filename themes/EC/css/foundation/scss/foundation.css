@@ -572,7 +572,7 @@ form.custom .custom.checkbox.checked:before { content: "\00d7"; color: #222222; 
 
 /* Custom Select Options and Dropdowns */
 form.custom { /* Custom input, disabled */ }
-form.custom .custom.dropdown { display: block; position: relative; top: 0; height: 2.3125em; margin-bottom: 1.25em; margin-top: 0px; padding: 0px; width: 100%; background: white; background: -moz-linear-gradient(top, white 0%, #f3f3f3 100%); background: -webkit-linear-gradient(top, white 0%, #f3f3f3 100%); -webkit-box-shadow: none; background: linear-gradient(to bottom, #ffffff 0%, #f3f3f3 100%); box-shadow: none; font-size: 0.875em; vertical-align: top; }
+form.custom .custom.dropdown { display: block; position: relative; top: 0; height: 2.3125em; margin-bottom: 1.25em; margin-top: 0px; padding: 0px; width: 100%; background: white; background: -moz-linear-gradient(top, white 0%, #f3f3f3 100%); background: -webkit-linear-gradient(top, white 0%, #f3f3f3 100%); -webkit-box-shadow: none; background: linear-gradient(to bottom, white 0%, #f3f3f3 100%); box-shadow: none; font-size: 0.875em; vertical-align: top; }
 form.custom .custom.dropdown ul { overflow-y: auto; max-height: 200px; }
 form.custom .custom.dropdown .current { cursor: default; white-space: nowrap; line-height: 2.25em; color: rgba(0, 0, 0, 0.75); text-decoration: none; overflow: hidden; display: block; margin-left: 0.5em; margin-right: 2.3125em; }
 form.custom .custom.dropdown .selector { cursor: default; position: absolute; width: 2.5em; height: 2.3125em; display: block; right: 0; top: 0; }
@@ -888,16 +888,12 @@ form.custom .custom.disabled { background: #dddddd; }
   .no-js .top-bar-section .has-dropdown:hover > .dropdown { visibility: visible; } }
 @-webkit-keyframes rotate { from { -webkit-transform: rotate(0deg); }
   to { -webkit-transform: rotate(360deg); } }
-
 @-moz-keyframes rotate { from { -webkit-transform: rotate(0deg); }
   to { -webkit-transform: rotate(360deg); } }
-
 @-o-keyframes rotate { from { -webkit-transform: rotate(0deg); }
   to { -webkit-transform: rotate(360deg); } }
-
 @keyframes rotate { from { -webkit-transform: rotate(0deg); }
   to { -webkit-transform: rotate(360deg); } }
-
 /* Orbit Graceful Loading */
 .slideshow-wrapper { position: relative; }
 .slideshow-wrapper ul { list-style-type: none; margin: 0; }
@@ -914,7 +910,7 @@ form.custom .custom.disabled { background: #dddddd; }
 .orbit-container .orbit-slides-container img { display: block; }
 .orbit-container .orbit-slides-container > * { position: relative; float: left; height: auto; }
 .orbit-container .orbit-slides-container > * .orbit-caption { position: absolute; bottom: 0; background-color: black; background-color: rgba(0, 0, 0, 0.6); color: white; width: 100%; padding: 10px 14px; font-size: 0.875em; }
-.orbit-container .orbit-slide-number { position: absolute; top: 10px; left: 10px; font-size: 12px; color: white; background: rgba(0, 0, 0, 0); }
+.orbit-container .orbit-slide-number { position: absolute; top: 10px; left: 10px; font-size: 12px; color: white; background: transparent; }
 .orbit-container .orbit-slide-number span { font-weight: 700; padding: 0.3125em; }
 .orbit-container .orbit-timer { position: absolute; top: 10px; right: 10px; height: 6px; width: 100px; }
 .orbit-container .orbit-timer .orbit-progress { height: 100%; background-color: black; background-color: rgba(0, 0, 0, 0.6); display: block; width: 0%; }
@@ -1158,8 +1154,8 @@ ul.pagination li { float: left; display: block; }
   div.switch label { padding: 0 0.375em; line-height: 2.3em; font-size: 0.875em; }
   div.switch input:first-of-type:checked ~ span:last-child { left: 100%; margin-left: -2.1875em; }
   div.switch span:last-child { width: 2.25em; height: 2.25em; }
-  div.switch span:last-child { border-color: #b3b3b3; background: white; background: -moz-linear-gradient(top, white 0%, #f2f2f2 100%); background: -webkit-linear-gradient(top, white 0%, #f2f2f2 100%); background: linear-gradient(to bottom, #ffffff 0%, #f2f2f2 100%); -webkit-box-shadow: 2px 0 10px 0 rgba(0, 0, 0, 0.07), 1000px 0 0 1000px #e1f5d1, -2px 0 10px 0 rgba(0, 0, 0, 0.07), -1000px 0 0 1000px whitesmoke; box-shadow: 2px 0 10px 0 rgba(0, 0, 0, 0.07), 1000px 0 0 980px #e1f5d1, -2px 0 10px 0 rgba(0, 0, 0, 0.07), -1000px 0 0 1000px whitesmoke; }
-  div.switch:hover span:last-child, div.switch:focus span:last-child { background: white; background: -moz-linear-gradient(top, white 0%, #e6e6e6 100%); background: -webkit-linear-gradient(top, white 0%, #e6e6e6 100%); background: linear-gradient(to bottom, #ffffff 0%, #e6e6e6 100%); }
+  div.switch span:last-child { border-color: #b3b3b3; background: white; background: -moz-linear-gradient(top, white 0%, #f2f2f2 100%); background: -webkit-linear-gradient(top, white 0%, #f2f2f2 100%); background: linear-gradient(to bottom, white 0%, #f2f2f2 100%); -webkit-box-shadow: 2px 0 10px 0 rgba(0, 0, 0, 0.07), 1000px 0 0 1000px #e1f5d1, -2px 0 10px 0 rgba(0, 0, 0, 0.07), -1000px 0 0 1000px whitesmoke; box-shadow: 2px 0 10px 0 rgba(0, 0, 0, 0.07), 1000px 0 0 980px #e1f5d1, -2px 0 10px 0 rgba(0, 0, 0, 0.07), -1000px 0 0 1000px whitesmoke; }
+  div.switch:hover span:last-child, div.switch:focus span:last-child { background: white; background: -moz-linear-gradient(top, white 0%, #e6e6e6 100%); background: -webkit-linear-gradient(top, white 0%, #e6e6e6 100%); background: linear-gradient(to bottom, white 0%, #e6e6e6 100%); }
   div.switch:active { background: transparent; }
   div.switch.large { height: 44px; }
   div.switch.large label { padding: 0 0.375em; line-height: 2.3em; font-size: 1.0625em; }
