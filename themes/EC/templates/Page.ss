@@ -749,12 +749,6 @@ Whether you're starting from the basics or exploring the depths of your technica
                         <div class="card-description">Lakestar</div>
                     </a>
                 </div>
-                <div class="card startupmonitor">
-                    <a href="http://startupmonitor.ch/" target="_blank">
-                        <div class="card-image"></div>
-                        <div class="card-description">Swiss Start-up Monitor</div>
-                    </a>
-                </div>
                 <div class="card pcu">
                     <a href="http://www.pcunetwork.com/" target="_blank">
                         <div class="card-image"></div>
@@ -767,16 +761,10 @@ Whether you're starting from the basics or exploring the depths of your technica
                         <div class="card-description">Tamedia</div>
                     </a>
                 </div>
-		    <div class="card kic">
+    		    <div class="card kic">
                     <a href="http://www.climate-kic.org/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">Klimate KIC</div>
-                    </a>
-                </div>
-		<div class="card adm">
-                    <a href="http://the-polo.com/" target="_blank">
-                        <div class="card-image"></div>
-                        <div class="card-description">AD.M</div>
                     </a>
                 </div>
                 <div class="card bearing">
@@ -795,6 +783,24 @@ Whether you're starting from the basics or exploring the depths of your technica
                     <a href="http://www.venturelab.ch/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">venturelab</div>
+                    </a>
+                </div>
+                <div class="card startupmonitor">
+                    <a href="http://startupmonitor.ch/" target="_blank">
+                        <div class="card-image"></div>
+                        <div class="card-description">Swiss Start-up Monitor</div>
+                    </a>
+                </div>
+                <div class="card adm">
+                    <a href="http://the-polo.com/" target="_blank">
+                        <div class="card-image"></div>
+                        <div class="card-description">AD.M</div>
+                    </a>
+                </div>
+                <div class="card vseth">
+                    <a href="https://www.vseth.ethz.ch/g%C3%B6ttiliste" target="_blank">
+                        <div class="card-image"></div>
+                        <div class="card-description">VSETH</div>
                     </a>
                 </div>
                 <div class="card stf">
