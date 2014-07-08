@@ -1362,8 +1362,6 @@ footer a { color: #999999; }
 .cards::-webkit-scrollbar-thumb:horizontal { border-width: 3px; }
 .cards .cards-canvas { padding: 15px; white-space: nowrap; text-align: center; }
 .cards .card { border: none; background: white; width: 250px; height: 300px; display: inline-block; margin-right: 20px; position: relative; white-space: normal; vertical-align: top; overflow: hidden; }
-.cards .card.r3 { background: #a5d8ef; }
-.cards .card.r3 .card-image { background-image: url('../images/r3.png?1404825773'); }
 .cards .card.walderwyss { background: #ccd2b3; }
 .cards .card.walderwyss .card-image { background-image: url('../images/walderwyss.png?1404825773'); }
 .cards .card.marcbrandis { background: #d1d7ee; }
@@ -1376,8 +1374,6 @@ footer a { color: #999999; }
 .cards .card.adm .card-image { background-image: url('../images/adm.png?1404825773'); }
 .cards .card.b2v { background: #0e3f7b; }
 .cards .card.b2v .card-image { background-image: url('../images/b2v.gif?1404825773'); }
-.cards .card.evernote { background: #b0da8f; }
-.cards .card.evernote .card-image { background-image: url('../images/evernote_a.png?1404825773'); }
 .cards .card.vlab { background: #f0f0f0; }
 .cards .card.vlab .card-image { background-image: url('../images/vlabre_logo.png?1404825773'); }
 .cards .card.lakestar { background: #5b4730; }
@@ -1402,6 +1398,12 @@ footer a { color: #999999; }
 .cards .card.startupmonitor .card-image { background-image: url('../images/startupmonitor.png?1404825773'); }
 .cards .card.vseth { background: white; }
 .cards .card.vseth .card-image { background-image: url('../images/vseth.jpg?1404831975'); }
+.cards .card.startupsch { background: white; }
+.cards .card.startupsch .card-image { background-image: url('../images/startups-ch.jpg?1404825773'); }
+.cards .card.tamedia { background: white; }
+.cards .card.tamedia .card-image { background-image: url('../images/Logo_startfeld.jpg?1404831541'); }
+.cards .card.startfeld { background: white; }
+.cards .card.startfeld .card-image { background-image: url('../images/logo-tamedia.png?1404831541'); }
 .cards .card-image { width: 100%; height: 100%; background-position: center center; background-repeat: no-repeat; position: absolute; top: 0; left: 0; margin: 0 auto; }
 .cards .card-description { margin: 0; position: absolute; bottom: 0; left: 0; white-space: normal; background: rgba(34, 34, 34, 0.6); color: #f2f2f2; padding: 5px; width: 100%; font-weight: 600; line-height: 1.2; }
 
