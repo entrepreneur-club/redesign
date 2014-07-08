@@ -562,6 +562,15 @@ Some drinks and snacks will be provided.
                     </li>
                     <li>
                         <div class="person-card">
+                            <div class="person-image" style="background-image: url($ThemeDir/images/daniel_auerbach.jpg)"></div>
+                            <div>
+                                <h4>Dr. Daniel Auerbach</h4>
+                                <p>Industry Relations, ETH Zürich Foundation</p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="person-card">
                             <div class="person-image" style="background-image: url($ThemeDir/images/illic3.jpg)"></div>
                             <div>
                                 <h4>Dr. Alexander Ilic</h4>
