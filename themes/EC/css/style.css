@@ -1394,6 +1394,8 @@ footer a { color: #999999; }
 .cards .card.stf .card-image { background-image: url('../images/AWA_de_farbig.jpg?1391520450'); }
 .cards .card.startfeld { background: #ffffff; }
 .cards .card.startfeld .card-image { background-image: url('../images/Logo_startfeld.jpg?1391520450'); }
+.cards .card.tamedia { background: #ffffff; }
+.cards .card.tamedia .card-image { background-image: url('../images/logo-tamedia.png?1391520450'); }
 .cards .card.stfu { background: #00b1f4; }
 .cards .card.stfu .card-image { background-image: url('../images/stifuntent.png?1391520450'); }
 .cards .card.kic { background: #e2eaf4; }

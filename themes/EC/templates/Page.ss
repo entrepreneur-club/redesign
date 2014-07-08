@@ -111,7 +111,7 @@
             </div>
             </div>
             <div class="large-6 columns">
-                <a href="$ThemeDir/images/EC_HS13_team_hires.jpg" target="_blank"><img src="$ThemeDir/images/EC_HS13_team_web.jpg" alt="Team"></a>
+                <img src="$ThemeDir/images/EC_SS14_team_web.jpg" alt="Team">
                 <!--<h4>Old comittees</h4>
                 <p>
                     <ul class="side-nav">
@@ -467,26 +467,6 @@ Board of directors. 2009/10 he also was CEO and currently acts as Exe
                         </div>
                     </li>
   
-                  <li>
-                        <a href="#" class="toggle">
-                            Meet the founder of ReHaptix <span class="event-date">8.5.2014 - 17:15 HG D7.2   </span><span class="entypo-right-open-big right"></span>
-                        </a>
-                         <div class="row event-description">
-                            <div class="large-5 columns event-picture">
-                                <a class="button centered" href="https://www.facebook.com/events/206430246220329/" target="_blank">View Event on Facebook</a>
-                            </div>
-                            <div class="large-7 columns">
-                            <p>
-Our new "Meet the founder of..." series is the perfect opportunity to learn from entrepreneurs who have successfully launched a business. Good execution is as important as good ideas; so come, listen, ask questions and soak up as much experience as you can! 
-</p>
-<p>
-ReHaptix is a spin-off from the ETH Zurich.
-They are developing tools to facilitate the work of therapists in the evaluation of upper limb motor function in patients suffering from a neurological injury and satisfy the need for objective outcome measures required to adapt the therapy most efficiently to the patient’s level of impairment.
-</p>
-<p> <a href="http://www.youtube.com/watch?v=ZDBMPC8jx78">ReHaptix Spot</a></p>
-<p> <a href="http://www.rehaptix.com">Website</a></p>
-                        </div>
-                    </li>
 
 
 
@@ -585,6 +565,34 @@ Don't miss out!
 Some drinks and snacks will be provided.
    </p>
                             </div>
+                        </div>
+                    </li>
+
+ <li>
+                        <a href="#" class="toggle">
+                            HackZurich // 40 Hours // 300 Hackers<span class="event-date">10-12.10.2014 - Tamedia HQ Zurich</span> <span class="entypo-right-open-big right"></span>
+                        </a>
+                        <div class="row event-description">
+                            <div class="large-5 columns event-picture">
+                   
+                                <img src="$ThemeDir/images/HackZurichLogo_blue.png">        
+			<a class="button centered" href="http://hackzurich.com" target="_blank">Website</a>
+				    <a class="button centered" href="http://www.facebook.com/hackzurich" target="_blank">Facebook Page</a>
+                            </div>
+                            <div class="large-7 columns">
+<p> <b>  40 Hours // 300 Hackers // 10-12. Oct 2014  </b> </p>                        
+<p>
+HackZurich will be the largest hackathon Switzerland has ever seen. A hackathon is an event where motivated people team up to brainstorm an idea and implement it in real software during a 40 hours non-stop hacking marathon. During the hackathon you will have an exciting opportunity to create an innovative web service, mobile app – or whatever else – that is ready to disrupt the market. It’s also a great place to meet the team of your dream if you don’t have one yet: people of different profiles – entrepreneurs, programmers and designers will all be there. What’s more exciting, you will immediately get a real collaboration experience with your new partners.
+</p>
+<p>
+Whether you're starting from the basics or exploring the depths of your technical knowledge, HackZurich is a prime time to develop something new, explore that ambitious craving in your head, or just work on something you don't normally work on. If you are as excited as we are, please leave your email address on our <b><a href="http://hackzurich.com">website</a></b> or like our <b><a href="http://facebook.com/hackzurich">Facebook Page</a></b> so we can keep you informed. Check our website regularly as we will release more details about the event soon. Contact us via email under <b>sponsor@hackzurich.com</b> if you are interested in co-sponsoring this event. For any other questions you can reach us under <b>info@hackzurich.com</b>.
+
+</p>
+
+
+
+
+    </div>
                         </div>
                     </li>
 
@@ -753,7 +761,13 @@ Some drinks and snacks will be provided.
                         <div class="card-description">Pioneers' Club</div>
                     </a>
                 </div>
-                <div class="card kic">
+               <div class="card tamedia">
+                    <a href="http://www.tamedia.ch/" target="_blank">
+                        <div class="card-image"></div>
+                        <div class="card-description">Tamedia</div>
+                    </a>
+                </div>
+		    <div class="card kic">
                     <a href="http://www.climate-kic.org/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">Klimate KIC</div>
