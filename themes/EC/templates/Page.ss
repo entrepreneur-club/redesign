@@ -798,7 +798,7 @@ Whether you're starting from the basics or exploring the depths of your technica
                     </a>
                 </div>
                 <div class="card vseth">
-                    <a href="https://www.vseth.ethz.ch/g%C3%B6ttiliste" target="_blank">
+                    <a href="https://www.vseth.ethz.ch/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">VSETH</div>
                     </a>
