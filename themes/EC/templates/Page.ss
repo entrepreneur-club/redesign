@@ -105,7 +105,7 @@
                     <li><b>Yannick Dienst</b>, VP of Finance</li>
                     <li><b>Melanie Binggeli</b>, VP of Membership</li>
                     <li><b>Martin Slusarczyk</b>, VP of Public Relations</li>
-                    <li><b>Rasmus Rothe</b>, VP of IT</li>
+                    <li><b>Jonathan Müller</b>, VP of IT</li>
                 </ul>
                 <p>You can reach us via FIRSTNAME.LASTNAME[AT]entrepreneur-club.org.</p>
             </div>
