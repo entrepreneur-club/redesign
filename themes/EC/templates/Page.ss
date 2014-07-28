@@ -570,7 +570,7 @@ Some drinks and snacks will be provided.
 
  <li>
                         <a href="#" class="toggle">
-                            HackZurich // 40 Hours // 300 Hackers<span class="event-date">10-12.10.2014 - Tamedia HQ Zurich</span> <span class="entypo-right-open-big right"></span>
+                            HackZurich // 40 Hours // 300 Hackers<span class="event-date">10-12.10.2014 - Technopark Zurich</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
