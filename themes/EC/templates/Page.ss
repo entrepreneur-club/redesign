@@ -306,7 +306,22 @@
                                 <a class="button centered" href="https://www.facebook.com/events/1474805299446066" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                            <p>More details to follow soon...</p>
+                            <p>Our lunch pitches are an opportunity for students to present their business ideas in an informal setting and to receive valuable feedback.</p>
+                            <p>Interested in presenting? write a mail <script type="text/javascript">
+                            <!--
+                            h='&#x65;&#110;&#116;&#114;&#x65;&#112;&#114;&#x65;&#110;&#x65;&#x75;&#114;&#x2d;&#x63;&#108;&#x75;&#98;&#46;&#x6f;&#114;&#x67;';a='&#64;';n='&#x63;&#x61;&#116;&#104;&#x65;&#114;&#x69;&#110;&#x65;&#46;&#x77;&#x69;&#116;&#116;&#x65;&#118;&#x65;&#x65;&#110;';e=n+a+h;
+                            document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
+                            // -->
+                            </script><noscript>&#x63;&#x61;&#116;&#104;&#x65;&#114;&#x69;&#110;&#x65;&#46;&#x77;&#x69;&#116;&#116;&#x65;&#118;&#x65;&#x65;&#110;&#32;&#x61;&#116;&#32;&#x65;&#110;&#116;&#114;&#x65;&#112;&#114;&#x65;&#110;&#x65;&#x75;&#114;&#x2d;&#x63;&#108;&#x75;&#98;&#32;&#100;&#x6f;&#116;&#32;&#x6f;&#114;&#x67;</noscript></p>
+                            <p>At most three people can present their business idea in front of the audience. Each presenter gets five minutes for pitching his or her early stage project, which will be followed by a moderated Q&amp;A session of another five minutes. The presenters have to use slides with the following content:</p>
+                            <ul>
+                            <li>Problem (What is the problem you try to solve?)</li>
+                            <li>Solution (How do you solve this problem?)</li>
+                            <li>Innovation (Why is your solution better than others?)</li>
+                            <li>Business Model (How will you earn money? Who are your customers and partners?)</li>
+                            <li>Economic, Socio-political, and Environmental impact (How does your business idea affect our society and the environment)?</li>
+                            </ul>
+
                             </div>
                         </div>
                     </li>
