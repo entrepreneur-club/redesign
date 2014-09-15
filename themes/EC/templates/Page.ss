@@ -218,7 +218,6 @@
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
-                                <img src="$ThemeDir/images/lunch.jpg">
                                 <a class="button centered" href="https://www.facebook.com/hackzurich" target="_blank">View Event on Facebook</a>
                                 <a class="button centered" href="https://hackzurich.com" target="_blank">Website</a>
                             </div>
@@ -298,10 +297,12 @@
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            Lunch Pitch<span class="event-date">26.11.2014</span> <span class="entypo-right-open-big right"></span>
+                            Lunch Pitch #2<span class="event-date">26.11.2014</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
+                            <img src="$ThemeDir/images/lunch.jpg">
+
                                 <a class="button centered" href="https://www.facebook.com/events/1474805299446066" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
