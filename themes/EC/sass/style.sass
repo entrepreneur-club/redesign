@@ -392,7 +392,8 @@ footer
 		vertical-align: top
 		overflow: hidden
 		&.walderwyss
-			background: lighten(#899557, 30%)
+			// background: lighten(#899557, 30%)
+			background: #fff
 			.card-image
 				background-image: image-url("walderwyss.png")
 		&.marcbrandis
@@ -475,9 +476,36 @@ footer
 			background: #ffffff
 			.card-image
 				background-image: image-url("logo-tamedia.png")
+		&.bcg
+			background: #ffffff
+			.card-image
+				@include background-size(80%)
+				background-image: image-url("logo-bcg.gif")
+		&.ifj
+			background: #ffffff
+			.card-image
+				background-image: image-url("logo-ifj.jpg")
+				@include background-size(80%)
+		&.revi
+			background: #ffffff
+			.card-image
+				background-image: image-url("logo-revi.jpg")
+				@include background-size(80%)
+		&.ubs
+			background: #ffffff
+			.card-image
+				@include background-size(80%)
+				background-image: image-url("logo-ubs.png")
+		&.venturekick
+			background: #ffffff
+			.card-image
+				background-image: image-url("logo-venturekick.jpg")
+				@include background-size(80%)
+
 	.card-image
 		width: 100%
 		height: 100%
+		padding: 10px
 		background-position: center center
 		background-repeat: no-repeat
 		position: absolute

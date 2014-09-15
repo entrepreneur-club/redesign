@@ -421,29 +421,29 @@
                         <div class="card-description">Walder Wyss Rechtsanwälte</div>
                     </a>
                 </div>
-                <div class="card marcbrandis">
-                    <a href="http://www.brandis.ch/" target="_blank">
+                <div class="card ubs">
+                    <a href="http://www.ubs.ch/" target="_blank">
                         <div class="card-image"></div>
-                        <div class="card-description">Marc Brandis Consulting</div>
+                        <div class="card-description">UBS</div>
                     </a>
                 </div>
-                <div class="card technopark">
-                    <a href="http://www.technopark.ch/" target="_blank">
+                <div class="card ifj">
+                    <a href="http://www.ifj.ch/" target="_blank">
                         <div class="card-image"></div>
-                        <div class="card-description">Technopark</div>
+                        <div class="card-description">Institut für Jungunternehmen</div>
                     </a>
                 </div>
-               <div class="card startfeld">
-                    <a href="http://www.startfeld.ch/" target="_blank">
+               <div class="card bcg">
+                    <a href="http://www.bcg.ch/" target="_blank">
                         <div class="card-image"></div>
-                        <div class="card-description">Startfeld</div>
+                        <div class="card-description">BCG</div>
                     </a>
                 </div>
 
-                <div class="card startupsch">
-                    <a href="http://www.startups.ch/" target="_blank">
+                <div class="card revi">
+                    <a href="http://www.revicons.ch/" target="_blank">
                         <div class="card-image"></div>
-                        <div class="card-description">Startups.ch</div>
+                        <div class="card-description">Revicons</div>
                     </a>
                 </div>
             </div>
@@ -460,6 +460,12 @@
                     <a href="http://www.lakestar.com/" target="_blank">
                         <div class="card-image"></div>
                         <div class="card-description">Lakestar</div>
+                    </a>
+                </div>
+                <div class="card venturekick">
+                    <a href="http://www.venturekick.ch/" target="_blank">
+                        <div class="card-image"></div>
+                        <div class="card-description">Venture Kick</div>
                     </a>
                 </div>
                 <div class="card pcu">
