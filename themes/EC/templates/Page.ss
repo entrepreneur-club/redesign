@@ -214,7 +214,7 @@
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            HackZurich<span class="event-date">10.10.2014 - Technopark Zürich</span> <span class="entypo-right-open-big right"></span>
+                            HackZurich<span class="event-date">10 - 12.10.2014 - Technopark Zürich</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
