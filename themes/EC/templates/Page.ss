@@ -138,6 +138,18 @@
 
                     <li>
                         <a href="#" class="toggle">
+                            ETH Campaign <span class="event-date">22 / 23.09.2014 - HG (Fountain)</span> <span class="entypo-right-open-big right"></span>
+                        </a>
+                        <div class="row event-description">
+                            <div class="large-12 columns">
+                                <p>
+                                Visit us at the main entrance of ETH HG. More details to follow soon...
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="#" class="toggle">
                             General Assembly <span class="event-date">23.09.2014 - 19:00 - ieLab LEO B8.1</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
@@ -164,14 +176,10 @@
                             <p>Do you want to hear the story of a start-up that raised $122.5 million, bought an 93-year old company on a different continent and is setting on fire the well-rehearsed world of the shavers business, where 85% of the market is already controlled by giants like Gillette and Schick?</p>
                             <p>Then join us for our Kick Off into the Fall Semester 2014!</p>
                             <p>Andy Katz-Mayfield, co-founder of Harry’s is making a detour from New York to fly to Zurich and Kick Off the semester together with the ETH Entrepreneur Club. Coming along will also be the Managing Director and Lead Design Engineer of Feintechnick, the German razor blade company that Harry’s bought.</p>
-                            <p>You can find more information about Harry’s here: <a href="https://www.harrys.com/" target="_blank">https://www.harrys.com/</a></p>
-                            <p>Or read the TechCrunch article about them: <a href="http://goo.gl/Gxg4br" target="_blank">http://goo.gl/Gxg4br</a> Do you want to hear the story of a start-up that raised $122.5 million, bought an 93-year old company on a different continent and is setting on fire the well-rehearsed world of the shavers business, where 85% of the market is already controlled by giants like Gillette and Schick?</p>
-                            <p>Then join us for our Kick Off into the Fall Semester 2014!</p>
-                            <p>Andy Katz-Mayfield, co-founder of Harry’s is making a detour from New York to fly to Zurich and Kick Off the semester together with the ETH Entrepreneur Club. Coming along will also be the Managing Director and Lead Design Engineer of Feintechnick, the German razor blade company that Harry’s bought.</p>
-                            <p>You can find more information about Harry’s here: <a href="https://www.harrys.com/" target="_blank">https://www.harrys.com/</a> or read the TechCrunch article about them: <a href="http://goo.gl/Gxg4br" target="_blank">http://goo.gl/Gxg4br</a></p>
+                            <p>You can find more information about Harry’s here: <a href="https://www.harrys.com/">https://www.harrys.com/</a></p>
+                            <p>Or read the TechCrunch article about them: <a href="http://goo.gl/Gxg4br">http://goo.gl/Gxg4br</a></p>
                             <p>If you have a specific question you would like Andy to talk about, shoot us a message via facebook and we will try our best to get him cover the topic.</p>
                             <p>The event is public, and will be followed by an apero sponsored by UBS.</p>
-
                            </div>
                         </div>
                     </li>
@@ -185,39 +193,25 @@
                                 <a class="button centered" href="https://www.facebook.com/events/1457304717876544/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-    <p>Our lunch pitches are an opportunity for students to present their business ideas in an informal setting and to receive valuable feedback.</p>
-    <p>Interested in presenting? write a mail <script type="text/javascript">
-    <!--
-    h='&#x65;&#110;&#116;&#114;&#x65;&#112;&#114;&#x65;&#110;&#x65;&#x75;&#114;&#x2d;&#x63;&#108;&#x75;&#98;&#46;&#x6f;&#114;&#x67;';a='&#64;';n='&#x63;&#x61;&#116;&#104;&#x65;&#114;&#x69;&#110;&#x65;&#46;&#x77;&#x69;&#116;&#116;&#x65;&#118;&#x65;&#x65;&#110;';e=n+a+h;
-    document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
-    // -->
-    </script><noscript>&#x63;&#x61;&#116;&#104;&#x65;&#114;&#x69;&#110;&#x65;&#46;&#x77;&#x69;&#116;&#116;&#x65;&#118;&#x65;&#x65;&#110;&#32;&#x61;&#116;&#32;&#x65;&#110;&#116;&#114;&#x65;&#112;&#114;&#x65;&#110;&#x65;&#x75;&#114;&#x2d;&#x63;&#108;&#x75;&#98;&#32;&#100;&#x6f;&#116;&#32;&#x6f;&#114;&#x67;</noscript></p>
-    <p>At most three people can present their business idea in front of the audience. Each presenter gets five minutes for pitching his or her early stage project, which will be followed by a moderated Q&amp;A session of another five minutes. The presenters have to use slides with the following content:</p>
-    <ul>
-    <li>Problem (What is the problem you try to solve?)</li>
-    <li>Solution (How do you solve this problem?)</li>
-    <li>Innovation (Why is your solution better than others?)</li>
-    <li>Business Model (How will you earn money? Who are your customers and partners?)</li>
-    <li>Economic, Socio-political, and Environmental impact (How does your business idea affect our society and the environment)?</li>
-    </ul>
+                            <p>Our lunch pitches are an opportunity for students to present their business ideas in an informal setting and to receive valuable feedback.</p>
+                            <p>Interested in presenting? write a mail <script type="text/javascript">
+                            <!--
+                            h='&#x65;&#110;&#116;&#114;&#x65;&#112;&#114;&#x65;&#110;&#x65;&#x75;&#114;&#x2d;&#x63;&#108;&#x75;&#98;&#46;&#x6f;&#114;&#x67;';a='&#64;';n='&#x63;&#x61;&#116;&#104;&#x65;&#114;&#x69;&#110;&#x65;&#46;&#x77;&#x69;&#116;&#116;&#x65;&#118;&#x65;&#x65;&#110;';e=n+a+h;
+                            document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
+                            // -->
+                            </script><noscript>&#x63;&#x61;&#116;&#104;&#x65;&#114;&#x69;&#110;&#x65;&#46;&#x77;&#x69;&#116;&#116;&#x65;&#118;&#x65;&#x65;&#110;&#32;&#x61;&#116;&#32;&#x65;&#110;&#116;&#114;&#x65;&#112;&#114;&#x65;&#110;&#x65;&#x75;&#114;&#x2d;&#x63;&#108;&#x75;&#98;&#32;&#100;&#x6f;&#116;&#32;&#x6f;&#114;&#x67;</noscript></p>
+                            <p>At most three people can present their business idea in front of the audience. Each presenter gets five minutes for pitching his or her early stage project, which will be followed by a moderated Q&amp;A session of another five minutes. The presenters have to use slides with the following content:</p>
+                            <ul>
+                            <li>Problem (What is the problem you try to solve?)</li>
+                            <li>Solution (How do you solve this problem?)</li>
+                            <li>Innovation (Why is your solution better than others?)</li>
+                            <li>Business Model (How will you earn money? Who are your customers and partners?)</li>
+                            <li>Economic, Socio-political, and Environmental impact (How does your business idea affect our society and the environment)?</li>
+                            </ul>
 
                            </div>
                            </div>
                     </li>
-                    <li>
-                        <a href="#" class="toggle">
-                            EC Lab<span class="event-date">16.10.2014 - 18:00 - ETH Hönggerberg, ieLab, LEO B8.1</span> <span class="entypo-right-open-big right"></span>
-                        </a>
-                        <div class="row event-description">
-                            <div class="large-5 columns event-picture">
-                                <a class="button centered" href="https://www.facebook.com/events/612656185545339" target="_blank">View Event on Facebook</a>
-                            </div>
-                            <div class="large-7 columns">
-                            </div>
-                        </div>
-                    </li>
-
-
                     <li>
                         <a href="#" class="toggle">
                             HackZurich<span class="event-date">10.10.2014 - Technopark Zürich</span> <span class="entypo-right-open-big right"></span>
@@ -251,19 +245,6 @@
                             </div>
                         </div>
                     </li>
-                    <li>
-                        <a href="#" class="toggle">
-                            EC Lab with Nick Heller from Fractal Labs<span class="event-date">23.10.2014 - 18:00 - ETH Zentrum, ieLab, LEO B8.1</span> <span class="entypo-right-open-big right"></span>
-                        </a>
-                        <div class="row event-description">
-                            <div class="large-5 columns event-picture">
-                                <a class="button centered" href="https://www.facebook.com/events/836862859664909" target="_blank">View Event on Facebook</a>
-                            </div>
-                            <div class="large-7 columns">
-                            </div>
-                        </div>
-                    </li>
-
                     <li>
                         <a href="#" class="toggle">
                             Pitch it like BCG - Pitching Workhop<span class="event-date">30.10.2014</span> <span class="entypo-right-open-big right"></span>
@@ -317,37 +298,11 @@
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            EC Lab with Sensirion<span class="event-date">20.11.2014</span> <span class="entypo-right-open-big right"></span>
-                        </a>
-                        <div class="row event-description">
-                            <div class="large-5 columns event-picture">
-                                <a class="button centered" href="https://www.facebook.com/events/1452300718391739/" target="_blank">View Event on Facebook</a>
-                            </div>
-                            <div class="large-7 columns">
-                            <p>More details to follow soon...</p>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <a href="#" class="toggle">
                             Lunch Pitch<span class="event-date">26.11.2014</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
                                 <a class="button centered" href="https://www.facebook.com/events/1474805299446066" target="_blank">View Event on Facebook</a>
-                            </div>
-                            <div class="large-7 columns">
-                            <p>More details to follow soon...</p>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <a href="#" class="toggle">
-                            EC Lab<span class="event-date">4.12.2014</span> <span class="entypo-right-open-big right"></span>
-                        </a>
-                        <div class="row event-description">
-                            <div class="large-5 columns event-picture">
-                                <a class="button centered" href="https://www.facebook.com/events/668191223279327/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
                             <p>More details to follow soon...</p>
