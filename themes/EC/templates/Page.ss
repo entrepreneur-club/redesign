@@ -36,6 +36,7 @@
                     <li><a href="#advisors-and-sponsors">Advisors &amp; Sponsors</a></li>
                     <li><a href="#join">Join</a></li>
                     <li><a href="#contact">Contact</a></li>
+                    <%-- <li><a href="http://blog.entrepreneur-club.org" target="_blank">Blog</a></li> --%>
                 </ul>
                 </section>
             </nav>
@@ -681,8 +682,9 @@
             <div class="large-1 columns">
                 <div class="logo-white"></div>
             </div>
-            <div class="large-1 columns" style="margin-top:30px;margin-left:-40px;font-size:1.25em;">
-                <a href="https://drive.google.com/folderview?id=0ByyrjO_yNEntUksyRUhmQjM0MWM">Documents</a>
+            <div class="large-4 columns right" style="margin-top:30px;margin-left:-40px;font-size:1.25em; text-align:right;">
+                <a href="https://drive.google.com/folderview?id=0ByyrjO_yNEntUksyRUhmQjM0MWM">Documents</a> | 
+                <a href="http://blog.entrepreneur-club.org" target="_blank">Blog</a>
             </div>
         </div>
 </body>
