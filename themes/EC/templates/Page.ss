@@ -138,466 +138,222 @@
 
                     <li>
                         <a href="#" class="toggle">
-                            General Assembly <span class="event-date">19.2.2014 - 19:00 - ieLab LEO B8.1</span> <span class="entypo-right-open-big right"></span>
+                            General Assembly <span class="event-date">23.09.2014 - 19:00 - ieLab LEO B8.1</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
                                 <img src="$ThemeDir/images/ga.jpg">
-                                <a class="button centered" target="_blank" href="http://www.facebook.com/events/789966661017296/">View Event on Facebook</a>
+                                <a class="button centered" target="_blank" href="https://www.facebook.com/events/350004041831208">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                                <p> At the general assembly of the spring semester 2014, we will elect the new executive committee, discuss and vote on the budget and other club matters, and inform you about our upcoming events!
+                                <p> At the general assembly of the fall semester 2014, we will elect the new executive committee, discuss and vote on the budget and other club matters, and inform you about our upcoming events!
                                 </p>
                             </div>
                         </div>
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            Kick off with Sacha Wigdorovits<span class="event-date">25.2.2014 - 17:15 - ETH Zentrum, HG E 5</span> <span class="entypo-right-open-big right"></span>
+                            Kick Off with Andy Katz-Mayfield<span class="event-date">24.09.2014 - 17:15 - ETH Zentrum, HG E 5</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
                                 <img src="$ThemeDir/images/kickoff.jpg">
-                                <a class="button centered" href="http://www.facebook.com/events/1436180126616427/" target="_blank" >View Event on Facebook</a>
+                                <a class="button centered" href="https://www.facebook.com/events/803081749754712" target="_blank" >View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                           <p>
-                           Join us in kicking off a new semester of entrepreneurial activities! Our keynote speaker, Mr. Sacha Wigdorovits, will share his experience of working closely with entrepreneurs such as Jean-Claude Biver. He will expose the essential factors to being a successful entrepreneur, and present some of the winning strategies from companies such as Hublot.
-</p> <p>
-Sacha Wigdorovits is Member of the Board of Directors and Managing Director of Contract Media AG. 20 years' journalistic experience working for leading Swiss newspapers like Blick (editor-in-chief), Luzerner Neuste Nachrichten (deputy editor-in-chief), Sonntags-Zeitung (US correspondent, senior journalist) and Tages Anzeiger (metropolitan editor). Co-founder of the commuter newspapers 20 Minuten and .ch as well as the online market research company Marketagent.com Schweiz AG. Member of the Board of Directors of Nexus AG and Guestlist.ch AG. Chairman of Hadassah Foundation Switzerland. Lic. phil. 1 from the University of Zurich and alumnus of the Harvard Business School Advanced Management Programme (AMP).
-</p> <p>
-The event is public, and will be followed by an apero.
-        </p>                    </div>
+                            <p>Do you want to hear the story of a start-up that raised $122.5 million, bought an 93-year old company on a different continent and is setting on fire the well-rehearsed world of the shavers business, where 85% of the market is already controlled by giants like Gillette and Schick?</p>
+                            <p>Then join us for our Kick Off into the Fall Semester 2014!</p>
+                            <p>Andy Katz-Mayfield, co-founder of Harry’s is making a detour from New York to fly to Zurich and Kick Off the semester together with the ETH Entrepreneur Club. Coming along will also be the Managing Director and Lead Design Engineer of Feintechnick, the German razor blade company that Harry’s bought.</p>
+                            <p>You can find more information about Harry’s here: <a href="https://www.harrys.com/" target="_blank">https://www.harrys.com/</a></p>
+                            <p>Or read the TechCrunch article about them: <a href="http://goo.gl/Gxg4br" target="_blank">http://goo.gl/Gxg4br</a> Do you want to hear the story of a start-up that raised $122.5 million, bought an 93-year old company on a different continent and is setting on fire the well-rehearsed world of the shavers business, where 85% of the market is already controlled by giants like Gillette and Schick?</p>
+                            <p>Then join us for our Kick Off into the Fall Semester 2014!</p>
+                            <p>Andy Katz-Mayfield, co-founder of Harry’s is making a detour from New York to fly to Zurich and Kick Off the semester together with the ETH Entrepreneur Club. Coming along will also be the Managing Director and Lead Design Engineer of Feintechnick, the German razor blade company that Harry’s bought.</p>
+                            <p>You can find more information about Harry’s here: <a href="https://www.harrys.com/" target="_blank">https://www.harrys.com/</a> or read the TechCrunch article about them: <a href="http://goo.gl/Gxg4br" target="_blank">http://goo.gl/Gxg4br</a></p>
+                            <p>If you have a specific question you would like Andy to talk about, shoot us a message via facebook and we will try our best to get him cover the topic.</p>
+                            <p>The event is public, and will be followed by an apero sponsored by UBS.</p>
+
+                           </div>
                         </div>
                     </li>
 
                     <li>
                         <a href="#" class="toggle">
-                            Brainstorming with UZH Startuppers & Bearing Point  <span class="event-date">5.3.2014 - 17:00 - ETH Kuppel</span> <span class="entypo-right-open-big right"></span>
+                            Lunch Pitch #1  <span class="event-date">1.10.2014 - 12:15 - ETH Zentrum, HG D16.2</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
-                                <a class="button centered" href="https://www.facebook.com/events/619433518109863" target="_blank">View Event on Facebook</a>
+                                <a class="button centered" href="https://www.facebook.com/events/1457304717876544/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                            <p>
-                            The UZH Startuppers and the Entrepreneur Club organize another brainstorming session to develop innovative business ideas!
-                            </p>
-                            <p>
-                        An diesem Abend hast du die Möglichkeit mit anderen kreativen Köpfen coole Ideen für eine bestimmte Zielgruppe zu generieren.
-                            </p>
-                            <p>
-Hast du dir einmal überlegt, was eine gestresste Hausfrau mit 2 Kindern am besten brauchen könnte? Oder was würde sich ein 70 jähriger Grossvater, der alleine lebt und viel Zeit hat, kaufen?
-</p>
-<p>
-Zusammen im Team entwickelt ihr neue Produktideen und präsentiert sie anschliessend den andern.
-Neugierig? Dann bewirb dich <a href="http://goo.gl/3xR0z5">hier</a>.
-</p>
-<p>
-The Brainstorming Session is sponsored by BearingPoint. Check out their business idea competition "Be.project" at <a href="http://www.bearingpoint.com/beproject">http://www.bearingpoint.com/beproject</a>!
-</p>
+    <p>Our lunch pitches are an opportunity for students to present their business ideas in an informal setting and to receive valuable feedback.</p>
+    <p>Interested in presenting? write a mail <script type="text/javascript">
+    <!--
+    h='&#x65;&#110;&#116;&#114;&#x65;&#112;&#114;&#x65;&#110;&#x65;&#x75;&#114;&#x2d;&#x63;&#108;&#x75;&#98;&#46;&#x6f;&#114;&#x67;';a='&#64;';n='&#x63;&#x61;&#116;&#104;&#x65;&#114;&#x69;&#110;&#x65;&#46;&#x77;&#x69;&#116;&#116;&#x65;&#118;&#x65;&#x65;&#110;';e=n+a+h;
+    document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'">'+e+'<\/'+'a'+'>');
+    // -->
+    </script><noscript>&#x63;&#x61;&#116;&#104;&#x65;&#114;&#x69;&#110;&#x65;&#46;&#x77;&#x69;&#116;&#116;&#x65;&#118;&#x65;&#x65;&#110;&#32;&#x61;&#116;&#32;&#x65;&#110;&#116;&#114;&#x65;&#112;&#114;&#x65;&#110;&#x65;&#x75;&#114;&#x2d;&#x63;&#108;&#x75;&#98;&#32;&#100;&#x6f;&#116;&#32;&#x6f;&#114;&#x67;</noscript></p>
+    <p>At most three people can present their business idea in front of the audience. Each presenter gets five minutes for pitching his or her early stage project, which will be followed by a moderated Q&amp;A session of another five minutes. The presenters have to use slides with the following content:</p>
+    <ul>
+    <li>Problem (What is the problem you try to solve?)</li>
+    <li>Solution (How do you solve this problem?)</li>
+    <li>Innovation (Why is your solution better than others?)</li>
+    <li>Business Model (How will you earn money? Who are your customers and partners?)</li>
+    <li>Economic, Socio-political, and Environmental impact (How does your business idea affect our society and the environment)?</li>
+    </ul>
 
-
-                        </div>
+                           </div>
+                           </div>
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            Pioneer Fellowship Information PR Event  - Lunch Event #1<span class="event-date">6.3.2014 - 12:00 - ETH Zentrum</span> <span class="entypo-right-open-big right"></span>
+                            EC Lab<span class="event-date">16.10.2014 - 18:00 - ETH Hönggerberg, ieLab, LEO B8.1</span> <span class="entypo-right-open-big right"></span>
+                        </a>
+                        <div class="row event-description">
+                            <div class="large-5 columns event-picture">
+                                <a class="button centered" href="https://www.facebook.com/events/612656185545339" target="_blank">View Event on Facebook</a>
+                            </div>
+                            <div class="large-7 columns">
+                            </div>
+                        </div>
+                    </li>
+
+
+                    <li>
+                        <a href="#" class="toggle">
+                            HackZurich<span class="event-date">10.10.2014 - Technopark Zürich</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
                                 <img src="$ThemeDir/images/lunch.jpg">
-                                <a class="button centered" href="https://www.facebook.com/events/1387746034822941/" target="_blank">View Event on Facebook</a>
+                                <a class="button centered" href="https://www.facebook.com/hackzurich" target="_blank">View Event on Facebook</a>
+                                <a class="button centered" href="https://hackzurich.com" target="_blank">Website</a>
                             </div>
                             <div class="large-7 columns">
+                            <p> <b>  40 Hours // 300 Hackers // 10-12. Oct 2014  </b> </p>                        
                             <p>
-                                Become your own boss!
-                            </p> <p>
-Are you working on a technology and you think it could be turned into a cool product? Or do you simply feel that entrepreneurship is in your genes?
-</p>
-<p>
-Then our Pioneer Fellowship information event is for you: get first-hand information on ETH’s newest program to support innovative technologies and help students on their way to becoming the entrepreneurs of tomorrow.
-</p>
-<p>
-* Introduction to the Pioneer Fellowship grant program for PhD and master students: how to apply, how to succeed and what to expect from the fellowship.
-* Panel discussion with Pioneer fellows talking about their experience with the program.
-* Apero & time for discussion with Pioneer Fellows and program organisers.
-</p>
-<p>
-The event is public, but registration on Facebook is recommended.
-  </p>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <a href="#" class="toggle">
-                            EC Lab<span class="event-date">12.3.2014 - 19:00 - ieLab LEO B8.1</span> <span class="entypo-right-open-big right"></span>
-                        </a>
-                        <div class="row event-description">
-                            <div class="large-5 columns event-picture">
-                                <a class="button centered" href="https://www.facebook.com/events/1459811727571826/" target="_blank">View Event on Facebook</a>
-                            </div>
-                            <div class="large-7 columns">
+                            HackZurich will be the largest hackathon Switzerland has ever seen. A hackathon is an event where motivated people team up to brainstorm an idea and implement it in real software during a 40 hours non-stop hacking marathon. During the hackathon you will have an exciting opportunity to create an innovative web service, mobile app – or whatever else – that is ready to disrupt the market. It’s also a great place to meet the team of your dream if you don’t have one yet: people of different profiles – entrepreneurs, programmers and designers will all be there. What’s more exciting, you will immediately get a real collaboration experience with your new partners.
+                            </p>
                             <p>
-                                Do you have a business idea and want to informally talk about it with other entrepreneurs? 
-</p>
-<p>
-                            Are you interested in starting your own business but don't have the right idea yet or are still looking for a team? 
-</p>
-<p>
-Then this is the event you should attend. 
-</p>
-<p>
-It is nothing more than an informal gathering of entrepreneurial people where you can chat about your ideas, businesses and everything related. 
-</p>
-<p>
-Don't miss out!
-</p>
-<p>
-Some drinks and snacks will be provided.
-   </p>
-                            </div>
-                        </div>
-                    </li>
-
-                    <li>
-                        <a href="#" class="toggle">
-                            Raising Money for Biotech<span class="event-date">17.3.2014 - 17.30 - Hönggerberg HPL D32-34</span> <span class="entypo-right-open-big right"></span>
-                        </a>
-                        <div class="row event-description">
-                            <div class="large-5 columns event-picture">
-                                <a class="button centered" href="https://www.facebook.com/events/1404154706503400" target="_blank">View Event on Facebook</a>
-                            </div>
-                            <div class="large-7 columns">
-                            <p>
-                            Biotech is booming again. Only last year a staggering 40 young life sciences companies went public. Unlike many web or tech, outfits life sciences startups notoriously require enormous amounts of capital to get going. 
-</p> <p>
-So how do I raise money for my biotech startup plans?
-</p> <p>
-Two experts in the field, Dr. Michael Sidler, Partner of the Red Alpine venture capital fund and Andreas Emmenegger, CFO of Molecular Partners and CFO behind Glycart’s > CHF 230M sale to Roche will join us to shed light on this thrilling question. Both our speakers will be giving a short keynote address on their experience as biotech investors and fund-raisers. Afterwards, there will be the opportunity for discussion over drinks and some snacks. 
-</p><p>
-Please register for this event <a href="https://docs.google.com/forms/d/14dtjtEOUdEbsVDvsxHTatRA-3gML1ZWTF_UKYGjG78c/viewform">here</a>.
-</p>
-                            </div>
-                        </div>
-                    </li>
-
-                    <li>
-                        <a href="#" class="toggle">
-                            Zurich Insurance Innovation Award<span class="event-date">3.4.2014 - 17:15 - ETH HG, D 7.2</span> <span class="entypo-right-open-big right"></span>
-                        </a>
-                        <div class="row event-description">
-                            <div class="large-5 columns event-picture">
-                                <a class="button centered" href="https://www.facebook.com/events/1402152030038837/" target="_blank">View Event on Facebook</a>
-                            </div>
-                            <div class="large-7 columns">
-                            <p>
-Join us on Thursday April 3rd for the final round of the Zurich Insurance Innovation Award! The 6 most innovative ideas submitted will be presented to the Zurich Insurance expert committee that will designate the winners.
-The participants will present solutions the problematic of life insurance and its interactions with customers in 2020 and compete for a prizes up to 2500 CHF.
-</p>
-<p>
-After the award ceremony there will be a free aperitif to exchange ideas and connect with new people.
-</p>
-<p>
-For more information please click <b><a href="http://entrepreneur-club.org/ZurichInsurance">here</a></b>.
-</p>
+                            Whether you're starting from the basics or exploring the depths of your technical knowledge, HackZurich is a prime time to develop something new, explore that ambitious craving in your head, or just work on something you don't normally work on. If you are as excited as we are, please leave your email address on our <b><a href="http://hackzurich.com">website</a></b> or like our <b><a href="http://facebook.com/hackzurich">Facebook Page</a></b> so we can keep you informed. Check our website regularly as we will release more details about the event soon. Contact us via email under <b>sponsor@hackzurich.com</b> if you are interested in co-sponsoring this event. For any other questions you can reach us under <b>info@hackzurich.com</b>.
 
                             </div>
                         </div>
                     </li>
                     <li>
                         <a href="#" class="toggle">
-                            From planning to founding: Dos and Don'ts<span class="event-date">8.4.2014 - 17:00 - ETH Zentrum</span><span class="entypo-right-open-big right"></span>
+                            Meet the Founders of Numab<span class="event-date">21.10.2014 - 18:00 - ETH Hönggerberg, HPL D32/34</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
-                                <a class="button centered" href="https://www.facebook.com/events/213586852179108/" target="_blank">View Event on Facebook</a>
+                                <a class="button centered" href="https://www.facebook.com/events/1602132753346984/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                        <p>Join us for a dual presentation about common mishaps and funny stories about the baby steps of startup companies. The event will be held with two experts in the field namely Startups.ch and Walderwyss. Everyone is welcome to come and participate. A small apero will be served afterwards.</p>
                             </div>
                         </div>
                     </li>
-
+                    <li>
+                        <a href="#" class="toggle">
+                            EC Lab with Nick Heller from Fractal Labs<span class="event-date">23.10.2014 - 18:00 - ETH Zentrum, ieLab, LEO B8.1</span> <span class="entypo-right-open-big right"></span>
+                        </a>
+                        <div class="row event-description">
+                            <div class="large-5 columns event-picture">
+                                <a class="button centered" href="https://www.facebook.com/events/836862859664909" target="_blank">View Event on Facebook</a>
+                            </div>
+                            <div class="large-7 columns">
+                            </div>
+                        </div>
+                    </li>
 
                     <li>
                         <a href="#" class="toggle">
- Meet the Founder of 24M - MIT Professor W. Craig Carter<span class="event-date">11.4.2014 - 12:00 - ieLab (LEO B8.1)</span><span class="entypo-right-open-big right"></span>
+                            Pitch it like BCG - Pitching Workhop<span class="event-date">30.10.2014</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
-                                <a class="button centered" href="https://www.facebook.com/events/322575274557845/" target="_blank">View Event on Facebook</a>
+                                <a class="button centered" href="https://www.facebook.com/events/1498019747107879/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                            <p>
-Are you interested in startups? Energy technology? Meeting a professor from MIT? Or a quick chat with a successful entrepreneur? Here’s your chance to get them all!
-</p>
-<p>
-Dr. Craig Carter, an Entrepreneur and an MIT Professor, who often - according to LinkedIn - “herds cats, receives emails, yawns frequently and terrorizes students,” is coming to ETH.
-</p>
-<p>
-His company, 24-m (<a href="http://24-m.com">http://24-m.com</a>) is pioneering a business model in energy storage. It has developed a breakthrough battery technology that provides low-cost, high energy density, safe and long-life storage for power grid and transportation markets.
-</p>
-<p>
-Dr. Carter is a Professor in the Materials Science and Engineering department at MIT. His current research is the application of theoretical materials science and applied mathematics to mesoscale materials structures and their relations to material properties. He has won several institutional awards for teaching excellence at MIT. His group develops the means to optimize material properties through model development and simulation of materials physics. He has recently embarked on development of massively online educational courses.
-</p>
-<p>
-Come along, meet Dr. Carter in person, and get in touch with like-minded students!
-</p>
-<p>
-We will provide pizza for lunch. See you there!
-</p>
-				</div>
-                        </div>
-                    </li>
-
-
-
-                       <li>
-                        <a href="#" class="toggle">
-                            EC Lab<span class="event-date">16.4.2014 - 19:00 - ieLab LEO B8.1</span> <span class="entypo-right-open-big right"></span>
-                        </a>
-                        <div class="row event-description">
-                            <div class="large-5 columns event-picture">
-                                <a class="button centered" href="https://www.facebook.com/events/1459811727571826/" target="_blank">View Event on Facebook</a>
-                            </div>
-                            <div class="large-7 columns">
-                                            Do you have a business idea and want to informally talk about it with other entrepreneurs? 
-</p>
-<p>
-                            Are you interested in starting your own business but don't have the right idea yet or are still looking for a team? 
-</p>
-<p>
-Then this is the event you should attend. 
-</p>
-<p>
-It is nothing more than an informal gathering of entrepreneurial people where you can chat about your ideas, businesses and everything related. 
-</p>
-<p>
-Don't miss out!
-</p>
-<p>
-Some drinks and snacks will be provided.
-   </p>
                             </div>
                         </div>
                     </li>
-
-
-                      <li>
-                        <a href="#" class="toggle">
-                            Startup Speed Dating <span class="event-date">30.4.2014 - ETH Dozentenfoyer</span><span class="entypo-right-open-big right"></span>
-                        </a>
-                         <div class="row event-description">
-                            <div class="large-5 columns event-picture">
-                                    <img src="$ThemeDir/images/ssd.jpg">
-                                <a class="button centered" href="https://www.facebook.com/events/233023690216382/" target="_blank">View Event on Facebook</a>
-                                <a class="button centered" href="http://ssd.entrepreneur-club.org/" target="_blank">Register here</a>
-                            </div>
-                            <div class="large-7 columns">
-                             <p>The highlight of every semester is the Startup Speed Dating! In cooperation with our partner organizations, the Entrepreneur Club organizes a forum for startups and students, matching people with ideas with those with skills.</p>
-                                <p>With an extremely high matching rate, the Speed Dating is one of our most popular event! There will be 100 spots for candidates, 30 spots for start-ups and 20 spots for guests.</p>
-                                <p>There will be a preset proportion of IT, Commercial and Engineering startups.</p>
-                            </div>
-                        </div>
-                    </li>
-                    
-
-
                     <li>
                         <a href="#" class="toggle">
-                            Lunch Pitch <span class="event-date">6.5.2014 12:15 - ETH HG F 3</span> <span class="entypo-right-open-big right"></span>
+                            Startup Speed Dating<span class="event-date">5.11.2014 - 17:00</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
-                                <img src="$ThemeDir/images/lunch.jpg">
-                                <a class="button centered" href="https://www.facebook.com/events/1417278761851042/" target="_blank">View Event on Facebook</a>
+                                <a class="button centered" href="https://www.facebook.com/events/267946146730169/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                                <p>
-                                    Our lunch pitches are an opportunity for students to present their business ideas in an informal setting and to receive valuable feedback. For this series of events, we partnered with Climate-KIC, which sponsors the sandwiches. No registration is required for normal participants. However, setting and updating your attendance status on Facebook helps us to organize the right amount of food!
-                                </p>
-                                <p>
-                                    At most three persons can present their business idea in front of the audience. Each presenter gets five minutes for pitching his or her early stage project, which will be followed by a moderated Q&amp;A session of another five minutes. The first three people that write the name of their project on the wall of this event can present their idea. The presenters have to use slides with the following content.
-                                </p>
-                                <ul>
-                                    <li>Problem (What is the problem you try to solve?)</li>
-                                    <li>Solution (How do you solve this problem?)</li>
-                                    <li>Innovation (Why is your solution better than others?)</li>
-                                    <li>Business Model (How will you earn money? Who are your customers and partners?)</li>
-                                    <li>Climate and Social Impact (How does your business idea affect our society and the environment?)</li>
-                                </ul>
+                            <p>Join our highlight, the Start-Up Speed Dating Event on 5th November 2014: Explore career opportunities with a start-up or be a start-up recruiting skilled students!</p>
                             </div>
                         </div>
                     </li>
-
-     <li>
+                    <li>
                         <a href="#" class="toggle">
-                            ieLab HPL <span class="event-date">6.5.2014 12:30 - Hönggerberg HPL  D32‐34</span> <span class="entypo-right-open-big right"></span>
+                            From Bench to Biotech: How to Kick Off a Biotech Start-up<span class="event-date">17.11.2014</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
-                                <img src="$ThemeDir/images/oesch.jpg">
-</div>
-                            <div class="large-7 columns">
-<p> 
-<b> Presentation  </b>
-</p>
-<p>
-Starting a biotech company: mistakes and other success factors
-</p>
-<p>
-Bruno Oesch, PhD, serial entrepreneur and Executive Chairman of Neurotune
-Co‐founder of Prionics, Neurotune and Malcisbo
-</p>
-<p>
-<b>Bruno Oesch, PhD, Dr. h.c.</b>  
-</p>
-<p> Bruno graduated from the ETH Zurich with a Master's degree in Natural Sciences. 
-For his PhD in prion diseases, he joined Prof. Charles Weissmann at the University of Zurich. 
-Later, he worked at the University of California in San Francisco in Prof. Stanley 
-Prusiner's Lab. Subsequently he established his own research group at the Brain 
-Research Institute of the University of Zurich, out of which Prionics was started. </p>                           
-<p> Bruno Oesch initiated Neurotune as a spin‐off from Prionics AG in 2005.
-Since the start of the company he served as the Chairman of the 
-Board of directors. 2009/10 he also was CEO and currently acts as Executive Chairman,
- strongly involved in the strategy of Neurotune as well as business development.</p>
-<p> Previously, Bruno also co‐founded Prionics AG as a spin-off from the University of Zurich in early 1997 and acted as Co‐CEO, Head of R & D and Chairman of the Board of Prionics.</p>
-</div>
-                        </div>
-                    </li>
-  
-
-
-
-                  <li>
-                        <a href="#" class="toggle">
-                            Prof Georg von Krogh on Open Innovation <span class="event-date">14.5.2014 - 18:30 ieLab LEO B8.1    </span><span class="entypo-right-open-big right"></span>
-                        </a>
-                         <div class="row event-description">
-                            <div class="large-5 columns event-picture">
-                                <a class="button centered" href="https://www.facebook.com/events/1393055337621436/" target="_blank">View Event on Facebook</a>
+                                <a class="button centered" href="https://www.facebook.com/events/767407533320710" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                            <p>
-                                Join us together with our special guest Prof. Georg von Krogh for a thrilling discussion on “Open Innovation”. 
-</p><p>
-A paradigmatic shift is taking place in research and development. Companies are more and more reaching out to get the best ideas, best know-how and best technology to produce the products of the future. But how does this work in practice? What consequences does it have for startups and does it work at all? These and other questions we will discuss with after a short introduction by Prof von Krogh on the topic over pizza and drinks. 
-</p><p>
-
-Georg von Krogh is a Professor of ETH Zurich and holds the Chair of Strategic Management and Innovation. His research interests lie in the fields of competitive strategy, technological innovation, and knowledge management. He has been Visiting Professor at MIT’s Sloan School of Management, is an Honorary Research Fellow at Cambridge’s Judge Business School and holder of many prestigious awards such as the Association of American Publishers' "Best Professional Business Book Award", Harvard Business Review's "Breakthrough Idea" and many others. 
-       </p>                     </div>
-                        </div>
-                    </li>
-
-                        <li>
-                        <a href="#" class="toggle">
-                            Biotech Startup Tour Basel: 4-Antibody, Bioversys and NBE Therapeutics <span class="event-date">15.5.2014 - Basel </span><span class="entypo-right-open-big right"></span>
-                        </a>
-                         <div class="row event-description">
-                            <div class="large-5 columns event-picture">
-                                <a class="button centered" href="https://www.facebook.com/events/447126152083110/" target="_blank">View Event on Facebook</a>
-                            </div>
-                            <div class="large-7 columns">
-                            <p>
-                                You are a scientist and would like to know how to implement your scientific background in something new, innovative and/or practical? 
-You ask yourself how a career outside academia can look like?
-</p><p>
-Then join us in our Startup Tour in Basel! We will visit the Technology Park Basel (<a href="http://www.technologiepark-basel.ch/">http://www.technologiepark-basel.ch/</a>) where the startups 4-Antibiotics, BIOVERSYS and NBE-Therapeutics will present themselves. 
-</p><p>
-Learn what problems they faced when they started their ventures, what possibilities you have to get a suitable infrastructure and funding for your ideas and get the possibility to ask all questions you have!
-
-</p><p>
-
-Marc van Dijk (CTO) will present 4-Antibiotics which has a fully-human antibody drug-discovery platform generating antibody therapeutics focused on cancer immunotherapy.
-</p><p>
-
-<a href="http://www.4-antibody.com/home.cfm"> http://www.4-antibody.com/home.cfm</a>
-</p><p>
-
-
-Marc Gitzinger (CEO, Cofounder) will present the biopharmaceutical ETH spinoff BIOVERSYS. The company focuses on research and the development of new drugs and compounds, which switch-off drug resistance within bacterial pathogens and restore the efficacy of approved antibiotics.
-</p><p>
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=yZpafaIka_U">http://www.youtube.com/watch?feature=player_embedded&v=yZpafaIka_U</a>
-</p><p>
-
-<a href="http://www.bioversys.com/">http://www.bioversys.com/</a>
-
-</p><p>
-
-Urs Grawunder (Founder) will present NBE Therapeutics, which are working on anti-body drug development and are financially backed by the prestigious Boehringer-Ingelheim Fonds.
-</p><p>
-
-<a href="http://www.nbe-therapeutics.com/template/tecnology_background.php">http://www.nbe-therapeutics.com/template/tecnology_background.php</a>
-</p><p>
-
-<a href="http://www.nbe-therapeutics.com/">http://www.nbe-therapeutics.com/</a>
-</p>
+                            <p>More details to follow soon...</p>
                             </div>
                         </div>
                     </li>
-                    
-    <li>
+                    <li>
                         <a href="#" class="toggle">
-                            EC Lab<span class="event-date">21.5.2014 - 19:00 - ieLab LEO B8.1</span> <span class="entypo-right-open-big right"></span>
+                            Ask the Spin-off PROs<span class="event-date">19.11.2014</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
-                                <a class="button centered" href="https://www.facebook.com/events/1444479875782201/" target="_blank">View Event on Facebook</a>
+                                <a class="button centered" href="https://www.facebook.com/events/356377947843126/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-                                            Do you have a business idea and want to informally talk about it with other entrepreneurs? 
-</p>
-<p>
-                            Are you interested in starting your own business but don't have the right idea yet or are still looking for a team? 
-</p>
-<p>
-Then this is the event you should attend. 
-</p>
-<p>
-It is nothing more than an informal gathering of entrepreneurial people where you can chat about your ideas, businesses and everything related. 
-</p>
-<p>
-Don't miss out!
-</p>
-<p>
-Some drinks and snacks will be provided.
-   </p>
+                            <p>More details to follow soon...</p>
                             </div>
                         </div>
                     </li>
-
- <li>
+                    <li>
                         <a href="#" class="toggle">
-                            HackZurich // 40 Hours // 300 Hackers<span class="event-date">10-12.10.2014 - Technopark Zurich</span> <span class="entypo-right-open-big right"></span>
+                            EC Lab with Sensirion<span class="event-date">20.11.2014</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
-                   
-                                <img src="$ThemeDir/images/HackZurichLogo_blue.png">        
-			<a class="button centered" href="http://hackzurich.com" target="_blank">Website</a>
-				    <a class="button centered" href="http://www.facebook.com/hackzurich" target="_blank">Facebook Page</a>
+                                <a class="button centered" href="https://www.facebook.com/events/1452300718391739/" target="_blank">View Event on Facebook</a>
                             </div>
                             <div class="large-7 columns">
-<p> <b>  40 Hours // 300 Hackers // 10-12. Oct 2014  </b> </p>                        
-<p>
-HackZurich will be the largest hackathon Switzerland has ever seen. A hackathon is an event where motivated people team up to brainstorm an idea and implement it in real software during a 40 hours non-stop hacking marathon. During the hackathon you will have an exciting opportunity to create an innovative web service, mobile app – or whatever else – that is ready to disrupt the market. It’s also a great place to meet the team of your dream if you don’t have one yet: people of different profiles – entrepreneurs, programmers and designers will all be there. What’s more exciting, you will immediately get a real collaboration experience with your new partners.
-</p>
-<p>
-Whether you're starting from the basics or exploring the depths of your technical knowledge, HackZurich is a prime time to develop something new, explore that ambitious craving in your head, or just work on something you don't normally work on. If you are as excited as we are, please leave your email address on our <b><a href="http://hackzurich.com">website</a></b> or like our <b><a href="http://facebook.com/hackzurich">Facebook Page</a></b> so we can keep you informed. Check our website regularly as we will release more details about the event soon. Contact us via email under <b>sponsor@hackzurich.com</b> if you are interested in co-sponsoring this event. For any other questions you can reach us under <b>info@hackzurich.com</b>.
-
-</p>
-
-
-
-
-    </div>
+                            <p>More details to follow soon...</p>
+                            </div>
                         </div>
                     </li>
-
-
-
+                    <li>
+                        <a href="#" class="toggle">
+                            Lunch Pitch<span class="event-date">26.11.2014</span> <span class="entypo-right-open-big right"></span>
+                        </a>
+                        <div class="row event-description">
+                            <div class="large-5 columns event-picture">
+                                <a class="button centered" href="https://www.facebook.com/events/1474805299446066" target="_blank">View Event on Facebook</a>
+                            </div>
+                            <div class="large-7 columns">
+                            <p>More details to follow soon...</p>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <a href="#" class="toggle">
+                            EC Lab<span class="event-date">4.12.2014</span> <span class="entypo-right-open-big right"></span>
+                        </a>
+                        <div class="row event-description">
+                            <div class="large-5 columns event-picture">
+                                <a class="button centered" href="https://www.facebook.com/events/668191223279327/" target="_blank">View Event on Facebook</a>
+                            </div>
+                            <div class="large-7 columns">
+                            <p>More details to follow soon...</p>
+                            </div>
+                        </div>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -610,73 +366,59 @@ Whether you're starting from the basics or exploring the depths of your technica
                 <p>The Advisory Board consists of representatives of ETH Zurich and the startup community, as well as venture capitalists. They assist the Executive Committee with defining the strategic direction of the club.
                 </p>
             </div>
-            <div class="large-12 columns">
-                <ul class="large-block-grid-3">
-                    <li>
-                        <div class="person-card">
-                            <div class="person-image" style="background-image: url($ThemeDir/images/siegwart.jpg)"></div>
-                            <div>
-                                <h4>Prof. Dr. Roland Y. Siegwart</h4>
-                                <p>Vice President Research and Corporate Relations ETH Zürich</p>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="person-card">
-                            <div class="person-image" style="background-image: url($ThemeDir/images/hoelling.jpg)"></div>
-                            <div>
-                                <h4>Dr. Matthias Hölling</h4>
-                                <p>ETH Transfer</p>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="person-card">
-                            <div class="person-image" style="background-image: url($ThemeDir/images/daniel_auerbach.jpg)"></div>
-                            <div>
-                                <h4>Dr. Daniel Auerbach</h4>
-                                <p>Industry Relations, ETH Zürich Foundation</p>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="person-card">
-                            <div class="person-image" style="background-image: url($ThemeDir/images/spiegel2.jpg)"></div>
-                            <div>
-                                <h4>Lesley Spiegel</h4>
-                                <p>Entrepreneur and Start-up Coach</p>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="person-card">
-                            <div class="person-image" style="background-image: url($ThemeDir/images/illic3.jpg)"></div>
-                            <div>
-                                <h4>Dr. Alexander Ilic</h4>
-                                <p>Founder, CTO, and Chairman of the Board of Dacuda</p>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="person-card">
-                            <div class="person-image" style="background-image: url($ThemeDir/images/mark-small.jpg)"></div>
-                            <div>
-                                <h4>Mark Schmitz</h4>
-                                <p>Partner &amp; General Counsel, Lakestar</p>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="person-card">
-                            <div class="person-image" style="background-image: url($ThemeDir/images/grolimund.jpg)"></div>
-                            <div>
-                                <h4>Dominik Grolimund</h4>
-                                <p>Entrepreneur</p>
-                            </div>
-                        </div>
-                    </li>
-                </ul>
             </div>
+            <div class="cards">
+            <div class="cards-canvas">
+                    <div class="card person-card">
+                        <div class="person-image" style="background-image: url($ThemeDir/images/siegwart.jpg)"></div>
+                        <div>
+                            <h4>Prof. Dr. Roland Y. Siegwart</h4>
+                            <p>Vice President Research and Corporate Relations ETH Zürich</p>
+                        </div>
+                    </div>
+                    <div class="card person-card">
+                        <div class="person-image" style="background-image: url($ThemeDir/images/hoelling.jpg)"></div>
+                        <div>
+                            <h4>Dr. Matthias Hölling</h4>
+                            <p>ETH Transfer</p>
+                        </div>
+                    </div>
+                    <div class="card person-card">
+                        <div class="person-image" style="background-image: url($ThemeDir/images/daniel_auerbach.jpg)"></div>
+                        <div>
+                            <h4>Dr. Daniel Auerbach</h4>
+                            <p>Industry Relations, ETH Zürich Foundation</p>
+                        </div>
+                    </div>
+                    <div class="card person-card">
+                        <div class="person-image" style="background-image: url($ThemeDir/images/spiegel2.jpg)"></div>
+                        <div>
+                            <h4>Lesley Spiegel</h4>
+                            <p>Entrepreneur and Start-up Coach</p>
+                        </div>
+                    </div>
+                    <div class="card person-card">
+                        <div class="person-image" style="background-image: url($ThemeDir/images/illic3.jpg)"></div>
+                        <div>
+                            <h4>Dr. Alexander Ilic</h4>
+                            <p>Founder, CTO, and Chairman of the Board of Dacuda</p>
+                        </div>
+                    </div>
+                    <div class="card person-card">
+                        <div class="person-image" style="background-image: url($ThemeDir/images/mark-small.jpg)"></div>
+                        <div>
+                            <h4>Mark Schmitz</h4>
+                            <p>Partner &amp; General Counsel, Lakestar</p>
+                        </div>
+                    </div>
+                    <div class="card person-card">
+                        <div class="person-image" style="background-image: url($ThemeDir/images/grolimund.jpg)"></div>
+                        <div>
+                            <h4>Dominik Grolimund</h4>
+                            <p>Entrepreneur</p>
+                        </div>
+                    </div>
+                </div>
         </div>
 <%--         <div class="big-information">
             <div class="row">
