@@ -85,7 +85,8 @@
             <ul class="like-blocks">
                 <li><a href="http://www.facebook.com/entrepreneur.club.zurich" target="_blank"><span class="mr10 entypo-facebook"></span> Like <span class="hide-for-small-span">on Facebook</span></a></li>
                 <li><a href="https://twitter.com/ec_zurich" target="_blank"><span class="mr10 entypo-twitter"></span> Follow <span class="hide-for-small-span">@ec_zurich on Twitter</span></a></li>
-                <li><a href="#join"><span class="mr10 entypo-newspaper"></span> Subscribe <span class="hide-for-small-span">to our newsletter(s)</span></a></li>
+                <li><a href="#join"><span class="mr10 entypo-mail"></span> Subscribe <span class="hide-for-small-span">to our newsletter(s)</span></a></li>
+                <li><a href="http://blog.entrepreneur-club.org" target="_blank"><span class="mr10 entypo-newspaper"> <span class="hide-for-small-span">Read our </span>Blog</a></li>
             </ul>
         </div>
     </section>
@@ -418,33 +419,33 @@
             <div class="cards-canvas">
                 <div class="card walderwyss">
                     <a href="http://www.walderwyss.com/" target="_blank">
-                        <div class="card-image"></div>
+                        <div class="card-image">BASIC</div>
                         <div class="card-description">Walder Wyss Rechtsanwälte</div>
                     </a>
                 </div>
                 <div class="card ubs">
                     <a href="http://www.ubs.ch/" target="_blank">
-                        <div class="card-image"></div>
+                        <div class="card-image">PREMIUM</div>
                         <div class="card-description">UBS</div>
                     </a>
                 </div>
                 <div class="card ifj">
                     <a href="http://www.ifj.ch/" target="_blank">
-                        <div class="card-image"></div>
+                        <div class="card-image">PREMIUM</div>
                         <div class="card-description">Institut für Jungunternehmen</div>
                     </a>
                 </div>
                <div class="card bcg">
                     <a href="http://www.bcg.ch/" target="_blank">
-                        <div class="card-image"></div>
+                        <div class="card-image">PREMIUM</div>
                         <div class="card-description">BCG</div>
                     </a>
                 </div>
 
                 <div class="card revi">
                     <a href="http://www.revicons.ch/" target="_blank">
-                        <div class="card-image"></div>
-                        <div class="card-description">Revicons</div>
+                        <div class="card-image">BASIC</div>
+                        <div class="card-description">ReviCons</div>
                     </a>
                 </div>
             </div>
@@ -544,7 +545,7 @@
                 <h1>Join</h1>
                 <p>Become a Member of the Entrepreneur Club and receive our newsletter!</p>
 
-                <form action="http://entrepreneur-club.us6.list-manage2.com/subscribe/post?u=ae86c94391&amp;id=336123add6" method="post" id="member-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<%--                 <form action="http://entrepreneur-club.us6.list-manage2.com/subscribe/post?u=ae86c94391&amp;id=336123add6" method="post" id="member-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                     <h2>Membership</h2>
                     <!-- Begin MailChimp Signup Form -->
                     <div id="mc_embed_signup">
@@ -619,12 +620,13 @@
                         </div>
                     </div>
                 </form>
-                <!--End mc_embed_signup-->
+ --%>                <!--End mc_embed_signup-->
 
                 <!-- Begin MailChimp Signup Form -->
                 <form action="http://entrepreneur-club.us6.list-manage2.com/subscribe/post?u=ae86c94391&amp;id=336123add6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" style="border: 2px solid #ccc; padding: 10px;" class="validate" target="_blank" novalidate>
-                    <h4>Newsletter only</h4>
-                    <p>If you only want to receive our public newsletter:</p>
+                    <h4>Newsletter</h4>
+                    <%-- <p>If you only want to receive our public newsletter:</p> --%>
+                    <p>Sign up for our newsletter!</p>
                     <div id="mc_embed_signup">
                         <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Your E-Mail" required>
                         <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
