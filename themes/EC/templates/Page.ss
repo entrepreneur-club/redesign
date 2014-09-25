@@ -10,6 +10,7 @@
     <meta name="keywords" content="entrepreneur club zurich startup scene szene startups meetup hackathon startup speed dating events" />
     <% require themedCSS("style") %>
     <% require themedCSS("jquery.bxslider") %>
+    <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

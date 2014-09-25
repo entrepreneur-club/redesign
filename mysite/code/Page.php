@@ -164,7 +164,6 @@ class Page_Controller extends ContentController {
 			"themes/EC/js/jquery.bxslider.js",
 			"themes/EC/js/ec.js"
 		));
-		Requirements::javascript("https://code.jquery.com/jquery-1.10.1.min.js");
 	}
 
 }
