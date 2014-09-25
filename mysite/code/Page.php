@@ -14,7 +14,7 @@ class Advisor extends DataObject {
 	);
 
 	public function getCMSFields() {
-		$uf = new UploadField("CardImage");
+		$uf = new UploadField("AdvisorImage");
 		$uf->setFolderName('Advisors');
 		return new FieldList(
 			new TextField("Name"),
