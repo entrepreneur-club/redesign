@@ -159,7 +159,6 @@ class Page_Controller extends ContentController {
 		parent::init();
 
 		Requirements::combine_files("ec.js", array(
-			"themes/EC/sass/foundation/js/vendor/jquery.js",
 			"themes/EC/sass/foundation/js/foundation/foundation.js",
 			"themes/EC/sass/foundation/js/foundation/foundation.topbar.js",
 			"themes/EC/js/jquery.easing.1.3.js",
