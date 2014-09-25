@@ -1,7 +1,9 @@
 $(document).foundation();
 
 $(document).ready(function() {
-    $('.slider').bxSlider({auto: true, easing: "ease-in-out", useCSS: true, mode: 'fade'});
+    if($('.slider')[0].children.length > 1) {
+        $('.slider').bxSlider({auto: true, easing: "ease-in-out", useCSS: true, mode: 'fade'});    
+    }
 
     var allPanels = $("#events-accordion .event-description").hide();
     var scrollkeeperblocker = false;

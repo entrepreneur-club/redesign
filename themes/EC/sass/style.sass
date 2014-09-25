@@ -10,9 +10,6 @@ $topbar-menu-icon-color: #333
 $topbar-menu-link-color-toggled: #E30023
 $topbar-menu-icon-color-toggled: #E30023
 
-
-
-
 $primary-color: #E30023
 @import "foundation/scss/foundation.scss"
 @import url(http://weloveiconfonts.com/api/?family=entypo)
@@ -85,6 +82,8 @@ body
 	height: 60px
 	margin-top: 0
 	// margin-left: -20px
+	// background: image-url("logo.png")
+	
 
 .super-row
 	width: 100%
@@ -132,6 +131,12 @@ body
 	background: url('../images/HD-Landscape-Wallpaper1.jpg') center center
 	+background-size(cover)
 
+.small-slide
+	height: 300px
+
+.image-slider-small
+	height: 300px
+
 a .slider-message p
 	color: #000
 .slider-message
@@ -161,7 +166,7 @@ a .slider-message p
 .top-bar .name h1 a
 	padding: 0
 	margin: 0
-
+	width: 100%
 .with-divider
 	border-top: 1px solid #CCC
 	// width: 90%
@@ -537,3 +542,12 @@ footer
 	margin-top: 30px
 	img
 		width: 100%
+
+#blogholder
+	margin-top: 50px
+
+.blogEntry
+	img
+		width: 100%
+	.postTitle
+		margin-top: 20px
