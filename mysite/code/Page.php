@@ -126,7 +126,6 @@ class OnePagerPage extends Page {
 	}
 }
 
-class OnePagerPage_Controller extends Page_Controller {}
 
 class Page extends SiteTree {
 	private static $db = array(
@@ -170,3 +169,6 @@ class Page_Controller extends ContentController {
 	}
 
 }
+
+
+class OnePagerPage_Controller extends Page_Controller {}
