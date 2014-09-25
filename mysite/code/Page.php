@@ -67,7 +67,8 @@ class Event extends DataObject {
 		"FacebookLink" => "Varchar(255)",
 		"Date" => "Date",
 		"EndDate" => "Date",
-		"Location" => "Varchar(255)"
+		"Location" => "Varchar(255)",
+		"Time" => "Time"
 	);
 	private static $has_one = array(
 		"ParentPage" => "Page",
@@ -76,11 +77,18 @@ class Event extends DataObject {
 
 	public function getCMSFields() {
 		DateField::set_default_config('showcalendar', true);
+		$tf = new TimeField("Time");
+		$tf->setConfig('timeformat', 'HH:mm');
+
+		$uf = new UploadField("Image");
+		$uf->setFolderName("EventImages");
+		
 		return new FieldList(
 			new TextField("Title"),
 			new TextField("FacebookLink"),
-			new UploadField("Image"),
+			$uf,
 			new DateField("Date"),
+			$tf,
 			new DateField("EndDate", "End Date if multiple days (otherwise leave empty)"),
 			new TextField("Location"),
 			new HTMLEditorField("Description")

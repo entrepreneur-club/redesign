@@ -135,6 +135,9 @@
                             <% else %>
                                 $Date.Format('d.m.Y')
                             <% end_if %>
+                            <% if $Time %>
+                                $Time
+                            <% end_if %>
                                  — $Location</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
