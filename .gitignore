@@ -9,3 +9,6 @@ silverstripe-cache
 .idea
 .DS_Store
 vendor/
+.htaccess
+mysite/_config.php
+mysite/_config/*
