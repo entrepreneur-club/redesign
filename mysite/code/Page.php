@@ -124,8 +124,9 @@ class OnePagerPage extends Page {
 
 		return $fields;
 	}
-
 }
+
+class OnePagerPage_Controller extends Page_Controller {}
 
 class Page extends SiteTree {
 	private static $db = array(
