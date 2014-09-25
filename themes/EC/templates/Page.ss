@@ -8,7 +8,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:image" content="$ThemeDir/images/logo_for_fb_sharing.png" />
     <meta name="keywords" content="entrepreneur club zurich startup scene szene startups meetup hackathon startup speed dating events" />
-    <% require javascript("//code.jquery.com/jquery-1.11.0.min.js") %>
     <% require themedCSS("style") %>
     <% require themedCSS("jquery.bxslider") %>
 <script>

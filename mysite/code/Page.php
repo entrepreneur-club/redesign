@@ -157,7 +157,6 @@ class Page_Controller extends ContentController {
 
 	public function init() {
 		parent::init();
-		Requirements::javascript("https://code.jquery.com/jquery-1.10.1.min.js");
 		Requirements::combine_files("ec.js", array(
 			"themes/EC/sass/foundation/js/foundation/foundation.js",
 			"themes/EC/sass/foundation/js/foundation/foundation.topbar.js",
@@ -165,6 +164,7 @@ class Page_Controller extends ContentController {
 			"themes/EC/js/jquery.bxslider.js",
 			"themes/EC/js/ec.js"
 		));
+		Requirements::javascript("https://code.jquery.com/jquery-1.10.1.min.js");
 	}
 
 }
