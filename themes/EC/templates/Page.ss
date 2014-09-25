@@ -132,14 +132,14 @@
                         <a href="#" class="toggle">
                             $Title <span class="event-date">
                             <% if $EndDate %>
-                                $Date.Format('d.') - $EndDate.Format('d.m.Y')
+                                $Date.Format('d.') — $EndDate.Format('d.m.Y')
                             <% else %>
                                 $Date.Format('d.m.Y')
                             <% end_if %>
                             <% if $Time %>
-                                $Time
+                                | $Time.Nice24
                             <% end_if %>
-                                 — $Location</span> <span class="entypo-right-open-big right"></span>
+                                 | $Location</span> <span class="entypo-right-open-big right"></span>
                         </a>
                         <div class="row event-description">
                             <div class="large-5 columns event-picture">
