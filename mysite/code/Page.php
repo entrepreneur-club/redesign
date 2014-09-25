@@ -82,7 +82,7 @@ class Event extends DataObject {
 
 		$uf = new UploadField("Image");
 		$uf->setFolderName("EventImages");
-		
+
 		return new FieldList(
 			new TextField("Title"),
 			new TextField("FacebookLink"),
@@ -157,8 +157,15 @@ class Page_Controller extends ContentController {
 
 	public function init() {
 		parent::init();
-		// You can include any CSS or JS required by your project here.
-		// See: http://doc.silverstripe.org/framework/en/reference/requirements
+
+		Requirements::combine_files("ec.js", array(
+			"themes/EC/sass/foundation/js/vendor/jquery.js",
+			"themes/EC/sass/foundation/js/foundation/foundation.js",
+			"themes/EC/sass/foundation/js/foundation/foundation.topbar.js",
+			"themes/EC/js/jquery.easing.1.3.js",
+			"themes/EC/js/jquery.bxslider.js",
+			"themes/EC/js/ec.js"
+		));
 	}
 
 }

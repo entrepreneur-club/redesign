@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <% base_tag %>
-    <title>ETH Entrepreneur Club | Zurich</title>
+    <title>$SiteTitle</title>
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic' rel='stylesheet' type='text/css'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:image" content="$ThemeDir/images/logo_for_fb_sharing.png" />
