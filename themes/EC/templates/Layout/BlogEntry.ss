@@ -16,10 +16,10 @@
     </div>
     </div>
 </div>
-<section class="image-slider">
+<section class="image-slider image-slider-small">
     <ul class="slider">
         <li>
-            <div class="slide" style="background-image: url($ThemeDir/images/HD-Landscape-Wallpaper1.jpg);">
+            <div class="slide small-slide" style="background: #E01B3F;">
                 <div class="row slider-message-row">
                     <div class="slider-message large-5">
                         <h2>Blog</h2>
