@@ -49,7 +49,7 @@ class Card extends DataObject {
 		return new FieldList(
 			new TextField("Name"),
 			new TextField("URL"),
-			new TextField("SponsoringType"),
+			new TextField("SponsorType"),
 			new ColorField('BackgroundColor'),
 			$uf
 		);
@@ -104,6 +104,10 @@ class OnePagerPage extends Page {
 		'Advisors' => 'Advisor'
 	);
 
+	private static $has_one = array(
+		"ComitteeImage" => "Image"
+	);
+
 	public function getCMSFields() {
 		$fields = parent::getCMSFields();
 
@@ -121,6 +125,9 @@ class OnePagerPage extends Page {
 		$gridField4 = new GridField('advisors', 'Advisors', $this->Advisors(), $conf);
 		$fields->addFieldToTab('Root.Advisors', $gridField4);
 
+		$uf = new UploadField("ComitteeImage");
+		$uf->setFolderName("ComitteeImages");
+		$fields->addFieldToTab("Root.Main", $uf, "Content");
 
 		return $fields;
 	}

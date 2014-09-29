@@ -79,7 +79,9 @@
             </div>
             </div>
             <div class="large-6 columns">
-                <img src="$ThemeDir/images/EC_SS14_team_web.jpg" alt="Team">
+
+<%--                 <img src="$ThemeDir/images/EC_SS14_team_web.jpg" alt="Team">
+ --%>                <img src="$ComitteeImage.URL" alt="Team">
                 <!--<h4>Old comittees</h4>
                 <p>
                     <ul class="side-nav">
