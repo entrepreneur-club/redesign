@@ -1,6 +1,5 @@
 <?php
 
-
 class Advisor extends DataObject {
 	private static $default_sort = "SortOrder";
 	private static $db = array(
@@ -21,7 +20,6 @@ class Advisor extends DataObject {
 			new TextField("Position"),
 			$uf
 		);
-		// return parent::getCMSFields();
 	}
 
 }
