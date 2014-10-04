@@ -42,7 +42,7 @@
 <section id="blogholder">
     <% if BlogEntries %>
         <div class="row">
-        <% loop BlogEntries %>
+        <% loop LiveBlogEntries %>
             <div class="large-6 columns">
             <% include BlogSummary %>
             </div>

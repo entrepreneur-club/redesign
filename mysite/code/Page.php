@@ -160,6 +160,10 @@ class Page_Controller extends ContentController {
 	private static $allowed_actions = array (
 	);
 
+	public function getLiveBlogEntries() {
+		return Versioned::get_by_stage('BlogEntry', 'Live')->sort('Date', 'ASC');
+	}
+
 	public function init() {
 		parent::init();
 		Requirements::combine_files("ec.js", array(
