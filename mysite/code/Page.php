@@ -161,7 +161,7 @@ class Page_Controller extends ContentController {
 	);
 
 	public function getLiveBlogEntries() {
-		return Versioned::get_by_stage('BlogEntry', 'Live')->sort('Date', 'ASC');
+		return Versioned::get_by_stage('BlogEntry', 'Live')->sort('Date', 'DESC');
 	}
 
 	public function init() {
