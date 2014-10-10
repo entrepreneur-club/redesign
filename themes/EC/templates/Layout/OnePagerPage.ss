@@ -100,7 +100,7 @@
                 <h1>Our Events</h1>
             </div>
             <div class="large-4 columns right-events-link">
-                <a href="http://www.google.com/calendar/render?cid=https%3A%2F%2Fwww.google.com%2Fcalendar%2Ffeeds%2Fpr%2540entrepreneur-club.org%2Fpublic%2Fbasic" target="_blank"><img src="//www.google.com/calendar/images/ext/gc_button1.gif" border=0></a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="https://www.google.com/calendar/embed?src=2f53kjko5ald9kjamvf13nj8m0%40group.calendar.google.com&ctz=Europe/Amsterdam" target="_blank"><img src="//www.google.com/calendar/images/ext/gc_button1.gif" border=0></a>&nbsp;&nbsp;&nbsp;&nbsp;
                 <a class="right" href="http://www.facebook.com/entrepreneur.club.zurich/events" target="_blank">View on Facebook</a>
             </div>
             <div class="large-12 columns">
