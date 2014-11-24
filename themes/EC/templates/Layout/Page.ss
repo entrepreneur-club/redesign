@@ -43,17 +43,6 @@
                     </div>
                 </div>
             </li>
-
-            <li>
-                <div class="slide" style="background-image: url($ThemeDir/images/cofoundme.png);">
-                    <div class="row slider-message-row">
-                        <div class="slider-message large-5">
-                            <h2><a href="https://www.cofoundme.org/">Register at Cofoundme.org</a></h2>
-                            <p>Cofoundme brings together startups that are looking for new team members with people that are looking for a new challenge!</p>
-                        </div>
-                    </div>
-                </div>
-            </li>
             
         </ul>
 <!--         <div class="slider-absolute-container">
