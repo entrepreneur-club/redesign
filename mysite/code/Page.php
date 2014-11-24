@@ -171,6 +171,7 @@ class Page_Controller extends ContentController {
 			"themes/EC/sass/foundation/js/foundation/foundation.topbar.js",
 			"themes/EC/js/jquery.easing.1.3.js",
 			"themes/EC/js/jquery.bxslider.js",
+			"themes/EC/js/retina.js",
 			"themes/EC/js/ec.js"
 		));
 	}
