@@ -1,0 +1,6 @@
+[submodule "blog"]
+	path = blog
+	url = git://github.com/silverstripe/silverstripe-blog.git
+[submodule "betterbuttons"]
+	path = betterbuttons
+	url = git://github.com/unclecheese/silverstripe-gridfield-betterbuttons.git
