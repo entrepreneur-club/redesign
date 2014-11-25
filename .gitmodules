@@ -4,3 +4,15 @@
 [submodule "betterbuttons"]
 	path = betterbuttons
 	url = git://github.com/unclecheese/silverstripe-gridfield-betterbuttons.git
+[submodule "colorpicker"]
+	path = colorpicker
+	url = git://github.com/tractorcow/silverstripe-colorpicker.git
+[submodule "gridfieldextensions"]
+	path = gridfieldextensions
+	url = git://github.com/ajshort/silverstripe-gridfieldextensions.git
+[submodule "themes/EC/sass/foundation"]
+	path = themes/EC/sass/foundation
+	url = https://github.com/zurb/foundation
+[submodule "themes/simple"]
+	path = themes/simple
+	url = git://github.com/silverstripe-themes/silverstripe-simple.git
