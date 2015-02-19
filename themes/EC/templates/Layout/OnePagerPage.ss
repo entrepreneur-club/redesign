@@ -226,17 +226,18 @@
                 <h1>Join</h1>
                 <p>Become a Member of the Entrepreneur Club and receive our newsletter!</p>
 
-                <!-- Begin MailChimp Signup Form -->
-                <form action="http://entrepreneur-club.us6.list-manage2.com/subscribe/post?u=ae86c94391&amp;id=336123add6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" style="border: 2px solid #ccc; padding: 10px;" class="validate" target="_blank" novalidate>
+                <!-- Begin Insightly Signup Form -->
+                <form action="https://eth-ec.insight.ly/WebToContact/Create" method="post" id="member-form" name="insightly_web_to_contact" class="validate" novalidate style="border: 2px solid #ccc; padding: 10px;" target="_blank">
                     <h4>Newsletter</h4>
-                    <%-- <p>If you only want to receive our public newsletter:</p> --%>
                     <p>Sign up for our newsletter!</p>
                     <div id="mc_embed_signup">
-                        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Your E-Mail" required>
-                        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+                        <input type="hidden" name="formId" value="MlLaBNonLnFlfW1YCQ1XNQ==" />
+                        <input type="hidden" name="emails[0].Label" value="Work" />
+                        <input id="emails[0]_Value" name="emails[0].Value" type="text" />
+                        <input type="submit" value="Subscribe" class="button">
                     </div>
                 </form>
-                <!--End mc_embed_signup-->
+                <!--End Signup Form -->
                 <a href="become-a-member.html" class="button" style="width:100%;">Or sign up here to be a member now! →</a>
             </div>
             <div class="large-6 columns">
