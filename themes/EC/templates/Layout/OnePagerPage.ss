@@ -233,7 +233,7 @@
                     <div id="mc_embed_signup">
                         <input type="hidden" name="formId" value="MlLaBNonLnFlfW1YCQ1XNQ==" />
                         <input type="hidden" name="emails[0].Label" value="Work" />
-                        <input id="emails[0]_Value" name="emails[0].Value" type="text" />
+                        <input id="emails[0]_Value" name="emails[0].Value" type="text" placeholder="Your E-Mail" />
                         <input type="submit" value="Subscribe" class="button">
                     </div>
                 </form>
