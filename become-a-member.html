@@ -39,47 +39,44 @@
         </a>
       </div>
       <div class="form-container">
-        <form action="https://eth-ec.insight.ly/WebToContact/Create" method="post" id="member-form" name="insightly_web_to_contact" class="validate pure-form" novalidate>
+        <form action="https://eth-ec.insight.ly/WebToContact/Create" method="post" id="member-form" name="insightly_web_to_contact" class="validate pure-form">
           <h2>Membership</h2>
           <input type="hidden" name="formId" value="MlLaBNonLnFlfW1YCQ1XNQ==" />
 
-          <label for="insightly_firstName">First Name *: </label>
-          <input id="insightly_firstName" name="FirstName" type="text" />
+          <label for="insightly_firstName">First Name: </label>
+          <input id="insightly_firstName" name="FirstName" type="text" required/>
           
-          <label for="insightly_lastName">Last Name *: </label>
-          <input id="insightly_lastName" name="LastName" type="text" />
+          <label for="insightly_lastName">Last Name: </label>
+          <input id="insightly_lastName" name="LastName" type="text" required/>
 
-          <input type="hidden" name="emails[0].Label" value="Work" />
-          <label for="email[0]_Value">Email *: </label>
-          <input id="emails[0]_Value" name="emails[0].Value" type="text" />
+          <input type="hidden" name="emails[0].Label" value="Work" required/>
+          <label for="email[0]_Value">Email: </label>
+          <input id="emails[0]_Value" name="emails[0].Value" type="text" required/>
           
           <label for="insightly_organization">Organization: </label>
-          <input id="insightly_organization" name="Organization" type="text" />
+          <input id="insightly_organization" name="Organization" type="text" required/>
           
           <label for="insightly_role">Title: </label>
-          <input id="insightly_role" name="Role" type="text" />
+          <input id="insightly_role" name="Role" type="text" required/>
           
           <input type="hidden" name="phones[0].Label" value="Work" />
           <label for="phones[0]_Value">Phone: </label>
-          <input id="phones[0]_Value" name="phones[0].Value" type="text" />
+          <input id="phones[0]_Value" name="phones[0].Value" type="text" required/>
 
           <label for="CONTACT_FIELD_1">Gender</label>
-          <input id="CONTACT_FIELD_1" name="CONTACT_FIELD_1" type="text" />
+          <input id="CONTACT_FIELD_1" name="CONTACT_FIELD_1" type="text" required/>
           
           <label for="CONTACT_FIELD_2">University</label>
-          <input id="CONTACT_FIELD_2" name="CONTACT_FIELD_2" type="text" />
+          <input id="CONTACT_FIELD_2" name="CONTACT_FIELD_2" type="text" required/>
           
           <label for="CONTACT_FIELD_3">Field of Study</label>
-          <input id="CONTACT_FIELD_3" name="CONTACT_FIELD_3" type="text" />
+          <input id="CONTACT_FIELD_3" name="CONTACT_FIELD_3" type="text" required/>
 
           <input type="hidden" name="CONTACT_FIELD_6" value="open" />
           
           <label for="insightly_background">Additional background information: </label>
           <textarea id="insightly_background" name="background"></textarea>
 
-          <div class="indicates-required">
-            <p><small>* indicates required</small></p>
-          </div>
           <div class="clear">
             <input type="submit" value="Join" class="button">
           </div>
